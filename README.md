@@ -25,6 +25,13 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [6. Testing and Deployment](https://course.fullstackdeeplearning.com/course-content/testing-and-deployment)
   - [ ] [7. Research Areas](https://course.fullstackdeeplearning.com/course-content/testing-and-deployment)
 
+### Open-Source Contribution
+
+- [ ] [TextAttack](https://github.com/QData/TextAttack)
+- [ ] [Checklist](https://github.com/marcotcr/checklist)
+- [ ] [PET: Cloze Questions](https://github.com/timoschick/pet)
+
+
 ### Building strong NLP Fundamentals
 
 - [ ] [CS224N](http://web.stanford.edu/class/cs224n/)
