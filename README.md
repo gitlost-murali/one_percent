@@ -25,6 +25,40 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [6. Testing and Deployment](https://course.fullstackdeeplearning.com/course-content/testing-and-deployment)
   - [ ] [7. Research Areas](https://course.fullstackdeeplearning.com/course-content/testing-and-deployment)
 
+### Building strong NLP Fundamentals
+
+- [ ] [CS224N](http://web.stanford.edu/class/cs224n/)
+
+  - [ ] [1. Introduction and Word Vectors](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=1)
+  - [ ] [2. Word Vectors and Word Senses](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=2)
+  - [ ] [3. Neural Networks](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=3)
+  - [ ] [4. Backpropagation](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=4)
+  - [ ] [5. Dependency Parsing](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=5)
+  - [ ] [6. Language Models and RNNs](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=6)
+  - [ ] [7. Vanishing Gradients, Fancy RNNs](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=7)
+  - [ ] [8. Translation, Seq2Seq, Attention](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=8)
+  - [ ] [9. Practical Tips for Projects](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=9)
+  - [ ] [10. Question Answering](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=10)
+  - [ ] [11. Convolutional Networks for NLP](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=11)
+  - [ ] [12. Subword Models](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=12)
+  - [ ] [13. Contextual Word Embeddings](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=13)
+  - [ ] [14. Transformers and Self-Attention](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=14)
+  - [ ] [15. Natural Language Generation](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=15)
+  - [ ] [16. Coreference Resolution](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=16)
+  - [ ] [17. Multitask Learning](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=17)
+  - [ ] [18. Constituency Parsing, TreeRNNs](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=18)
+  - [ ] [19. Bias in AI](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=19)
+  - [ ] [20. Future of NLP + Deep Learning](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=20)
+
+- [ ] [Coursera NLP Specialization](https://www.coursera.org/specializations/natural-language-processing)
+
+  - [ ] [1. Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/learn/classification-vector-spaces-in-nlp)
+  - [ ] [2. Natural Language Processing with Probabilistic Models](https://www.coursera.org/learn/probabilistic-models-in-nlp)
+  - [ ] [3. Natural Language Processing with Sequence Models](https://www.coursera.org/learn/sequence-models-in-nlp)
+  - [ ] [4. Natural Language Processing with Attention Models](https://www.coursera.org/learn/attention-models-in-nlp)
+
+- [ ] [Book : Speech and Language Processing - Jurafsky](https://web.stanford.edu/~jurafsky/slp3/)
+
 ### Stay up-to-date in research
 
 - [ ] [NLP Checklist Paper](https://arxiv.org/abs/2005.04118)
