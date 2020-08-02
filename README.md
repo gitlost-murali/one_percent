@@ -31,6 +31,9 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Checklist](https://github.com/marcotcr/checklist)
 - [ ] [PET: Cloze Questions](https://github.com/timoschick/pet)
 
+### Up-to-date with NLP tools
+
+- [ ] [5 NLP Libraries Everyone Should Know | by Pawan Jain | Jul, 2020 | Towards Data Science: spaCy, NLTK, Transformers, Gensim, and Stanza](https://towardsdatascience.com/5-nlp-libraries-everyone-should-know-4f13f5263908)
 
 ### Building strong NLP Fundamentals
 
@@ -68,7 +71,15 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 
 ### Stay up-to-date in research
 
-- [ ] [NLP Checklist Paper](https://arxiv.org/abs/2005.04118)
+- [ ] [[Paper reading] NLP Checklist Paper](https://arxiv.org/abs/2005.04118)
+- [ ] [Ilya GPT-2 Talk](https://www.youtube.com/watch?v=T0I88NhR_9M)
+- [ ] [NLP Idiots](https://www.youtube.com/watch?v=f2m6Mon0VE8)
+- [ ] [[Paper reading] Let Me Choose: From Verbal Context to Font Selection](https://arxiv.org/abs/2005.01151)
+- [ ] [[Paper reading] Contextualized Weak Supervision for Text Classification](https://www.aclweb.org/anthology/2020.acl-main.30)
+- [ ] [[Paper reading] Finding Cross-lingual Syntax](https://ai.stanford.edu/blog/finding-crosslingual-syntax/)
+- [ ] [[Paper reading] Pre-train and Plug-in: Flexible Conditional Text Generation with Variational Auto-Encoders](https://www.youtube.com/watch?v=f2m6Mon0VE8)
+- [ ] [[Paper reading] Human Attention Maps for Text Classification: Do Humans and Neural Networks Focus on the Same Words?](https://www.aclweb.org/anthology/2020.acl-main.419)
+- [ ] [[Paper reading]  a language model you can add symbolic facts to! ](https://arxiv.org/abs/2007.00849)
 
   ### Increase attention time & Dopamine
 
