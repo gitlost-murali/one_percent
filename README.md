@@ -78,6 +78,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [X] [[Paper reading] NLP Checklist Paper](https://arxiv.org/abs/2005.04118)
 - [ ] [Ilya GPT-2 Talk](https://www.youtube.com/watch?v=T0I88NhR_9M)
 - [ ] [NLP Idiots](https://www.youtube.com/watch?v=f2m6Mon0VE8)
+- [ ] [Data Augmentation using PreTrained Models](https://www.youtube.com/watch?v=3N_a7LAU-pc&feature=youtu.be)
 - [ ] [[Paper reading] Let Me Choose: From Verbal Context to Font Selection](https://arxiv.org/abs/2005.01151)
 - [ ] [[Paper reading] Perturbation sensitivity analysis to detect **unintended model biases**](https://arxiv.org/abs/1910.04210)
 - [ ] [[Paper reading] Contextualized Weak Supervision for Text Classification](https://www.aclweb.org/anthology/2020.acl-main.30)
