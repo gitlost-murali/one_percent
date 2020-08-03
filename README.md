@@ -30,6 +30,9 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [TextAttack](https://github.com/QData/TextAttack)
 - [ ] [Checklist](https://github.com/marcotcr/checklist)
 - [ ] [PET: Cloze Questions](https://github.com/timoschick/pet)
+- [ ] [Gender Bias Checklist Module](https://github.com/freemiya)
+- [ ] [Redaction Module](https://github.com/freemiya)
+- [ ] [Grammar Correction Module](https://github.com/freemiya)
 
 ### Up-to-date with NLP tools
 
