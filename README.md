@@ -89,6 +89,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 
 - [X] [[Paper reading] NLP Checklist Paper](https://arxiv.org/abs/2005.04118)
 - [ ] [Ilya GPT-2 Talk](https://www.youtube.com/watch?v=T0I88NhR_9M)
+- [ ] [Tempering Expectations for GPT-3 and OpenAI’s API](https://minimaxir.com/2020/07/gpt3-expectations/)
 - [ ] [NLP Idiots](https://www.youtube.com/watch?v=f2m6Mon0VE8)
 - [ ] [Data Augmentation using PreTrained Models](https://www.youtube.com/watch?v=3N_a7LAU-pc&feature=youtu.be)
 - [ ] [[Paper reading] Let Me Choose: From Verbal Context to Font Selection](https://arxiv.org/abs/2005.01151)
