@@ -39,16 +39,17 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 
 ### Open-Source Contribution
 
-- [ ] [TextAttack](https://github.com/QData/TextAttack)
-- [ ] [Checklist](https://github.com/marcotcr/checklist)
-- [ ] [PET: Cloze Questions](https://github.com/timoschick/pet)
 - [ ] [Gender Bias Checklist Module](https://github.com/freemiya)
 - [ ] [Redaction Module](https://github.com/freemiya)
 - [ ] [Grammar Correction Module](https://github.com/freemiya)
+- [ ] [T5 Tasks]()
 
 ### Up-to-date with NLP tools
 
 - [ ] [5 NLP Libraries Everyone Should Know | by Pawan Jain | Jul, 2020 | Towards Data Science: spaCy, NLTK, Transformers, Gensim, and Stanza](https://towardsdatascience.com/5-nlp-libraries-everyone-should-know-4f13f5263908)
+- [ ] [TextAttack](https://github.com/QData/TextAttack)
+- [ ] [Checklist](https://github.com/marcotcr/checklist)
+- [ ] [PET: Cloze Questions](https://github.com/timoschick/pet)
 
 ### Building strong NLP Fundamentals
 
