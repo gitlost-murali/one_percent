@@ -9,6 +9,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 
 - [ ] [Dockers](https://www.youtube.com/watch?v=RSIstPUiEjY)
 - [ ] [Binder: Repo2Docker](https://zero-to-jupyterhub.readthedocs.io/en/latest/repo2docker.html)
+- [ ] [The Missing Semester](https://missing.csail.mit.edu/2020/)
 - [ ] [CI/CD pipeline](https://dzone.com/articles/learn-how-to-setup-a-cicd-pipeline-from-scratch)
 - [ ] [Kubernetes]()
 
@@ -74,10 +75,11 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 
 ### Stay up-to-date in research
 
-- [ ] [[Paper reading] NLP Checklist Paper](https://arxiv.org/abs/2005.04118)
+- [X] [[Paper reading] NLP Checklist Paper](https://arxiv.org/abs/2005.04118)
 - [ ] [Ilya GPT-2 Talk](https://www.youtube.com/watch?v=T0I88NhR_9M)
 - [ ] [NLP Idiots](https://www.youtube.com/watch?v=f2m6Mon0VE8)
 - [ ] [[Paper reading] Let Me Choose: From Verbal Context to Font Selection](https://arxiv.org/abs/2005.01151)
+- [ ] [[Paper reading] Perturbation sensitivity analysis to detect **unintended model biases**](https://arxiv.org/abs/1910.04210)
 - [ ] [[Paper reading] Contextualized Weak Supervision for Text Classification](https://www.aclweb.org/anthology/2020.acl-main.30)
 - [ ] [[Paper reading] Finding Cross-lingual Syntax](https://ai.stanford.edu/blog/finding-crosslingual-syntax/)
 - [ ] [[Paper reading] Pre-train and Plug-in: Flexible Conditional Text Generation with Variational Auto-Encoders](https://www.youtube.com/watch?v=f2m6Mon0VE8)
