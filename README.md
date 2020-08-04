@@ -88,12 +88,13 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 ### Stay up-to-date in research
 
 - [X] [[Paper reading] NLP Checklist Paper](https://arxiv.org/abs/2005.04118)
-- [ ] [Ilya GPT-2 Talk](https://www.youtube.com/watch?v=T0I88NhR_9M)
-- [ ] [Tempering Expectations for GPT-3 and OpenAI’s API](https://minimaxir.com/2020/07/gpt3-expectations/)
+- [X] [Ilya GPT-2 Talk](https://www.youtube.com/watch?v=T0I88NhR_9M)
 - [ ] [NLP Idiots](https://www.youtube.com/watch?v=f2m6Mon0VE8)
+- [ ] [Tempering Expectations for GPT-3 and OpenAI’s API](https://minimaxir.com/2020/07/gpt3-expectations/)
 - [ ] [Data Augmentation using PreTrained Models](https://www.youtube.com/watch?v=3N_a7LAU-pc&feature=youtu.be)
 - [ ] [[Paper reading] Let Me Choose: From Verbal Context to Font Selection](https://arxiv.org/abs/2005.01151)
 - [ ] [[Paper reading] Perturbation sensitivity analysis to detect **unintended model biases**](https://arxiv.org/abs/1910.04210)
+- [ ] [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
 - [ ] [[Paper reading] Contextualized Weak Supervision for Text Classification](https://www.aclweb.org/anthology/2020.acl-main.30)
 - [ ] [[Paper reading] Finding Cross-lingual Syntax](https://ai.stanford.edu/blog/finding-crosslingual-syntax/)
 - [ ] [[Paper reading] Pre-train and Plug-in: Flexible Conditional Text Generation with Variational Auto-Encoders](https://www.youtube.com/watch?v=f2m6Mon0VE8)
