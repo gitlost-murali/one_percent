@@ -10,7 +10,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Dockers](https://www.youtube.com/watch?v=RSIstPUiEjY)
 - [ ] [Binder: Repo2Docker](https://zero-to-jupyterhub.readthedocs.io/en/latest/repo2docker.html)
 - [ ] [The Missing Semester](https://missing.csail.mit.edu/2020/)
-  - [ ] [1. Course overview + the shell](https://missing.csail.mit.edu/2020/course-shell/)
+  - [X] [1. Course overview + the shell](https://missing.csail.mit.edu/2020/course-shell/)
   - [ ] [2. Shell Tools and Scripting](https://missing.csail.mit.edu/2020/shell-tools/)
   - [ ] [3. Editors (Vim)](https://missing.csail.mit.edu/2020/editors/)
   - [ ] [4. Data Wrangling](https://missing.csail.mit.edu/2020/data-wrangling/)
@@ -45,6 +45,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Redaction Module](https://github.com/freemiya)
 - [ ] [Grammar Correction Module](https://github.com/freemiya)
 - [ ] [T5 Tasks]()
+
 
 ### Up-to-date with NLP tools
 
@@ -104,7 +105,11 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [[Paper reading] Human Attention Maps for Text Classification: Do Humans and Neural Networks Focus on the Same Words?](https://www.aclweb.org/anthology/2020.acl-main.419)
 - [ ] [[Paper reading]  a language model you can add symbolic facts to! ](https://arxiv.org/abs/2007.00849)
 
-  ### Increase attention time & Dopamine
+### Financial Knowledge
+
+- [ ] [Let's Talk money](https://github.com/freemiya)
+
+### Increase attention time & Dopamine
 
 - [ ] [Book: Riot](https://www.goodreads.com/book/show/30842.Riot)
 - [ ] [Book: No Country for Old Men](https://www.goodreads.com/book/show/12497.No_Country_for_Old_Men)
