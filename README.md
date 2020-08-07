@@ -10,6 +10,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 
 - [ ] [Dockers](https://www.youtube.com/watch?v=RSIstPUiEjY)
 - [ ] [Binder: Repo2Docker](https://zero-to-jupyterhub.readthedocs.io/en/latest/repo2docker.html)
+- [ ] [Youtube: Jekyll - Static Site Generator](https://www.youtube.com/watch?v=T1itpPvFWHI&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=1)
 - [ ] [The Missing Semester](https://missing.csail.mit.edu/2020/)
   - [X] [1. Course overview + the shell](https://missing.csail.mit.edu/2020/course-shell/)
   - [ ] [2. Shell Tools and Scripting](https://missing.csail.mit.edu/2020/shell-tools/)
