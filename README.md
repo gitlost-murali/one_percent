@@ -90,7 +90,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 
 ### Stay up-to-date in research
 
--  Papers
+- [ ] [Papers](https://github.com/gitlost-murali/one_percent)
 
   - [X] [[Paper reading] NLP Checklist Paper](https://arxiv.org/abs/2005.04118)
   - [ ] [[Paper reading] Pre-train and Plug-in: Flexible Conditional Text Generation with Variational Auto-Encoders](https://www.youtube.com/watch?v=f2m6Mon0VE8)
