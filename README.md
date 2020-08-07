@@ -48,6 +48,13 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Grammar Correction Module](https://github.com/freemiya)
 - [ ] [T5 Tasks]()
 
+### Data Annotation strategies
+
+- [ ] [Snorkel: Dark Data and Machine Learning - Christopher Ré](https://www.youtube.com/watch?v=yu15Nf5eJEE)
+- [ ] [FAQ #1: Tips & tricks for NLP, annotation & training with Prodigy and spaCy](https://www.youtube.com/watch?v=tMAU3gLbKII)
+- [ ] [TRAINING A NEW ENTITY TYPE with Prodigy – annotation powered by active learning](https://www.youtube.com/watch?v=l4scwf8KeIA&feature=youtu.be)
+- [ ] [Training a NAMED ENTITY RECOGNITION MODEL with Prodigy and Transfer Learning](https://www.youtube.com/watch?v=59BKHO_xBPA&feature=youtu.be)
+
 
 ### Up-to-date with NLP tools
 
@@ -91,6 +98,8 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [4. Natural Language Processing with Attention Models](https://www.coursera.org/learn/attention-models-in-nlp)
 
 - [ ] [Book : Speech and Language Processing - Jurafsky](https://web.stanford.edu/~jurafsky/slp3/)
+
+- [ ] [Natural Language Processing - Jurafsky & Manning](https://www.youtube.com/watch?v=oWsMIW-5xUc&list=PLLssT5z_DsK8HbD2sPcUIDfQ7zmBarMYv)
 
 ### Stay up-to-date in research
 
