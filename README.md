@@ -56,6 +56,8 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 
 ### Building strong NLP Fundamentals
 
+- [X] [Video: Understanding ROC Curve](https://www.youtube.com/watch?v=4jRBRDbJemM)
+
 - [ ] [CS224N](http://web.stanford.edu/class/cs224n/)
 
   - [X] [1. Introduction and Word Vectors](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=1)
@@ -95,8 +97,8 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [X] [NLP Checklist Paper](https://arxiv.org/abs/2005.04118)
   - [ ] [Pre-train and Plug-in: Flexible Conditional Text Generation with Variational Auto-Encoders](https://www.youtube.com/watch?v=f2m6Mon0VE8)
   - [ ] [Human Attention Maps for Text Classification: Do Humans and Neural Networks Focus on the Same Words?](https://www.aclweb.org/anthology/2020.acl-main.419)
-  - [ ] [ a language model you can add symbolic facts to! ](https://arxiv.org/abs/2007.00849)
   - [ ] [AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models](https://arxiv.org/pdf/1909.09251.pdf)
+  - [ ] [A language model you can add symbolic facts to! ](https://arxiv.org/abs/2007.00849)
   - [ ] [Let Me Choose: From Verbal Context to Font Selection](https://arxiv.org/abs/2005.01151)
   - [ ] [Perturbation sensitivity analysis to detect **unintended model biases**](https://arxiv.org/abs/1910.04210)
   - [ ] [Contextualized Weak Supervision for Text Classification](https://www.aclweb.org/anthology/2020.acl-main.30)
@@ -109,7 +111,8 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 
 - [ ] [Blogs](https://github.com/gitlost-murali/one_percent)
   - [ ] [Why You Should Do NLP Beyond English](https://ruder.io/nlp-beyond-english/)
-  - [ ] [Simple Ways to Tackle Class Imbalance](https://app.wandb.ai/authors/class-imbalance/reports/Simple-Ways-to-Tackle-Class-Imbalance--VmlldzoxODA3NTk)
+  - [X] [Simple Ways to Tackle Class Imbalance](https://app.wandb.ai/authors/class-imbalance/reports/Simple-Ways-to-Tackle-Class-Imbalance--VmlldzoxODA3NTk)
+  - [ ] [Learning from imbalanced data](https://www.jeremyjordan.me/imbalanced-data/)
   - [ ] [Tempering Expectations for GPT-3 and OpenAI’s API](https://minimaxir.com/2020/07/gpt3-expectations/)
   - [ ] [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
   - [ ] [Finding Cross-lingual Syntax](https://ai.stanford.edu/blog/finding-crosslingual-syntax/)
