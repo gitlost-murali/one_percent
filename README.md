@@ -1,5 +1,6 @@
 # one_percent 
 [![HitCount](http://hits.dwyl.com/gitlost-murali/one_percent.svg)](http://hits.dwyl.com/gitlost-murali/one_percent)
+
 Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my progress here _everyday_.
 
 <p align="center">
