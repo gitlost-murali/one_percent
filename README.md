@@ -94,6 +94,8 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [X] [Ilya GPT-2 Talk](https://www.youtube.com/watch?v=T0I88NhR_9M)
 - [ ] [NLP Idiots](https://www.youtube.com/watch?v=f2m6Mon0VE8)
 - [ ] [Why You Should Do NLP Beyond English](https://ruder.io/nlp-beyond-english/)
+- [ ] [Amazon’s open-source tools make embedding knowledge graphs much more efficient](https://www.amazon.science/blog/amazons-open-source-tools-make-embedding-knowledge-graphs-much-more-efficient)
+- [ ] [Amazon Web Services open-sources biological knowledge graph to fight COVID-19](https://www.amazon.science/blog/amazon-web-services-open-sources-biological-knowledge-graph-to-fight-covid-19)
 - [ ] [Tempering Expectations for GPT-3 and OpenAI’s API](https://minimaxir.com/2020/07/gpt3-expectations/)
 - [ ] [Data Augmentation using PreTrained Models](https://www.youtube.com/watch?v=3N_a7LAU-pc&feature=youtu.be)
 - [ ] [[Paper reading] Let Me Choose: From Verbal Context to Font Selection](https://arxiv.org/abs/2005.01151)
