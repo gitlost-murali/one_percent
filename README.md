@@ -115,7 +115,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [A language model you can add symbolic facts to! ](https://arxiv.org/abs/2007.00849)
   - [ ] [Perturbation sensitivity analysis to detect **unintended model biases**](https://arxiv.org/abs/1910.04210)
 
-- [ ] [Talks](https://github.com/gitlost-murali/one_percent)
+- [ ] [Talks/Videos](https://github.com/gitlost-murali/one_percent)
   - [X] [Ilya GPT-2 Talk](https://www.youtube.com/watch?v=T0I88NhR_9M)
   - [ ] [NLP Idiots](https://www.youtube.com/watch?v=f2m6Mon0VE8)
   - [X] [Data Augmentation using PreTrained Models](https://www.youtube.com/watch?v=3N_a7LAU-pc&feature=youtu.be)
@@ -130,6 +130,10 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [Finding Cross-lingual Syntax](https://ai.stanford.edu/blog/finding-crosslingual-syntax/)
   - [ ] [Amazon’s open-source tools make embedding knowledge graphs much more efficient](https://www.amazon.science/blog/amazons-open-source-tools-make-embedding-knowledge-graphs-much-more-efficient)
   - [ ] [Amazon Web Services open-sources biological knowledge graph to fight COVID-19](https://www.amazon.science/blog/amazon-web-services-open-sources-biological-knowledge-graph-to-fight-covid-19)
+
+### Revisiting concepts with Summary Papers
+
+- [ ] [Text Classification Algorithms: A Survey](https://arxiv.org/pdf/1904.08067.pdf)
 
 ### Blog ideas
 
