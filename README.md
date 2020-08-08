@@ -137,7 +137,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 
 | **Title** | **Approach** | **Domain** |
 |---|---|---|
-| - [ ] [Semi-Supervised Learning with Deep Generative Models](https://arxiv.org/abs/1406.5298) | Semi-Supervised Learning | CV |
+| [Semi-Supervised Learning with Deep Generative Models](https://arxiv.org/abs/1406.5298) | Semi-Supervised Learning | CV |
 | [Learning and Transferring Mid-Level Image Representations using Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Oquab_Learning_and_Transferring_2014_CVPR_paper.pdf) | Transfer Learning | CV |
 | [How transferable are features in deep neural networks?](https://arxiv.org/abs/1411.1792) | Transfer Learning | CV |
 | [Skip-Thought Vectors](https://arxiv.org/abs/1506.06726) | Transfer/Representation Learning | NLP |
@@ -151,8 +151,8 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 | [Supervised Learning of Universal Sentence Representations from Natural Language Inference Data](https://arxiv.org/abs/1705.02364) | Transfer/Representation Learning | NLP |
 | [Good Semi-supervised Learning that Requires a Bad GAN](https://arxiv.org/abs/1705.09783) | Semi-Supervised Learning | CV |
 | [Snorkel: Rapid Training Data Creation with Weak Supervision](https://arxiv.org/abs/1711.10160) | Weak/Active Learning | Many |
-| [Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146) | Transfer Learning | NLP |
-| [Deep Contextualized Word Representations](https://arxiv.org/abs/1802.05365) | Transfer Learning | NLP |
+| [~~Universal Language Model Fine-tuning for Text Classification~~](https://arxiv.org/abs/1801.06146) | Transfer Learning | NLP |
+| [~~Deep Contextualized Word Representations~~](https://arxiv.org/abs/1802.05365) | Transfer Learning | NLP |
 | [An efficient framework for learning sentence representations](https://arxiv.org/abs/1803.02893) | Transfer/Representation Learning | NLP |
 | [Universal Sentence Encoder](https://arxiv.org/abs/1803.11175) | Transfer/Representation Learning | NLP |
 | [Exploring the Limits of Weakly Supervised Pretraining](https://arxiv.org/abs/1805.00932) | Transfer Learning | CV |
