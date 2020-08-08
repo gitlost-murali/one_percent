@@ -109,11 +109,11 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [Let Me Choose: From Verbal Context to Font Selection](https://arxiv.org/abs/2005.01151)
   - [ ] [Human Attention Maps for Text Classification: Do Humans and Neural Networks Focus on the Same Words?](https://www.aclweb.org/anthology/2020.acl-main.419)
   - [ ] [Pre-train and Plug-in: Flexible Conditional Text Generation with Variational Auto-Encoders](https://www.youtube.com/watch?v=f2m6Mon0VE8)
+  - [ ] [Contextualized Weak Supervision for Text Classification](https://www.aclweb.org/anthology/2020.acl-main.30)
   - [ ] [AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models](https://arxiv.org/pdf/1909.09251.pdf)
   - [ ] [Pre-training via Paraphrasing](https://arxiv.org/pdf/2006.15020.pdf)
   - [ ] [A language model you can add symbolic facts to! ](https://arxiv.org/abs/2007.00849)
   - [ ] [Perturbation sensitivity analysis to detect **unintended model biases**](https://arxiv.org/abs/1910.04210)
-  - [ ] [Contextualized Weak Supervision for Text Classification](https://www.aclweb.org/anthology/2020.acl-main.30)
 
 - [ ] [Talks](https://github.com/gitlost-murali/one_percent)
   - [X] [Ilya GPT-2 Talk](https://www.youtube.com/watch?v=T0I88NhR_9M)
