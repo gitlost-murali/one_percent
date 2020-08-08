@@ -106,6 +106,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Papers](https://github.com/gitlost-murali/one_percent)
 
   - [X] [NLP Checklist Paper](https://arxiv.org/abs/2005.04118)
+  - [X] [Pre-training via Paraphrasing](https://arxiv.org/pdf/2006.15020.pdf)
   - [ ] [Pre-train and Plug-in: Flexible Conditional Text Generation with Variational Auto-Encoders](https://www.youtube.com/watch?v=f2m6Mon0VE8)
   - [ ] [Human Attention Maps for Text Classification: Do Humans and Neural Networks Focus on the Same Words?](https://www.aclweb.org/anthology/2020.acl-main.419)
   - [ ] [AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models](https://arxiv.org/pdf/1909.09251.pdf)
@@ -129,6 +130,11 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [Finding Cross-lingual Syntax](https://ai.stanford.edu/blog/finding-crosslingual-syntax/)
   - [ ] [Amazon’s open-source tools make embedding knowledge graphs much more efficient](https://www.amazon.science/blog/amazons-open-source-tools-make-embedding-knowledge-graphs-much-more-efficient)
   - [ ] [Amazon Web Services open-sources biological knowledge graph to fight COVID-19](https://www.amazon.science/blog/amazon-web-services-open-sources-biological-knowledge-graph-to-fight-covid-19)
+
+### Blog ideas
+
+- [ ] [On nlp-helper tool](https://github.com/freemiya)
+- [ ] [Collate all - t5, marge, pegasus, electra etc.](https://github.com/freemiya)
 
 ### Financial Knowledge
 
