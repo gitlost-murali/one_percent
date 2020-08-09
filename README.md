@@ -122,6 +122,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [NLP Idiots](https://www.youtube.com/watch?v=f2m6Mon0VE8)
   - [X] [Data Augmentation using PreTrained Models](https://www.youtube.com/watch?v=3N_a7LAU-pc&feature=youtu.be)
   - [ ] [TextAttack: A Framework for Data Augmentation and Adversarial Training in NLP](https://youtu.be/VpLAjOQHaLU)
+  - [ ] [ACL 2019 tutorial on Unsupervised Cross-lingual Representation Learning](https://tinyurl.com/xlingual)
 
 - [ ] [Blogs](https://github.com/gitlost-murali/one_percent)
   - [X] [Why You Should Do NLP Beyond English](https://ruder.io/nlp-beyond-english/)
