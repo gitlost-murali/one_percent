@@ -114,6 +114,8 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [Pre-training via Paraphrasing](https://arxiv.org/pdf/2006.15020.pdf)
   - [ ] [A language model you can add symbolic facts to! ](https://arxiv.org/abs/2007.00849)
   - [ ] [Perturbation sensitivity analysis to detect **unintended model biases**](https://arxiv.org/abs/1910.04210)
+  - [ ] [The State and Fate of Linguistic Diversity and Inclusion in the NLP World](https://arxiv.org/pdf/2004.09095.pdf)
+  - [ ] [A Call for More Rigor in Unsupervised Cross-lingual Learning](https://www.aclweb.org/anthology/2020.acl-main.658/)
 
 - [ ] [Talks/Videos](https://github.com/gitlost-murali/one_percent)
   - [X] [Ilya GPT-2 Talk](https://www.youtube.com/watch?v=T0I88NhR_9M)
@@ -122,7 +124,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [TextAttack: A Framework for Data Augmentation and Adversarial Training in NLP](https://youtu.be/VpLAjOQHaLU)
 
 - [ ] [Blogs](https://github.com/gitlost-murali/one_percent)
-  - [ ] [Why You Should Do NLP Beyond English](https://ruder.io/nlp-beyond-english/)
+  - [X] [Why You Should Do NLP Beyond English](https://ruder.io/nlp-beyond-english/)
   - [X] [Simple Ways to Tackle Class Imbalance](https://app.wandb.ai/authors/class-imbalance/reports/Simple-Ways-to-Tackle-Class-Imbalance--VmlldzoxODA3NTk)
   - [ ] [Learning from imbalanced data](https://www.jeremyjordan.me/imbalanced-data/)
   - [ ] [Tempering Expectations for GPT-3 and OpenAI’s API](https://minimaxir.com/2020/07/gpt3-expectations/)
