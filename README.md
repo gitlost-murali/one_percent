@@ -227,9 +227,20 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [On nlp-helper tool](https://github.com/freemiya)
 - [ ] [Collate all - t5, marge, pegasus, electra etc.](https://github.com/freemiya)
 
-### Financial Knowledge
+### Financial & Career Knowledge
 
 - [ ] [Let's Talk money](https://github.com/freemiya)
+- [ ] [Recession Proofing My Tech Career _Or the Desi Guide to Personal Finance_](https://niranting.substack.com/p/recession-proofing-my-tech-career)
+- [ ] [Default Alive or Default Dead?](http://www.paulgraham.com/aord.html)
+- [ ] [The FIRE movement](https://www.mrmoneymustache.com/2018/10/05/the-fire-movement/)
+- [ ] [Prepping for the next Recession](https://www.mrmoneymustache.com/2017/06/20/next-recession/)
+- [ ] [Don't End The Week With Nothing](https://training.kalzumeus.com/newsletters/archive/do-not-end-the-week-with-nothing)
+- [ ] [Where to go and why](https://pmarchive.com/guide_to_career_planning_part3.html)
+- [ ] [Act Like You're 35._What I wish I knew when I was 20 about Workplace_](https://niranting.substack.com/p/act-like-youre-35)
+- [ ] [Triple Thread : Career Advice](https://dilbertblog.typepad.com/the_dilbert_blog/2007/07/career-advice.html)
+- [ ] [Reach Out, Stay in Touch and Deepen Your Connections with This Essential Networking Advice](https://firstround.com/review/reach-out-stay-in-touch-and-deepen-your-connections-with-this-essential-networking-advice/)
+- [ ] [What happens if your job is automated en masse?](https://medium.com/@larissafschiavo/industrial-revolution-66aee1b2cc2d/)
+- [ ] [Getting out of the country, even within the same country: moving from Bengaluru to Varkala can be a huge income saver for most techies]()
 
 ### Increase attention time & Dopamine
 
