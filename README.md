@@ -16,7 +16,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [X] [3. Windows Installation | Jekyll - Static Site Generator | Tutorial 3](https://www.youtube.com/watch?v=LfP7Y9Ja6Qc&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=3)
   - [X] [4. Creating a Site | Jekyll - Static Site Generator | Tutorial 4](https://www.youtube.com/watch?v=pxua_1vyFck&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=4)
   - [X] [5. Front Matter | Jekyll - Static Site Generator | Tutorial 5](https://www.youtube.com/watch?v=ZtEbGztktvc&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=5)
-  - [ ] [6. Writing Posts | Jekyll - Static Site Generator | Tutorial 6](https://www.youtube.com/watch?v=gsYqPL9EFwQ&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=6)
+  - [X] [6. Writing Posts | Jekyll - Static Site Generator | Tutorial 6](https://www.youtube.com/watch?v=gsYqPL9EFwQ&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=6)
   - [ ] [7. Working With Drafts | Jekyll - Static Site Generator | Tutorial 7](https://www.youtube.com/watch?v=X8jXkW3k2Jg&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=7)
   - [ ] [8. Creating Pages | Jekyll - Static Site Generator | Tutorial 8](https://www.youtube.com/watch?v=1na-IWfv08M&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=8)
   - [ ] [9. Permalinks | Jekyll - Static Site Generator | Tutorial 9](https://www.youtube.com/watch?v=938jDG_YPdc&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=9)
