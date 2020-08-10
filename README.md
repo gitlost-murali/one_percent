@@ -83,6 +83,10 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Checklist](https://github.com/marcotcr/checklist)
 - [ ] [PET: Cloze Questions](https://github.com/timoschick/pet)
 
+### Essential tools
+
+- [X] [Talk: Extracting Tables from PDFs](https://www.youtube.com/watch?v=99A9Fz6uHAA)
+
 ### Building strong NLP Fundamentals
 
 - [X] [Video: Understanding ROC Curve](https://www.youtube.com/watch?v=4jRBRDbJemM)
