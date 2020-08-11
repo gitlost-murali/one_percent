@@ -160,6 +160,8 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 
 ### (Deep) Learning with Limited Labeled Data (DL3D): Unsupervised, Self-Supervised Learning Papers
 
+- [ ] [Twitter post mentioning major concepts in Limited-Data Setting](https://twitter.com/iskander/status/1292904556943286272?s=20)
+
 [Reference](https://github.com/craffel/dl3d-seminar)
 
 | **Title** | **Approach** | **Domain** |
