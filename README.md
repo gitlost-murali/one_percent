@@ -82,6 +82,8 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [TextAttack](https://github.com/QData/TextAttack)
 - [ ] [Checklist](https://github.com/marcotcr/checklist)
 - [ ] [PET: Cloze Questions](https://github.com/timoschick/pet)
+- [ ] [Question Generation using Google T5  @Hugginface, Text2Text , Sense2Vec and FastApi.](https://twitter.com/RenatoViolin/status/1293266821550944256?s=20)
+- [ ] [The Hugging face Transformers master branch now includes a built-in pipeline for zero-shot text classification, to be included in the next release.](https://twitter.com/huggingface/status/1293240692924452864?s=20)
 
 ### Essential tools
 
@@ -152,6 +154,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Blogs](https://github.com/gitlost-murali/one_percent)
   - [X] [Why You Should Do NLP Beyond English](https://ruder.io/nlp-beyond-english/)
   - [X] [Simple Ways to Tackle Class Imbalance](https://app.wandb.ai/authors/class-imbalance/reports/Simple-Ways-to-Tackle-Class-Imbalance--VmlldzoxODA3NTk)
+  - [ ] [Zero-Shot Learning in Modern NLP](https://joeddav.github.io/blog/2020/05/29/ZSL.html)
   - [ ] [Learning from imbalanced data](https://www.jeremyjordan.me/imbalanced-data/)
   - [ ] [Tempering Expectations for GPT-3 and OpenAI’s API](https://minimaxir.com/2020/07/gpt3-expectations/)
   - [ ] [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
