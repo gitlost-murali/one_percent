@@ -239,7 +239,8 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 
 ### Podcasts
 
-- [ ] [Aakash Nain | Tensorflow 2.0 | TF Add-Ons | Good API Designs | CTDS.Show #90](https://www.youtube.com/watch?v=hZNhkiIfHtM)
+- [X] [Aakash Nain | Tensorflow 2.0 | TF Add-Ons | Good API Designs | CTDS.Show #90](https://www.youtube.com/watch?v=hZNhkiIfHtM)
+- [X] [Connor Shorten | Creating AI Content, Videos, | Henry AI Labs, Research & GANs | CTDS.Show #76](https://www.youtube.com/watch?v=Cn97ynuWAiQ)
 
 ### Revisiting concepts with Summary Papers
 
