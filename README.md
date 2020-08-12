@@ -44,6 +44,8 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [10. Potpourri](https://missing.csail.mit.edu/2020/potpourri/)
   - [ ] [11. Q&A](https://missing.csail.mit.edu/2020/qa/)
 - [ ] [CI/CD pipeline](https://dzone.com/articles/learn-how-to-setup-a-cicd-pipeline-from-scratch)
+  - [X] [MLOps Tutorial #1: Intro to Continuous Integration for ML](https://www.youtube.com/watch?v=9BgIDqAzfuA&feature=youtu.be)
+  - [ ] [MLOps Tutorial #2: When data is too big for Git](https://www.youtube.com/watch?v=kZKAuShWF0s)
 - [ ] [Kubernetes]()
 
 ### Structuring machine learning projects
