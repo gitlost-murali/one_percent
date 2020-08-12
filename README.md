@@ -231,6 +231,9 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 | [Unsupervised Learning of Visual Features by Contrasting Cluster Assignments](https://arxiv.org/abs/2006.09882) | Transfer/Representation Learning | CV |
 | [Big Self-Supervised Models are Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029) | Semi-Supervised Learning | CV |
 
+### Vision-Courses (Not much into it)
+
+- [ ] [Justin Johnson - Deep Learning for Computer Vision](https://www.youtube.com/watch?v=dJYGatp4SvA&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r&index=2&t=0s)
 
 ### Revisiting concepts with Summary Papers
 
