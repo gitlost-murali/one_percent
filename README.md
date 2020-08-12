@@ -49,6 +49,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 ### Structuring machine learning projects
 
 - [ ] [What is ML Ops? Best Practices for DevOps for ML (Cloud Next '18)](https://www.youtube.com/watch?v=_jnhXzY1HCw&feature=youtu.be)
+- [ ] [ML Ops - DVCorg](https://www.youtube.com/watch?v=9BgIDqAzfuA&feature=youtu.be)
   - [X] [MLOps Tutorial #1: Intro to Continuous Integration for ML](https://www.youtube.com/watch?v=9BgIDqAzfuA&feature=youtu.be)
   - [X] [MLOps Tutorial #2: When data is too big for Git](https://www.youtube.com/watch?v=kZKAuShWF0s)
 - [ ] [MLOps: Accelerating Data Science with DevOps - Microsoft](https://www.youtube.com/watch?v=pqppGvTJm-A)
