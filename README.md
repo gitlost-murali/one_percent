@@ -130,6 +130,8 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 
 - [ ] [Natural Language Processing - Jurafsky & Manning](https://www.youtube.com/watch?v=oWsMIW-5xUc&list=PLLssT5z_DsK8HbD2sPcUIDfQ7zmBarMYv)
 
+- [ ] [Stanford CS229: Machine Learning (Autumn 2018)](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+
 ### Stay up-to-date in research
 
 - [ ] [Papers](https://github.com/gitlost-murali/one_percent)
