@@ -235,6 +235,10 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 
 - [ ] [Justin Johnson - Deep Learning for Computer Vision](https://www.youtube.com/watch?v=dJYGatp4SvA&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r&index=2&t=0s)
 
+### Podcasts
+
+- [ ] [Aakash Nain | Tensorflow 2.0 | TF Add-Ons | Good API Designs | CTDS.Show #90](https://www.youtube.com/watch?v=hZNhkiIfHtM)
+
 ### Revisiting concepts with Summary Papers
 
 - [ ] [Text Classification Algorithms: A Survey](https://arxiv.org/pdf/1904.08067.pdf)
