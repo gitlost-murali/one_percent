@@ -21,8 +21,8 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [X] [8. Creating Pages | Jekyll - Static Site Generator | Tutorial 8](https://www.youtube.com/watch?v=1na-IWfv08M&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=8)
   - [X] [9. Permalinks | Jekyll - Static Site Generator | Tutorial 9](https://www.youtube.com/watch?v=938jDG_YPdc&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=9)
   - [X] [10. Front Matter Defaults | Jekyll - Static Site Generator | Tutorial 10](https://www.youtube.com/watch?v=CLCaJJ1zUHU&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=10)
-  - [ ] [11. Themes | Jekyll - Static Site Generator | Tutorial 11](https://www.youtube.com/watch?v=NoRS2D-cyko&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=11)
-  - [ ] [12. Layouts | Jekyll - Static Site Generator | Tutorial 12](https://www.youtube.com/watch?v=bDQsGdCWv4I&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=12)
+  - [X] [11. Themes | Jekyll - Static Site Generator | Tutorial 11](https://www.youtube.com/watch?v=NoRS2D-cyko&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=11)
+  - [X] [12. Layouts | Jekyll - Static Site Generator | Tutorial 12](https://www.youtube.com/watch?v=bDQsGdCWv4I&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=12)
   - [ ] [13. Variables | Jekyll - Static Site Generator | Tutorial 13 ](https://www.youtube.com/watch?v=nLJBF2KiOZw&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=13)
   - [ ] [14. Includes | Jekyll - Static Site Generator | Tutorial 14](https://www.youtube.com/watch?v=HfcJeRby2a8&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=14)
   - [ ] [15. Looping Through Posts | Jekyll - Static Site Generator | Tutorial 15](https://www.youtube.com/watch?v=6N1X5XffuUA&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=15)
@@ -154,6 +154,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [X] [Ilya GPT-2 Talk](https://www.youtube.com/watch?v=T0I88NhR_9M)
   - [ ] [NLP Idiots](https://www.youtube.com/watch?v=f2m6Mon0VE8)
   - [X] [Data Augmentation using PreTrained Models](https://www.youtube.com/watch?v=3N_a7LAU-pc&feature=youtu.be)
+  - [ ] [Well-Read Students Learn Better](https://www.youtube.com/watch?v=yEhwRsuaPQs)
   - [ ] [Easy Data Augmentation for Text Classification](https://www.youtube.com/watch?v=3w92peJtYNQ)
   - [ ] [TextAttack: A Framework for Data Augmentation and Adversarial Training in NLP](https://youtu.be/VpLAjOQHaLU)
   - [ ] [ACL 2019 tutorial on Unsupervised Cross-lingual Representation Learning](https://tinyurl.com/xlingual)
@@ -236,9 +237,10 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 | [Unsupervised Learning of Visual Features by Contrasting Cluster Assignments](https://arxiv.org/abs/2006.09882) | Transfer/Representation Learning | CV |
 | [Big Self-Supervised Models are Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029) | Semi-Supervised Learning | CV |
 
-### Vision-Courses (Not much into it)
+### General-Courses (Interesting but not immediate)
 
 - [ ] [Justin Johnson - Deep Learning for Computer Vision](https://www.youtube.com/watch?v=dJYGatp4SvA&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r&index=2&t=0s)
+- [ ] [Dive into Deep Learning](https://d2l.ai/)
 
 ### Podcasts
 
