@@ -44,6 +44,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [10. Potpourri](https://missing.csail.mit.edu/2020/potpourri/)
   - [ ] [11. Q&A](https://missing.csail.mit.edu/2020/qa/)
 - [ ] [CI/CD pipeline](https://dzone.com/articles/learn-how-to-setup-a-cicd-pipeline-from-scratch)
+  - [X] [GitHub Actions - SSH to server and Pull the latest changes](https://www.youtube.com/watch?v=gW1TDirJ5E4)
 - [ ] [Kubernetes]()
 
 ### Structuring machine learning projects
@@ -165,6 +166,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [Tempering Expectations for GPT-3 and OpenAI’s API](https://minimaxir.com/2020/07/gpt3-expectations/)
   - [ ] [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
   - [ ] [Finding Cross-lingual Syntax](https://ai.stanford.edu/blog/finding-crosslingual-syntax/)
+  - [ ] [REALM: Integrating Retrieval into Language Representation Models](https://ai.googleblog.com/2020/08/realm-integrating-retrieval-into.html)
   - [ ] [Amazon’s open-source tools make embedding knowledge graphs much more efficient](https://www.amazon.science/blog/amazons-open-source-tools-make-embedding-knowledge-graphs-much-more-efficient)
   - [ ] [Amazon Web Services open-sources biological knowledge graph to fight COVID-19](https://www.amazon.science/blog/amazon-web-services-open-sources-biological-knowledge-graph-to-fight-covid-19)
 
