@@ -89,6 +89,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [PET: Cloze Questions](https://github.com/timoschick/pet)
 - [ ] [Question Generation using Google T5  @Hugginface, Text2Text , Sense2Vec and FastApi.](https://twitter.com/RenatoViolin/status/1293266821550944256?s=20)
 - [ ] [The Hugging face Transformers master branch now includes a built-in pipeline for zero-shot text classification, to be included in the next release.](https://twitter.com/huggingface/status/1293240692924452864?s=20)
+- [ ] [Language Interpretability Tool (LIT)](https://github.com/pair-code/lit)
 
 ### Essential tools
 
@@ -159,6 +160,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [X] [Easy Data Augmentation for Text Classification](https://www.youtube.com/watch?v=3w92peJtYNQ)
   - [ ] [TextAttack: A Framework for Data Augmentation and Adversarial Training in NLP](https://youtu.be/VpLAjOQHaLU)
   - [ ] [ACL 2019 tutorial on Unsupervised Cross-lingual Representation Learning](https://tinyurl.com/xlingual)
+  - [ ] [REALM: Retrieval-Augmented Language Model Pre-Training (Paper Explained)](https://www.youtube.com/watch?v=lj-LGrnh1oU&feature=youtu.be)
 
 - [ ] [Blogs](https://github.com/gitlost-murali/one_percent)
   - [X] [Why You Should Do NLP Beyond English](https://ruder.io/nlp-beyond-english/)
@@ -247,6 +249,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 
 - [X] [Aakash Nain | Tensorflow 2.0 | TF Add-Ons | Good API Designs | CTDS.Show #90](https://www.youtube.com/watch?v=hZNhkiIfHtM)
 - [X] [Connor Shorten | Creating AI Content, Videos, | Henry AI Labs, Research & GANs | CTDS.Show #76](https://www.youtube.com/watch?v=Cn97ynuWAiQ)
+- [ ] [Episode #191: Live from the Manning Python Conference](https://pythonbytes.fm/episodes/show/191/live-from-the-manning-python-conference)
 
 ### Revisiting concepts with Summary Papers
 
