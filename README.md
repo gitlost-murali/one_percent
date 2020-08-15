@@ -23,12 +23,12 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [X] [10. Front Matter Defaults | Jekyll - Static Site Generator | Tutorial 10](https://www.youtube.com/watch?v=CLCaJJ1zUHU&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=10)
   - [X] [11. Themes | Jekyll - Static Site Generator | Tutorial 11](https://www.youtube.com/watch?v=NoRS2D-cyko&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=11)
   - [X] [12. Layouts | Jekyll - Static Site Generator | Tutorial 12](https://www.youtube.com/watch?v=bDQsGdCWv4I&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=12)
-  - [ ] [13. Variables | Jekyll - Static Site Generator | Tutorial 13 ](https://www.youtube.com/watch?v=nLJBF2KiOZw&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=13)
-  - [ ] [14. Includes | Jekyll - Static Site Generator | Tutorial 14](https://www.youtube.com/watch?v=HfcJeRby2a8&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=14)
-  - [ ] [15. Looping Through Posts | Jekyll - Static Site Generator | Tutorial 15](https://www.youtube.com/watch?v=6N1X5XffuUA&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=15)
-  - [ ] [16. Conditionals | Jekyll - Static Site Generator | Tutorial 16](https://www.youtube.com/watch?v=iNZBEki_x6o&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=16)
-  - [ ] [17. Data Files | Jekyll - Static Site Generator | Tutorial 17](https://www.youtube.com/watch?v=M6b0KmLB-pM&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=17)
-  - [ ] [18. Static Files | Jekyll - Static Site Generator | Tutorial 18](https://www.youtube.com/watch?v=knWjmVlVpso&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=18)
+  - [X] [13. Variables | Jekyll - Static Site Generator | Tutorial 13 ](https://www.youtube.com/watch?v=nLJBF2KiOZw&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=13)
+  - [X] [14. Includes | Jekyll - Static Site Generator | Tutorial 14](https://www.youtube.com/watch?v=HfcJeRby2a8&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=14)
+  - [X] [15. Looping Through Posts | Jekyll - Static Site Generator | Tutorial 15](https://www.youtube.com/watch?v=6N1X5XffuUA&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=15)
+  - [X] [16. Conditionals | Jekyll - Static Site Generator | Tutorial 16](https://www.youtube.com/watch?v=iNZBEki_x6o&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=16)
+  - [X] [17. Data Files | Jekyll - Static Site Generator | Tutorial 17](https://www.youtube.com/watch?v=M6b0KmLB-pM&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=17)
+  - [X] [18. Static Files | Jekyll - Static Site Generator | Tutorial 18](https://www.youtube.com/watch?v=knWjmVlVpso&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=18)
   - [ ] [19. Hosting on Github Pages | Jekyll - Static Site Generator | Tutorial 19](https://www.youtube.com/watch?v=fqFjuX4VZmU&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=19)
 
 - [ ] [The Missing Semester](https://missing.csail.mit.edu/2020/)
@@ -244,6 +244,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 
 - [ ] [Justin Johnson - Deep Learning for Computer Vision](https://www.youtube.com/watch?v=dJYGatp4SvA&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r&index=2&t=0s)
 - [ ] [Dive into Deep Learning](https://d2l.ai/)
+- [ ] [Tweet mentioning a lot of cool apps](https://twitter.com/sannykimchi/status/1294285085672431618?s=20)
 
 ### Podcasts
 
