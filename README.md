@@ -46,6 +46,11 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [CI/CD pipeline](https://dzone.com/articles/learn-how-to-setup-a-cicd-pipeline-from-scratch)
   - [X] [GitHub Actions - SSH to server and Pull the latest changes](https://www.youtube.com/watch?v=gW1TDirJ5E4)
 - [ ] [Kubernetes]()
+- [ ] [Learn PostgreSQL](https://www.youtube.com/watch?v=qw--VYLpxG4)
+  - [ ] [Introduction - 1 hour](https://www.youtube.com/watch?v=qw--VYLpxG4)
+  - [ ] [Basic Operations - 1 hour](https://www.youtube.com/watch?v=qw--VYLpxG4)
+  - [ ] [More Operations - 1 hour](https://www.youtube.com/watch?v=qw--VYLpxG4)
+  - [ ] [Relations - 1 hour](https://www.youtube.com/watch?v=qw--VYLpxG4)
 
 ### Structuring machine learning projects
 
