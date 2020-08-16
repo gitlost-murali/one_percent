@@ -271,7 +271,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Let's Talk money](https://github.com/freemiya)
 - [ ] [Recession Proofing My Tech Career _Or the Desi Guide to Personal Finance_](https://niranting.substack.com/p/recession-proofing-my-tech-career)
 - [ ] [Default Alive or Default Dead?](http://www.paulgraham.com/aord.html)
-- [ ] [The FIRE movement](https://www.mrmoneymustache.com/2018/10/05/the-fire-movement/)
+- [X] [The FIRE movement](https://www.mrmoneymustache.com/2018/10/05/the-fire-movement/)
 - [ ] [Prepping for the next Recession](https://www.mrmoneymustache.com/2017/06/20/next-recession/)
 - [ ] [Don't End The Week With Nothing](https://training.kalzumeus.com/newsletters/archive/do-not-end-the-week-with-nothing)
 - [ ] [Where to go and why](https://pmarchive.com/guide_to_career_planning_part3.html)
