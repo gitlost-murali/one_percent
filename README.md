@@ -268,7 +268,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 
 ### Financial & Career Knowledge
 
-- [ ] [Let's Talk money](https://github.com/freemiya)
+- [ ] [Let's Talk money - 23%](https://github.com/freemiya)
 - [ ] [Recession Proofing My Tech Career _Or the Desi Guide to Personal Finance_](https://niranting.substack.com/p/recession-proofing-my-tech-career)
 - [ ] [Default Alive or Default Dead?](http://www.paulgraham.com/aord.html)
 - [X] [The FIRE movement](https://www.mrmoneymustache.com/2018/10/05/the-fire-movement/)
@@ -284,5 +284,5 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 
 ### Increase attention time & Dopamine
 
-- [ ] [Book: Riot](https://www.goodreads.com/book/show/30842.Riot)
+- [ ] [Book: Riot - 56%](https://www.goodreads.com/book/show/30842.Riot)
 - [ ] [Book: No Country for Old Men](https://www.goodreads.com/book/show/12497.No_Country_for_Old_Men)
