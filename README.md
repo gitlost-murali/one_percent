@@ -256,6 +256,10 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Tweet mentioning a lot of traditional & popular courses](https://twitter.com/chipro/status/1157772112876060672?s=20)
 - [ ] [Why Does Deep Learning Perform Deep Learning - MSR AI Seminar 08/11/2020](https://www.youtube.com/watch?v=sd2o1PbqixI&feature=youtu.be)
 
+### Events
+
+- [ ] [Deep Learning Day at KDD](https://www.kdd.org/kdd2020/special-days/deep-learning-day)
+
 ### Podcasts
 
 - [X] [Aakash Nain | Tensorflow 2.0 | TF Add-Ons | Good API Designs | CTDS.Show #90](https://www.youtube.com/watch?v=hZNhkiIfHtM)
