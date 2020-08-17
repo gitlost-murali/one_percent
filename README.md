@@ -252,6 +252,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 
 - [ ] [Justin Johnson - Deep Learning for Computer Vision](https://www.youtube.com/watch?v=dJYGatp4SvA&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r&index=2&t=0s)
 - [ ] [Dive into Deep Learning](https://d2l.ai/)
+- [ ] [ETH-Zurich Machine Learning](https://las.inf.ethz.ch/teaching/introml-s20)
 - [ ] [Tweet mentioning a lot of cool apps](https://twitter.com/sannykimchi/status/1294285085672431618?s=20)
 - [ ] [Tweet mentioning a lot of traditional & popular courses](https://twitter.com/chipro/status/1157772112876060672?s=20)
 - [ ] [Why Does Deep Learning Perform Deep Learning - MSR AI Seminar 08/11/2020](https://www.youtube.com/watch?v=sd2o1PbqixI&feature=youtu.be)
