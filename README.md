@@ -174,6 +174,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [X] [Simple Ways to Tackle Class Imbalance](https://app.wandb.ai/authors/class-imbalance/reports/Simple-Ways-to-Tackle-Class-Imbalance--VmlldzoxODA3NTk)
   - [ ] [Zero-Shot Learning in Modern NLP](https://joeddav.github.io/blog/2020/05/29/ZSL.html)
   - [ ] [Learning from imbalanced data](https://www.jeremyjordan.me/imbalanced-data/)
+  - [ ] [Which Optimizer should I use for my Machine Learning Project?](https://www.whattolabel.com/post/which-optimizer-should-i-use-for-my-machine-learning-project)
   - [ ] [Tempering Expectations for GPT-3 and OpenAI’s API](https://minimaxir.com/2020/07/gpt3-expectations/)
   - [ ] [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
   - [ ] [Finding Cross-lingual Syntax](https://ai.stanford.edu/blog/finding-crosslingual-syntax/)
@@ -252,6 +253,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Justin Johnson - Deep Learning for Computer Vision](https://www.youtube.com/watch?v=dJYGatp4SvA&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r&index=2&t=0s)
 - [ ] [Dive into Deep Learning](https://d2l.ai/)
 - [ ] [Tweet mentioning a lot of cool apps](https://twitter.com/sannykimchi/status/1294285085672431618?s=20)
+- [ ] [Tweet mentioning a lot of traditional & popular courses](https://twitter.com/chipro/status/1157772112876060672?s=20)
 
 ### Podcasts
 
