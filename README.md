@@ -259,6 +259,10 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Tweet mentioning a lot of traditional & popular courses](https://twitter.com/chipro/status/1157772112876060672?s=20)
 - [ ] [Why Does Deep Learning Perform Deep Learning - MSR AI Seminar 08/11/2020](https://www.youtube.com/watch?v=sd2o1PbqixI&feature=youtu.be)
 
+### Coding Tuts
+
+- [ ] [Fine-tuning with custom datasets](https://huggingface.co/transformers/master/custom_datasets.html) & [Tweet](https://twitter.com/joeddav/status/1295361743322062848?s=20)
+
 ### Events
 
 - [ ] [Deep Learning Day at KDD](https://www.kdd.org/kdd2020/special-days/deep-learning-day)
