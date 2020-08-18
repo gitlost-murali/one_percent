@@ -170,7 +170,8 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [X] [Easy Data Augmentation for Text Classification](https://www.youtube.com/watch?v=3w92peJtYNQ)
   - [ ] [TextAttack: A Framework for Data Augmentation and Adversarial Training in NLP](https://youtu.be/VpLAjOQHaLU)
   - [ ] [ACL 2019 tutorial on Unsupervised Cross-lingual Representation Learning](https://tinyurl.com/xlingual)
-  - [ ] [REALM: Retrieval-Augmented Language Model Pre-Training (Paper Explained)](https://www.youtube.com/watch?v=lj-LGrnh1oU&feature=youtu.be)
+  - [ ] [REALM: Retrieval-Augmented Language Model Pre-Training (Paper Explained) - Yannic Kilcher](https://www.youtube.com/watch?v=lj-LGrnh1oU&feature=youtu.be)
+  - [X] [REALM: Retrieval-Augmented Language Model Pre-Training | NLP Journal Club](https://www.youtube.com/watch?v=mFoEig-Xi_0)
 
 - [ ] [Blogs](https://github.com/gitlost-murali/one_percent)
   - [X] [Why You Should Do NLP Beyond English](https://ruder.io/nlp-beyond-english/)
