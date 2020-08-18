@@ -74,6 +74,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 
 ### Open-Source Contribution
 
+- [ ] [Birch AI](https://birch.ai/)
 - [ ] [ML Collective](https://twitter.com/ml_collective)
 - [ ] [Gender Bias Checklist Module](https://github.com/freemiya)
 - [ ] [Redaction Module](https://github.com/freemiya)
