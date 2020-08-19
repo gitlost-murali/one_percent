@@ -176,6 +176,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Blogs](https://github.com/gitlost-murali/one_percent)
   - [X] [Why You Should Do NLP Beyond English](https://ruder.io/nlp-beyond-english/)
   - [X] [Simple Ways to Tackle Class Imbalance](https://app.wandb.ai/authors/class-imbalance/reports/Simple-Ways-to-Tackle-Class-Imbalance--VmlldzoxODA3NTk)
+  - [ ] [NLP Keeps Stealing From CV 👨🏻‍🎤 Why NLP engineers shouldn’t stop learning CV](https://pakodas.substack.com/p/nlp-keeps-stealing-from-cv-)
   - [ ] [Zero-Shot Learning in Modern NLP](https://joeddav.github.io/blog/2020/05/29/ZSL.html)
   - [ ] [Learning from imbalanced data](https://www.jeremyjordan.me/imbalanced-data/)
   - [ ] [Which Optimizer should I use for my Machine Learning Project?](https://www.whattolabel.com/post/which-optimizer-should-i-use-for-my-machine-learning-project)
@@ -261,6 +262,8 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Tweet mentioning a lot of traditional & popular courses](https://twitter.com/chipro/status/1157772112876060672?s=20)
 - [ ] [Why Does Deep Learning Perform Deep Learning - MSR AI Seminar 08/11/2020](https://www.youtube.com/watch?v=sd2o1PbqixI&feature=youtu.be)
 - [ ] [Slither Into Python](https://www.slitherintopython.com/index.html)
+- [ ] [Advanced Computer Vision](https://www.youtube.com/playlist?list=PLog3nOPCjKBnjhuHMIXu4ISE4Z4f2jm39)
+- [ ] [Deep Learning for Computer Vision](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
 
 ### Coding Tuts
 
