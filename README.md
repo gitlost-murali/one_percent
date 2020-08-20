@@ -74,6 +74,8 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [6. Testing and Deployment](https://course.fullstackdeeplearning.com/course-content/testing-and-deployment)
   - [ ] [7. Research Areas](https://course.fullstackdeeplearning.com/course-content/testing-and-deployment)
 
+- [ ] [Organize Your Machine Learning Pipelines with Artifacts](https://app.wandb.ai/authors/artifact-workplace-safety/reports/Organize-Your-Machine-Learning-Pipelines-with-Artifacts--VmlldzoxODQwNTY)
+
 ### Open-Source Contribution
 
 - [ ] [Birch AI](https://birch.ai/)
@@ -269,6 +271,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Slither Into Python](https://www.slitherintopython.com/index.html)
 - [ ] [Advanced Computer Vision](https://www.youtube.com/playlist?list=PLog3nOPCjKBnjhuHMIXu4ISE4Z4f2jm39)
 - [ ] [Deep Learning for Computer Vision](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
+- [ ] [Amazing line-up of tutorials on self-supervised, semi-supervised & weakly-supervised learning.](https://nvlabs.github.io/eccv2020-limited-labels-data-tutorial/)
 
 ### Coding Tuts
 
