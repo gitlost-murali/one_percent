@@ -103,6 +103,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 
 - [X] [Talk: Camelot -> Extracting Tables from PDFs](https://www.youtube.com/watch?v=99A9Fz6uHAA)
 - [ ] [Git repo: Making Language Models like BERT, ALBERTA etc good at _Sentence Representations_](https://github.com/UKPLab/sentence-transformers)
+- [X] [Faker: Generates fake data for you like fake names, address etc](https://github.com/joke2k/faker)
 
 ### Building strong NLP Fundamentals
 
