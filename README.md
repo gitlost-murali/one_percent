@@ -176,6 +176,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Blogs](https://github.com/gitlost-murali/one_percent)
   - [X] [Why You Should Do NLP Beyond English](https://ruder.io/nlp-beyond-english/)
   - [X] [Simple Ways to Tackle Class Imbalance](https://app.wandb.ai/authors/class-imbalance/reports/Simple-Ways-to-Tackle-Class-Imbalance--VmlldzoxODA3NTk)
+  - [X] [Custom NLP Approaches to Data Anonymization](https://towardsdatascience.com/nlp-approaches-to-data-anonymization-1fb5bde6b929)
   - [ ] [NLP Keeps Stealing From CV 👨🏻‍🎤 Why NLP engineers shouldn’t stop learning CV](https://pakodas.substack.com/p/nlp-keeps-stealing-from-cv-)
   - [ ] [Zero-Shot Learning in Modern NLP](https://joeddav.github.io/blog/2020/05/29/ZSL.html)
   - [ ] [Learning from imbalanced data](https://www.jeremyjordan.me/imbalanced-data/)
