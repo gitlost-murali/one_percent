@@ -309,6 +309,10 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [What happens if your job is automated en masse?](https://medium.com/@larissafschiavo/industrial-revolution-66aee1b2cc2d/)
 - [ ] [Getting out of the country, even within the same country: moving from Bengaluru to Varkala can be a huge income saver for most techies]()
 
+### Jobs/Roles details
+
+- [ ] [Tweet: On what an ML Engineer is expected to do](https://twitter.com/sh_reya/status/1295855995533524993?s=03)
+
 ### Increase attention time & Dopamine
 
 - [ ] [Book: Riot - 56%](https://www.goodreads.com/book/show/30842.Riot)
