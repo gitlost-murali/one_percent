@@ -47,6 +47,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [CI/CD pipeline](https://dzone.com/articles/learn-how-to-setup-a-cicd-pipeline-from-scratch)
   - [X] [GitHub Actions - SSH to server and Pull the latest changes](https://www.youtube.com/watch?v=gW1TDirJ5E4)
 - [ ] [Kubernetes]()
+  - [ ] [An introduction to Kubernetes.](https://www.jeremyjordan.me/kubernetes/)
 - [ ] [Learn PostgreSQL](https://www.youtube.com/watch?v=qw--VYLpxG4)
   - [ ] [Introduction - 1 hour](https://www.youtube.com/watch?v=qw--VYLpxG4)
   - [ ] [Basic Operations - 1 hour](https://www.youtube.com/watch?v=qw--VYLpxG4)
@@ -183,6 +184,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [Learning from imbalanced data](https://www.jeremyjordan.me/imbalanced-data/)
   - [ ] [Which Optimizer should I use for my Machine Learning Project?](https://www.whattolabel.com/post/which-optimizer-should-i-use-for-my-machine-learning-project)
   - [ ] [Tempering Expectations for GPT-3 and OpenAI’s API](https://minimaxir.com/2020/07/gpt3-expectations/)
+  - [ ] [Effective testing for machine learning systems](https://www.jeremyjordan.me/testing-ml/)
   - [ ] [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
   - [ ] [Finding Cross-lingual Syntax](https://ai.stanford.edu/blog/finding-crosslingual-syntax/)
   - [X] [REALM: Integrating Retrieval into Language Representation Models](https://ai.googleblog.com/2020/08/realm-integrating-retrieval-into.html)
@@ -273,7 +275,8 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 
 ### Events
 
-- [ ] [Deep Learning Day at KDD](https://www.kdd.org/kdd2020/special-days/deep-learning-day)
+- [X] [Aug 20th - Exploration of Weights & Biases machine learning tools](https://us02web.zoom.us/j/2037613535)
+- [ ] [Aug 24th - Deep Learning Day at KDD](https://www.kdd.org/kdd2020/special-days/deep-learning-day)
 
 ### Podcasts
 
