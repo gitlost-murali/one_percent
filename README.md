@@ -46,6 +46,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [11. Q&A](https://missing.csail.mit.edu/2020/qa/)
 - [ ] [CI/CD pipeline](https://dzone.com/articles/learn-how-to-setup-a-cicd-pipeline-from-scratch)
   - [X] [GitHub Actions - SSH to server and Pull the latest changes](https://www.youtube.com/watch?v=gW1TDirJ5E4)
+  - [X] [Implementation of GitHub Actions to my website repo for pulling the latest changes from server whenever a push is made](https://www.youtube.com/watch?v=gW1TDirJ5E4)
 - [ ] [Kubernetes]()
   - [ ] [An introduction to Kubernetes.](https://www.jeremyjordan.me/kubernetes/)
 - [ ] [Learn PostgreSQL](https://www.youtube.com/watch?v=qw--VYLpxG4)
@@ -78,7 +79,6 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 
 ### Open-Source Contribution
 
-- [ ] [Birch AI](https://birch.ai/)
 - [ ] [ML Collective](https://twitter.com/ml_collective)
 - [ ] [Gender Bias Checklist Module](https://github.com/freemiya)
 - [ ] [Redaction Module](https://github.com/freemiya)
@@ -103,7 +103,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [The Hugging face Transformers master branch now includes a built-in pipeline for zero-shot text classification, to be included in the next release.](https://twitter.com/huggingface/status/1293240692924452864?s=20)
 - [ ] [Language Interpretability Tool (LIT)](https://github.com/pair-code/lit)
 
-### Essential tools
+### Essential ML/DL tools
 
 - [X] [Talk: Camelot -> Extracting Tables from PDFs](https://www.youtube.com/watch?v=99A9Fz6uHAA)
 - [ ] [Git repo: Making Language Models like BERT, ALBERTA etc good at _Sentence Representations_](https://github.com/UKPLab/sentence-transformers)
@@ -319,6 +319,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 ### Jobs/Roles details
 
 - [ ] [Tweet: On what an ML Engineer is expected to do](https://twitter.com/sh_reya/status/1295855995533524993?s=03)
+- [ ] [Birch AI](https://birch.ai/)
 
 ### Increase attention time & Dopamine
 
