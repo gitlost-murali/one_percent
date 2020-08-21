@@ -44,7 +44,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [9. Security and Cryptography](https://missing.csail.mit.edu/2020/security/)
   - [ ] [10. Potpourri](https://missing.csail.mit.edu/2020/potpourri/)
   - [ ] [11. Q&A](https://missing.csail.mit.edu/2020/qa/)
-- [ ] [CI/CD pipeline](https://dzone.com/articles/learn-how-to-setup-a-cicd-pipeline-from-scratch)
+- [ ] [CI/CD pipeline]()
   - [X] [GitHub Actions - SSH to server and Pull the latest changes](https://www.youtube.com/watch?v=gW1TDirJ5E4)
   - [X] [Implementation of GitHub Actions to my website repo for pulling the latest changes from server whenever a push is made](https://github.com/gitlost-murali/gitlost-murali.github.io/actions)
 - [ ] [Kubernetes]()
