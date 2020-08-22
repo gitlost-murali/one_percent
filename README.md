@@ -167,6 +167,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [Perturbation sensitivity analysis to detect **unintended model biases**](https://arxiv.org/abs/1910.04210)
   - [ ] [The State and Fate of Linguistic Diversity and Inclusion in the NLP World](https://arxiv.org/pdf/2004.09095.pdf)
   - [ ] [A Call for More Rigor in Unsupervised Cross-lingual Learning](https://www.aclweb.org/anthology/2020.acl-main.658/)
+  - [ ] [Deploying Lifelong Open-Domain Dialogue Learning](https://arxiv.org/abs/2008.08076)
 
 - [ ] [Talks/Videos](https://github.com/gitlost-murali/one_percent)
   - [X] [Ilya GPT-2 Talk](https://www.youtube.com/watch?v=T0I88NhR_9M)
@@ -281,11 +282,13 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 ### Coding Tuts
 
 - [ ] [Fine-tuning with custom datasets](https://huggingface.co/transformers/master/custom_datasets.html) & [Tweet](https://twitter.com/joeddav/status/1295361743322062848?s=20)
+- [ ] [How to generate text: using different decoding methods for language generation with Transformers](https://huggingface.co/blog/how-to-generate)
 
 ### Events
 
 - [X] [Aug 20th - Exploration of Weights & Biases machine learning tools](https://us02web.zoom.us/j/2037613535)
 - [ ] [Aug 24th - Deep Learning Day at KDD](https://www.kdd.org/kdd2020/special-days/deep-learning-day)
+- [ ] [Aug 27th 6 AM IST - Tangled up in BLEU: Reevaluating the Evaluation of Automatic Machine Translation Evaluation Metrics](https://www.eventbrite.co.uk/e/nlp-with-friends-featured-friend-nitika-mathur-tickets-117606966603)
 
 ### Podcasts
 
