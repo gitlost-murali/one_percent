@@ -30,7 +30,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [X] [17. Data Files | Jekyll - Static Site Generator | Tutorial 17](https://www.youtube.com/watch?v=M6b0KmLB-pM&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=17)
   - [X] [18. Static Files | Jekyll - Static Site Generator | Tutorial 18](https://www.youtube.com/watch?v=knWjmVlVpso&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=18)
   - [X] [19. Hosting on Github Pages | Jekyll - Static Site Generator | Tutorial 19](https://www.youtube.com/watch?v=fqFjuX4VZmU&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=19)
-  - [ ] [FastAI - Fast Template for GitHub Pages](https://www.fast.ai/2020/01/16/fast_template/)
+  - [ ] [__Minimal Mistakes Jekyll theme integration__ - How to Setup GitHub Pages (2020) | Data Science Portfolio](https://www.youtube.com/watch?v=qWrcgHwSG8M)
 
 - [ ] [The Missing Semester](https://missing.csail.mit.edu/2020/)
   - [X] [1. Course overview + the shell](https://missing.csail.mit.edu/2020/course-shell/)
