@@ -9,6 +9,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 ### Software Engineering
 
 - [ ] [Dockers](https://www.youtube.com/watch?v=RSIstPUiEjY)
+- [ ] [Docker For Data Scientists](https://www.youtube.com/watch?v=0qG_0CPQhpg&feature=youtu.be)
 - [ ] [Binder: Repo2Docker](https://zero-to-jupyterhub.readthedocs.io/en/latest/repo2docker.html)
 - [ ] [Youtube: Jekyll - Static Site Generator](https://www.youtube.com/watch?v=T1itpPvFWHI&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=1)
   - [X] [1. Introduction | Jekyll - Static Site Generator | Tutorial 1](https://www.youtube.com/watch?v=T1itpPvFWHI&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=1)
@@ -31,7 +32,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [X] [18. Static Files | Jekyll - Static Site Generator | Tutorial 18](https://www.youtube.com/watch?v=knWjmVlVpso&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=18)
   - [X] [19. Hosting on Github Pages | Jekyll - Static Site Generator | Tutorial 19](https://www.youtube.com/watch?v=fqFjuX4VZmU&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=19)
   - [X] [__Minimal Mistakes Jekyll theme integration__ - How to Setup GitHub Pages (2020) | Data Science Portfolio](https://www.youtube.com/watch?v=qWrcgHwSG8M)
-  - [ ] [More Features @ Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/markup-more-images/)
+  - [X] [More Features @ Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/markup-more-images/)
 
 - [ ] [The Missing Semester](https://missing.csail.mit.edu/2020/)
   - [X] [1. Course overview + the shell](https://missing.csail.mit.edu/2020/course-shell/)
@@ -191,6 +192,8 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [Effective testing for machine learning systems](https://www.jeremyjordan.me/testing-ml/)
   - [ ] [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
   - [ ] [Finding Cross-lingual Syntax](https://ai.stanford.edu/blog/finding-crosslingual-syntax/)
+  - [ ] [Get rid of AI Saviorism](https://www.shreya-shankar.com/ai-saviorism/)
+  - [ ] [Why efficiency is dangerous and slowing down makes life better](https://psyche.co/ideas/why-efficiency-is-dangerous-and-slowing-down-makes-life-better)
   - [X] [REALM: Integrating Retrieval into Language Representation Models](https://ai.googleblog.com/2020/08/realm-integrating-retrieval-into.html)
   - [ ] [Amazon’s open-source tools make embedding knowledge graphs much more efficient](https://www.amazon.science/blog/amazons-open-source-tools-make-embedding-knowledge-graphs-much-more-efficient)
   - [ ] [Amazon Web Services open-sources biological knowledge graph to fight COVID-19](https://www.amazon.science/blog/amazon-web-services-open-sources-biological-knowledge-graph-to-fight-covid-19)
@@ -263,6 +266,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 
 ### General-Courses (Interesting but not immediate)
 
+- [ ] [FastAI - New Course](https://course.fast.ai/)
 - [ ] [Justin Johnson - Deep Learning for Computer Vision](https://www.youtube.com/watch?v=dJYGatp4SvA&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r&index=2&t=0s)
 - [ ] [Dive into Deep Learning](https://d2l.ai/)
 - [ ] [ETH-Zurich Machine Learning](https://las.inf.ethz.ch/teaching/introml-s20)
