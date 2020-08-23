@@ -307,7 +307,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 
 ### Financial & Career Knowledge
 
-- [ ] [Let's Talk money - 23%](https://github.com/freemiya)
+- [ ] [Let's Talk money - 42%](https://github.com/freemiya)
 - [ ] [Recession Proofing My Tech Career _Or the Desi Guide to Personal Finance_](https://niranting.substack.com/p/recession-proofing-my-tech-career)
 - [ ] [5 Habits of Highly Effective Data Scientists](http://approximatelycorrect.com/2020/08/17/5-habits-of-highly-effective-data-scientists/)
 - [ ] [Default Alive or Default Dead?](http://www.paulgraham.com/aord.html)
