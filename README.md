@@ -33,6 +33,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [X] [19. Hosting on Github Pages | Jekyll - Static Site Generator | Tutorial 19](https://www.youtube.com/watch?v=fqFjuX4VZmU&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=19)
   - [X] [__Minimal Mistakes Jekyll theme integration__ - How to Setup GitHub Pages (2020) | Data Science Portfolio](https://www.youtube.com/watch?v=qWrcgHwSG8M)
   - [X] [More Features @ Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/markup-more-images/)
+  - [X] [Helpers - Gallery Support](https://mmistakes.github.io/minimal-mistakes/docs/helpers/)
 
 - [ ] [The Missing Semester](https://missing.csail.mit.edu/2020/)
   - [X] [1. Course overview + the shell](https://missing.csail.mit.edu/2020/course-shell/)
