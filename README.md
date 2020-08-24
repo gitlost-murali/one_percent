@@ -104,12 +104,14 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Question Generation using Google T5  @Hugginface, Text2Text , Sense2Vec and FastApi.](https://twitter.com/RenatoViolin/status/1293266821550944256?s=20)
 - [ ] [The Hugging face Transformers master branch now includes a built-in pipeline for zero-shot text classification, to be included in the next release.](https://twitter.com/huggingface/status/1293240692924452864?s=20)
 - [ ] [Language Interpretability Tool (LIT)](https://github.com/pair-code/lit)
+- [ ] [NLP guide from AllenNLP](https://guide.allennlp.org/overview/)
 
-### Essential ML/DL tools
+### Essential tools
 
 - [X] [Talk: Camelot -> Extracting Tables from PDFs](https://www.youtube.com/watch?v=99A9Fz6uHAA)
 - [ ] [Git repo: Making Language Models like BERT, ALBERTA etc good at _Sentence Representations_](https://github.com/UKPLab/sentence-transformers)
 - [X] [Faker: Generates fake data for you like fake names, address etc](https://github.com/joke2k/faker)
+- [ ] [CascadeTabNet - Cascade mask R-CNN HRNet to detect Tables](https://github.com/DevashishPrasad/CascadeTabNet)
 
 ### Building strong NLP Fundamentals
 
@@ -195,6 +197,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
   - [ ] [Finding Cross-lingual Syntax](https://ai.stanford.edu/blog/finding-crosslingual-syntax/)
   - [ ] [Get rid of AI Saviorism](https://www.shreya-shankar.com/ai-saviorism/)
+  - [ ] [An A.I. Training Tool Has Been Passing Its Bias to Algorithms for Almost Two Decades](https://onezero.medium.com/amp/p/2967ffdd1035?__twitter_impression=true&s=03)
   - [ ] [Why efficiency is dangerous and slowing down makes life better](https://psyche.co/ideas/why-efficiency-is-dangerous-and-slowing-down-makes-life-better)
   - [X] [REALM: Integrating Retrieval into Language Representation Models](https://ai.googleblog.com/2020/08/realm-integrating-retrieval-into.html)
   - [ ] [Amazon’s open-source tools make embedding knowledge graphs much more efficient](https://www.amazon.science/blog/amazons-open-source-tools-make-embedding-knowledge-graphs-much-more-efficient)
