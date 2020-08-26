@@ -113,6 +113,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Git repo: Making Language Models like BERT, ALBERTA etc good at _Sentence Representations_](https://github.com/UKPLab/sentence-transformers)
 - [X] [Faker: Generates fake data for you like fake names, address etc](https://github.com/joke2k/faker)
 - [ ] [CascadeTabNet - Cascade mask R-CNN HRNet to detect Tables](https://github.com/DevashishPrasad/CascadeTabNet)
+- [ ] [Text Recognition with CRNN-CTC Network](https://app.wandb.ai/authors/text-recognition-crnn-ctc/reports/Text-Recognition-with-CRNN-CTC-Network--VmlldzoxNTI5NDI)
 
 ### Building strong NLP Fundamentals
 
