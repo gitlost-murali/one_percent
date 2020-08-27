@@ -196,13 +196,11 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [Learning from imbalanced data](https://www.jeremyjordan.me/imbalanced-data/)
   - [ ] [Which Optimizer should I use for my Machine Learning Project?](https://www.whattolabel.com/post/which-optimizer-should-i-use-for-my-machine-learning-project)
   - [ ] [Tempering Expectations for GPT-3 and OpenAI’s API](https://minimaxir.com/2020/07/gpt3-expectations/)
-  - [ ] [Text Recognition with CRNN-CTC Network](https://app.wandb.ai/authors/text-recognition-crnn-ctc/reports/Text-Recognition-with-CRNN-CTC-Network--VmlldzoxNTI5NDI)
   - [ ] [Effective testing for machine learning systems](https://www.jeremyjordan.me/testing-ml/)
   - [ ] [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
   - [ ] [Finding Cross-lingual Syntax](https://ai.stanford.edu/blog/finding-crosslingual-syntax/)
   - [X] [Get rid of AI Saviorism](https://www.shreya-shankar.com/ai-saviorism/)
   - [ ] [An A.I. Training Tool Has Been Passing Its Bias to Algorithms for Almost Two Decades](https://onezero.medium.com/amp/p/2967ffdd1035?__twitter_impression=true&s=03)
-  - [ ] [Why efficiency is dangerous and slowing down makes life better](https://psyche.co/ideas/why-efficiency-is-dangerous-and-slowing-down-makes-life-better)
   - [X] [REALM: Integrating Retrieval into Language Representation Models](https://ai.googleblog.com/2020/08/realm-integrating-retrieval-into.html)
   - [ ] [Amazon’s open-source tools make embedding knowledge graphs much more efficient](https://www.amazon.science/blog/amazons-open-source-tools-make-embedding-knowledge-graphs-much-more-efficient)
   - [ ] [Amazon Web Services open-sources biological knowledge graph to fight COVID-19](https://www.amazon.science/blog/amazon-web-services-open-sources-biological-knowledge-graph-to-fight-covid-19)
@@ -273,6 +271,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [5 Habits of Highly Effective Data Scientists](http://approximatelycorrect.com/2020/08/17/5-habits-of-highly-effective-data-scientists/)
   - [ ] [Embrace Beginner's Mind; Avoid The Wrong Way To Be An Expert](https://eugeneyan.com/writing/beginners-mind/)
   - [ ] [Data Science and Agile (What works, and what doesn't)](https://eugeneyan.com/writing/data-science-and-agile-what-works-and-what-doesnt/)
+  - [ ] [Why efficiency is dangerous and slowing down makes life better](https://psyche.co/ideas/why-efficiency-is-dangerous-and-slowing-down-makes-life-better)
 
 
 ### Jobs/Roles details
