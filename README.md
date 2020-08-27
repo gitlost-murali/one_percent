@@ -79,6 +79,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [7. Research Areas](https://course.fullstackdeeplearning.com/course-content/testing-and-deployment)
 
 - [ ] [Organize Your Machine Learning Pipelines with Artifacts](https://app.wandb.ai/authors/artifact-workplace-safety/reports/Organize-Your-Machine-Learning-Pipelines-with-Artifacts--VmlldzoxODQwNTY)
+- [ ] [How to Deploy Machine Learning Models](https://christophergs.com/machine%20learning/2019/03/17/how-to-deploy-machine-learning-models/)
 
 ### Open-Source Contribution
 
