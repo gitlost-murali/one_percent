@@ -198,7 +198,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [Effective testing for machine learning systems](https://www.jeremyjordan.me/testing-ml/)
   - [ ] [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
   - [ ] [Finding Cross-lingual Syntax](https://ai.stanford.edu/blog/finding-crosslingual-syntax/)
-  - [ ] [Get rid of AI Saviorism](https://www.shreya-shankar.com/ai-saviorism/)
+  - [X] [Get rid of AI Saviorism](https://www.shreya-shankar.com/ai-saviorism/)
   - [ ] [An A.I. Training Tool Has Been Passing Its Bias to Algorithms for Almost Two Decades](https://onezero.medium.com/amp/p/2967ffdd1035?__twitter_impression=true&s=03)
   - [ ] [Why efficiency is dangerous and slowing down makes life better](https://psyche.co/ideas/why-efficiency-is-dangerous-and-slowing-down-makes-life-better)
   - [X] [REALM: Integrating Retrieval into Language Representation Models](https://ai.googleblog.com/2020/08/realm-integrating-retrieval-into.html)
@@ -230,6 +230,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [X] [Aug 20th - Exploration of Weights & Biases machine learning tools](https://us02web.zoom.us/j/2037613535)
 - [ ] [Aug 24th - Deep Learning Day at KDD](https://www.kdd.org/kdd2020/special-days/deep-learning-day)
 - [ ] [Aug 27th 6 AM IST - Tangled up in BLEU: Reevaluating the Evaluation of Automatic Machine Translation Evaluation Metrics](https://www.eventbrite.co.uk/e/nlp-with-friends-featured-friend-nitika-mathur-tickets-117606966603)
+- [ ] [October 6th-9th NLP Summit](https://www.nlpsummit.org/registration/)
 
 ### Podcasts
 
