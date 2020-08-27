@@ -265,6 +265,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Career]()
   - [ ] [Triple Thread : Career Advice](https://dilbertblog.typepad.com/the_dilbert_blog/2007/07/career-advice.html)
   - [ ] [Where to go and why](https://pmarchive.com/guide_to_career_planning_part3.html)
+  - [ ] [Five Nonobvious Remote Work Techniques](https://queue.acm.org/detail.cfm?id=3417752&s=03)
   - [ ] [Don't End The Week With Nothing](https://training.kalzumeus.com/newsletters/archive/do-not-end-the-week-with-nothing)
   - [ ] [Act Like You're 35._What I wish I knew when I was 20 about Workplace_](https://niranting.substack.com/p/act-like-youre-35)
   - [ ] [Reach Out, Stay in Touch and Deepen Your Connections with This Essential Networking Advice](https://firstround.com/review/reach-out-stay-in-touch-and-deepen-your-connections-with-this-essential-networking-advice/)
