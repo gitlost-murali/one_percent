@@ -192,6 +192,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [X] [Custom NLP Approaches to Data Anonymization](https://towardsdatascience.com/nlp-approaches-to-data-anonymization-1fb5bde6b929)
   - [X] [NLP Keeps Stealing From CV 👨🏻‍🎤 Why NLP engineers shouldn’t stop learning CV](https://pakodas.substack.com/p/nlp-keeps-stealing-from-cv-)
   - [ ] [Is Hopfield Networks All You Need?](https://analyticsindiamag.com/modern-hopfield-network-transformers-attention/)
+  - [ ] [Hopfield Networks is All You Need](https://ml-jku.github.io/hopfield-layers/?s=03)
   - [ ] [Developments in NLP from RNNs(1985) to Big Bird(2020).](https://eugeneyan.com/writing/nlp-supervised-learning-survey/)
   - [ ] [Zero-Shot Learning in Modern NLP](https://joeddav.github.io/blog/2020/05/29/ZSL.html)
   - [ ] [Introduction to Graph Neural Networks with GatedGCN](https://app.wandb.ai/yashkotadia/gatedgcn-pattern/reports/Introduction-to-Graph-Neural-Networks-with-GatedGCN--VmlldzoyMDg4MjA)
@@ -206,6 +207,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [X] [REALM: Integrating Retrieval into Language Representation Models](https://ai.googleblog.com/2020/08/realm-integrating-retrieval-into.html)
   - [X] [Amazon’s open-source tools make embedding knowledge graphs much more efficient](https://www.amazon.science/blog/amazons-open-source-tools-make-embedding-knowledge-graphs-much-more-efficient)
   - [ ] [Amazon Web Services open-sources biological knowledge graph to fight COVID-19](https://www.amazon.science/blog/amazon-web-services-open-sources-biological-knowledge-graph-to-fight-covid-19)
+  - [ ] [Intro to Adversarial Examples](https://app.wandb.ai/authors/adv-dl/reports/An-Introduction-to-Adversarial-Examples-in-Deep-Learning--VmlldzoyMTQwODM?s=03)
 
 
 ### General-Courses (Interesting but not immediate)
