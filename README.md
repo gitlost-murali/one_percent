@@ -162,7 +162,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 
   - [X] [NLP Checklist Paper](https://arxiv.org/abs/2005.04118)
   - [ ] [Benchmarking Zero-shot Text Classification: Datasets, Evaluation and Entailment Approach](https://arxiv.org/abs/1909.00161)
-  - [ ] [Let Me Choose: From Verbal Context to Font Selection](https://arxiv.org/abs/2005.01151)
+  - [X] [Let Me Choose: From Verbal Context to Font Selection](https://arxiv.org/abs/2005.01151)
   - [ ] [Human Attention Maps for Text Classification: Do Humans and Neural Networks Focus on the Same Words?](https://www.aclweb.org/anthology/2020.acl-main.419)
   - [ ] [Pre-train and Plug-in: Flexible Conditional Text Generation with Variational Auto-Encoders](https://www.youtube.com/watch?v=f2m6Mon0VE8)
   - [ ] [Contextualized Weak Supervision for Text Classification](https://www.aclweb.org/anthology/2020.acl-main.30)
