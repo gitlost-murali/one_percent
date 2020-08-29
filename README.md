@@ -186,6 +186,9 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [ACL 2019 tutorial on Unsupervised Cross-lingual Representation Learning](https://tinyurl.com/xlingual)
   - [X] [REALM: Retrieval-Augmented Language Model Pre-Training | NLP Journal Club](https://www.youtube.com/watch?v=mFoEig-Xi_0)
 
+- [ ] [Podcasts]()
+  - [ ] [Generating Sentiment-Preserving Fake Online Reviews Using Neural Language Models and Their Human- and Machine-based Detection](https://dataskeptic.libsyn.com/sentiment-preserving-fake-reviews) based on [Paper](https://arxiv.org/abs/1907.09177)
+
 - [ ] [Blogs](https://github.com/gitlost-murali/one_percent)
   - [X] [Why You Should Do NLP Beyond English](https://ruder.io/nlp-beyond-english/)
   - [X] [Simple Ways to Tackle Class Imbalance](https://app.wandb.ai/authors/class-imbalance/reports/Simple-Ways-to-Tackle-Class-Imbalance--VmlldzoxODA3NTk)
