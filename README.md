@@ -253,7 +253,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 
 - [ ] [On nlp-helper tool](https://github.com/freemiya)
 - [ ] [Collate all - t5, marge, pegasus, electra etc.](https://github.com/freemiya)
-- [ ] [Explaining PDF backend]()
+- [X] [Explaining PDF backend](https://gitlost-murali.github.io/blogs/tooling/pdf/how-to-read-write-pdfs/)
 
 ### Financial & Career Knowledge
 
