@@ -60,6 +60,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 
 ### Structuring machine learning projects
 
+- [ ] [PyTorch Performance Tuning Guide - Szymon Migacz, NVIDIA](https://www.youtube.com/watch?v=9mS1fIYj1So)
 - [ ] [What is ML Ops? Best Practices for DevOps for ML (Cloud Next '18)](https://www.youtube.com/watch?v=_jnhXzY1HCw&feature=youtu.be)
 - [ ] [ML Ops - DVCorg](https://www.youtube.com/watch?v=9BgIDqAzfuA&feature=youtu.be)
   - [X] [MLOps Tutorial #1: Intro to Continuous Integration for ML](https://www.youtube.com/watch?v=9BgIDqAzfuA&feature=youtu.be)
