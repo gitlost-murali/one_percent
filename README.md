@@ -66,6 +66,8 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [X] [MLOps Tutorial #1: Intro to Continuous Integration for ML](https://www.youtube.com/watch?v=9BgIDqAzfuA&feature=youtu.be)
   - [X] [MLOps Tutorial #2: When data is too big for Git](https://www.youtube.com/watch?v=kZKAuShWF0s)
   - [ ] [MLOps Tutorial #3: Track ML models with Git & GitHub Actions](https://www.youtube.com/watch?v=xPncjKH6SPk)
+  - [ ] [MLOps Tutorial #4: GitHub Actions with your own GPUs](https://www.youtube.com/watch?v=rVq-SCNyxVc)
+  - [ ] [DVC Explained in Five Minutes](https://www.youtube.com/watch?v=UbL7VUpv1Bs)
   - [ ] [Elle O'Brien - Adapting continuous integration and continuous delivery for ML](https://www.youtube.com/watch?v=yp0su5mOeko&feature=emb_title)
 - [ ] [MLOps: Accelerating Data Science with DevOps - Microsoft](https://www.youtube.com/watch?v=pqppGvTJm-A)
 - [ ] [Full Stack Deep Learning Course](https://course.fullstackdeeplearning.com/)
