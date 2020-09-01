@@ -95,6 +95,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 ### Data Annotation strategies
 
 - [ ] [Snorkel: Dark Data and Machine Learning - Christopher Ré](https://www.youtube.com/watch?v=yu15Nf5eJEE)
+- [ ] [Snorkel: Tweet asking Custom Snorkel Annotation Functions](https://twitter.com/yoavgo/status/1300582803319513089)
 - [ ] [FAQ #1: Tips & tricks for NLP, annotation & training with Prodigy and spaCy](https://www.youtube.com/watch?v=tMAU3gLbKII)
 - [ ] [TRAINING A NEW ENTITY TYPE with Prodigy – annotation powered by active learning](https://www.youtube.com/watch?v=l4scwf8KeIA&feature=youtu.be)
 - [ ] [Training a NAMED ENTITY RECOGNITION MODEL with Prodigy and Transfer Learning](https://www.youtube.com/watch?v=59BKHO_xBPA&feature=youtu.be)
@@ -103,6 +104,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 ### Up-to-date with NLP tools
 
 - [ ] [5 NLP Libraries Everyone Should Know | by Pawan Jain | Jul, 2020 | Towards Data Science: spaCy, NLTK, Transformers, Gensim, and Stanza](https://towardsdatascience.com/5-nlp-libraries-everyone-should-know-4f13f5263908)
+- [ ] [fine-tuned (distil)GPT-2 on "Amazon fine food reviews dataset".](https://twitter.com/mrm8488/status/1300822620192092160?s=03)
 - [ ] [TextAttack](https://github.com/QData/TextAttack)
 - [ ] [Checklist](https://github.com/marcotcr/checklist)
 - [ ] [PET: Cloze Questions](https://github.com/timoschick/pet)
@@ -253,6 +255,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 ### Revisiting concepts with Summary Papers
 
 - [ ] [Text Classification Algorithms: A Survey](https://arxiv.org/pdf/1904.08067.pdf)
+- [ ] [A Survey of Evaluation Metrics Used for NLG Systems](https://arxiv.org/abs/2008.12009)
 
 ### Blog ideas
 
