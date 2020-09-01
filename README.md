@@ -268,7 +268,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [Default Alive or Default Dead?](http://www.paulgraham.com/aord.html)
   - [X] [The FIRE movement](https://www.mrmoneymustache.com/2018/10/05/the-fire-movement/)
   - [X] [Prepping for the next Recession](https://www.mrmoneymustache.com/2017/06/20/next-recession/)
-  - [ ] [The Shockingly Simple Math Behind Early Retirement](https://www.mrmoneymustache.com/2012/01/13/the-shockingly-simple-math-behind-early-retirement/)
+  - [X] [The Shockingly Simple Math Behind Early Retirement](https://www.mrmoneymustache.com/2012/01/13/the-shockingly-simple-math-behind-early-retirement/)
   - [ ] [The 4% Rule: The Easy Answer to “How Much Do I Need for Retirement?”](https://www.mrmoneymustache.com/2012/05/29/how-much-do-i-need-for-retirement/)
   - [ ] [How to Prosper in an Economic Boom - For 2013, maynot be applicable now](https://www.mrmoneymustache.com/2013/05/07/how-to-prosper-in-an-economic-boom/)
   - [ ] [Getting out of the country, even within the same country: moving from Bengaluru to Varkala can be a huge income saver for most techies]()
