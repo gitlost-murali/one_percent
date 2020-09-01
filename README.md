@@ -233,6 +233,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Advanced Computer Vision](https://www.youtube.com/playlist?list=PLog3nOPCjKBnjhuHMIXu4ISE4Z4f2jm39)
 - [ ] [Deep Learning for Computer Vision](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
 - [ ] [Amazing line-up of tutorials on self-supervised, semi-supervised & weakly-supervised learning.](https://nvlabs.github.io/eccv2020-limited-labels-data-tutorial/)
+- [ ] [Intro to Causal Learning](https://www.bradyneal.com/causal-inference-course)
 
 ### Coding Tuts
 
