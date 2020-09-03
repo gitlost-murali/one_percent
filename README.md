@@ -240,6 +240,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Amazing line-up of tutorials on self-supervised, semi-supervised & weakly-supervised learning.](https://nvlabs.github.io/eccv2020-limited-labels-data-tutorial/)
 - [ ] [Intro to Causal Learning](https://www.bradyneal.com/causal-inference-course)
 - [ ] [Curated list of tutorials, projects, libraries, videos, papers, books and anything related to the incredible PyTorch.](https://github.com/ritchieng/the-incredible-pytorch)
+- [ ] [MultiModal Machine Learning - C.M.U](https://cmu-multicomp-lab.github.io/mmml-course/fall2020/schedule/)
 
 ### Coding Tuts
 
@@ -253,6 +254,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [X] [Aug 20th - Exploration of Weights & Biases machine learning tools](https://us02web.zoom.us/j/2037613535)
 - [ ] [Aug 24th - Deep Learning Day at KDD](https://www.kdd.org/kdd2020/special-days/deep-learning-day)
 - [ ] [Aug 27th 6 AM IST - Tangled up in BLEU: Reevaluating the Evaluation of Automatic Machine Translation Evaluation Metrics](https://www.eventbrite.co.uk/e/nlp-with-friends-featured-friend-nitika-mathur-tickets-117606966603)
+- [ ] [Sept-2nd Fair comparisons for generative language models—with a bit of Information Theory](https://www.eventbrite.co.uk/e/nlp-with-friends-featured-friend-sabrina-j-mielke-tickets-118647236077#)
 - [ ] [October 6th-9th NLP Summit](https://www.nlpsummit.org/registration/)
 
 ### Podcasts
