@@ -182,6 +182,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [The State and Fate of Linguistic Diversity and Inclusion in the NLP World](https://arxiv.org/pdf/2004.09095.pdf)
   - [ ] [A Call for More Rigor in Unsupervised Cross-lingual Learning](https://www.aclweb.org/anthology/2020.acl-main.658/)
   - [ ] [Deploying Lifelong Open-Domain Dialogue Learning](https://arxiv.org/abs/2008.08076)
+  - [ ] [The Woman Worked as a Babysitter: On Biases in Language Generation](https://arxiv.org/pdf/1909.01326.pdf)
 
 - [ ] [Talks/Videos](https://github.com/gitlost-murali/one_percent)
   - [X] [Ilya GPT-2 Talk](https://www.youtube.com/watch?v=T0I88NhR_9M)
