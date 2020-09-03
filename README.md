@@ -206,6 +206,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [Hopfield Networks is All You Need](https://ml-jku.github.io/hopfield-layers/?s=03)
   - [ ] [Developments in NLP from RNNs(1985) to Big Bird(2020).](https://eugeneyan.com/writing/nlp-supervised-learning-survey/)
   - [ ] [Zero-Shot Learning in Modern NLP](https://joeddav.github.io/blog/2020/05/29/ZSL.html)
+  - [ ] [Better Language Models and Their Implications](https://openai.com/blog/better-language-models/)
   - [ ] [Practical AI: Using NLP word embeddings to solve localization](https://madewithml.com/projects/2251/practical-ai-using-nlp-word-embeddings-to-solve-localization/)
   - [ ] [Introduction to Graph Neural Networks with GatedGCN](https://app.wandb.ai/yashkotadia/gatedgcn-pattern/reports/Introduction-to-Graph-Neural-Networks-with-GatedGCN--VmlldzoyMDg4MjA)
   - [ ] [Learning from imbalanced data](https://www.jeremyjordan.me/imbalanced-data/)
@@ -237,6 +238,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Deep Learning for Computer Vision](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
 - [ ] [Amazing line-up of tutorials on self-supervised, semi-supervised & weakly-supervised learning.](https://nvlabs.github.io/eccv2020-limited-labels-data-tutorial/)
 - [ ] [Intro to Causal Learning](https://www.bradyneal.com/causal-inference-course)
+- [ ] [Curated list of tutorials, projects, libraries, videos, papers, books and anything related to the incredible PyTorch.](https://github.com/ritchieng/the-incredible-pytorch)
 
 ### Coding Tuts
 
@@ -262,6 +264,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 
 - [ ] [Text Classification Algorithms: A Survey](https://arxiv.org/pdf/1904.08067.pdf)
 - [ ] [A Survey of Evaluation Metrics Used for NLG Systems](https://arxiv.org/abs/2008.12009)
+- [ ] [100 Must-Read NLP Papers](https://github.com/mhagiwara/100-nlp-papers)
 
 ### Blog ideas
 
