@@ -95,7 +95,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 ### Data Annotation strategies
 
 - [X] [Snorkel: Dark Data and Machine Learning - Christopher Ré](https://www.youtube.com/watch?v=yu15Nf5eJEE)
-- [ ] [Snorkel: Programming Training Data with Paroma Varma of Stanford University (2019)](https://www.youtube.com/watch?v=RUPbYvzSrg0)
+- [X] [Snorkel: Programming Training Data with Paroma Varma of Stanford University (2019)](https://www.youtube.com/watch?v=RUPbYvzSrg0)
 - [ ] [Snorkel: Tweet asking Custom Snorkel Annotation Functions](https://twitter.com/yoavgo/status/1300582803319513089)
 - [ ] [FAQ #1: Tips & tricks for NLP, annotation & training with Prodigy and spaCy](https://www.youtube.com/watch?v=tMAU3gLbKII)
 - [ ] [TRAINING A NEW ENTITY TYPE with Prodigy – annotation powered by active learning](https://www.youtube.com/watch?v=l4scwf8KeIA&feature=youtu.be)
