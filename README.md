@@ -316,7 +316,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 
 - [X] [Book: Riot](https://www.goodreads.com/book/show/30842.Riot)
 - [ ] [Book: No Country for Old Men](https://www.goodreads.com/book/show/12497.No_Country_for_Old_Men)
-- [ ] [Book: Meditation and its methods - 49%]()
+- [X] [Book: Meditation and its methods - 49%]()
 
 ### (Deep) Learning with Limited Labeled Data (DL3D): Unsupervised, Self-Supervised Learning Papers
 
