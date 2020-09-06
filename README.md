@@ -274,6 +274,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Text Classification Algorithms: A Survey](https://arxiv.org/pdf/1904.08067.pdf)
 - [ ] [A Survey of Evaluation Metrics Used for NLG Systems](https://arxiv.org/abs/2008.12009)
 - [ ] [100 Must-Read NLP Papers](https://github.com/mhagiwara/100-nlp-papers)
+- [ ] [A Survey of Surveys (NLP & ML)](https://github.com/NiuTrans/ABigSurvey)
 
 ### Blog ideas
 
