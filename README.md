@@ -120,6 +120,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Git repo: Making Language Models like BERT, ALBERTA etc good at _Sentence Representations_](https://github.com/UKPLab/sentence-transformers)
 - [X] [Faker: Generates fake data for you like fake names, address etc](https://github.com/joke2k/faker)
 - [X] [Label-Studio: Setup and map with a ML model](https://github.com/heartexlabs/label-studio)
+- [ ] [Quickly create customizable UI components around your TensorFlow or PyTorch models, or even arbitrary Python functions.](https://github.com/gradio-app/gradio)
 - [ ] [CascadeTabNet - Cascade mask R-CNN HRNet to detect Tables](https://github.com/DevashishPrasad/CascadeTabNet)
 - [ ] [Text Recognition with CRNN-CTC Network](https://app.wandb.ai/authors/text-recognition-crnn-ctc/reports/Text-Recognition-with-CRNN-CTC-Network--VmlldzoxNTI5NDI)
 
