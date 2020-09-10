@@ -129,7 +129,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 ### Building strong NLP Fundamentals
 
 - [X] [Video: Understanding ROC Curve](https://www.youtube.com/watch?v=4jRBRDbJemM)
-
+- [X] [Video: BackPropagation Through Time](https://www.youtube.com/watch?v=Xeb6OjnVn8g)
 - [ ] [CS224N](http://web.stanford.edu/class/cs224n/)
 
   - [X] [1. Introduction and Word Vectors](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=1)
