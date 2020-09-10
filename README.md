@@ -302,6 +302,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [Getting out of the country, even within the same country: moving from Bengaluru to Varkala can be a huge income saver for most techies]()
 
 - [ ] [Career]()
+  - [ ] [Masters/PhD application Advice by Andrew Trask -> Apply to work with a professor more than a dept/uni if possible ...](https://twitter.com/iamtrask/status/1303646976433623040?s=03)
   - [ ] [Triple Thread : Career Advice](https://dilbertblog.typepad.com/the_dilbert_blog/2007/07/career-advice.html)
   - [ ] [Where to go and why](https://pmarchive.com/guide_to_career_planning_part3.html)
   - [X] [Five Nonobvious Remote Work Techniques](https://queue.acm.org/detail.cfm?id=3417752&s=03)
