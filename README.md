@@ -188,6 +188,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [A Call for More Rigor in Unsupervised Cross-lingual Learning](https://www.aclweb.org/anthology/2020.acl-main.658/)
   - [ ] [Deploying Lifelong Open-Domain Dialogue Learning](https://arxiv.org/abs/2008.08076)
   - [ ] [The Woman Worked as a Babysitter: On Biases in Language Generation](https://arxiv.org/pdf/1909.01326.pdf)
+  - [ ] [Annotated Paper on __What should not be Contrastive in Contrastive learning__](https://github.com/AakashKumarNain/annotated_research_papers/)
 
 - [ ] [Talks/Videos](https://github.com/gitlost-murali/one_percent)
   - [X] [Ilya GPT-2 Talk](https://www.youtube.com/watch?v=T0I88NhR_9M)
