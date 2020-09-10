@@ -125,6 +125,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [UBIAI: Easy-to-Use Text Annotation for NLP Applications](https://ubiai.tools/)
 - [ ] [CascadeTabNet - Cascade mask R-CNN HRNet to detect Tables](https://github.com/DevashishPrasad/CascadeTabNet)
 - [ ] [Text Recognition with CRNN-CTC Network](https://app.wandb.ai/authors/text-recognition-crnn-ctc/reports/Text-Recognition-with-CRNN-CTC-Network--VmlldzoxNTI5NDI)
+- [ ] [VS Code (codeserver) on Google Colab / Kaggle / Anywhere](https://www.youtube.com/watch?v=7kTbM3D02jU)
 
 ### Building strong NLP Fundamentals
 
@@ -189,12 +190,14 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [Deploying Lifelong Open-Domain Dialogue Learning](https://arxiv.org/abs/2008.08076)
   - [ ] [The Woman Worked as a Babysitter: On Biases in Language Generation](https://arxiv.org/pdf/1909.01326.pdf)
   - [ ] [Annotated Paper on __What should not be Contrastive in Contrastive learning__](https://github.com/AakashKumarNain/annotated_research_papers/)
+  - [ ] [Generative Language Modeling for Automated Theorem Proving](https://arxiv.org/abs/2009.03393)
 
 - [ ] [Talks/Videos](https://github.com/gitlost-murali/one_percent)
   - [X] [Ilya GPT-2 Talk](https://www.youtube.com/watch?v=T0I88NhR_9M)
   - [ ] [NLP Idiots](https://www.youtube.com/watch?v=f2m6Mon0VE8)
   - [X] [Data Augmentation using PreTrained Models](https://www.youtube.com/watch?v=3N_a7LAU-pc&feature=youtu.be)
   - [ ] [SpanBERT: Improving Pre-training by Representing and Predicting Spans | Research Paper Walkthrough](https://www.youtube.com/watch?v=QUP3rMrA1mk)
+  - [ ] [Please Stop Doing "Explainable" ML - Cynthia Rudin](https://www.youtube.com/watch?v=I0yrJz8uc5Q)
   - [ ] [Text Data Augmentation Made Simple By Leveraging NLP Cloud APIs - Claude Coulombe](https://www.youtube.com/watch?v=rEAxxE6-wco)
   - [ ] [Well-Read Students Learn Better](https://www.youtube.com/watch?v=yEhwRsuaPQs)
   - [X] [Easy Data Augmentation for Text Classification](https://www.youtube.com/watch?v=3w92peJtYNQ)
