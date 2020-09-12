@@ -175,7 +175,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [6/9 - Benchmarking Zero-shot Text Classification: Datasets, Evaluation and Entailment Approach](https://arxiv.org/abs/1909.00161)
   - [X] [Let Me Choose: From Verbal Context to Font Selection](https://arxiv.org/abs/2005.01151)
   - [ ] [6/9 - Cross-lingual Language Model Pretraining](https://arxiv.org/abs/1901.07291)
-  - [ ] [3/9 - A Multilingual View of Unsupervised Machine Translation](https://arxiv.org/abs/2002.02955)
+  - [ ] [3/8 - A Multilingual View of Unsupervised Machine Translation](https://arxiv.org/abs/2002.02955)
   - [ ] [Human Attention Maps for Text Classification: Do Humans and Neural Networks Focus on the Same Words?](https://www.aclweb.org/anthology/2020.acl-main.419)
   - [ ] [Integrating Semantic Knowledge to Tackle Zero-shot Text Classification](https://arxiv.org/pdf/1903.12626.pdf)
   - [ ] [Continual Learning and Active Learning](https://arxiv.org/abs/2009.01797)
@@ -332,7 +332,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 
 - [X] [Book: Riot](https://www.goodreads.com/book/show/30842.Riot)
 - [ ] [Book: How to Deal with Bullies at Work - 13%](https://www.goodreads.com/book/show/33503509-the-asshole-survival-guide)
-- [ ] [Book: No Country for Old Men](https://www.goodreads.com/book/show/12497.No_Country_for_Old_Men)
+- [ ] [Book: No Country for Old Men - 12%](https://www.goodreads.com/book/show/12497.No_Country_for_Old_Men)
 - [X] [Book: Meditation and its methods - 49% - Boring. Got the gist]()
 
 ### (Deep) Learning with Limited Labeled Data (DL3D): Unsupervised, Self-Supervised Learning Papers
