@@ -61,6 +61,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 ### Structuring machine learning projects
 
 - [ ] [PyTorch Performance Tuning Guide - Szymon Migacz, NVIDIA](https://www.youtube.com/watch?v=9mS1fIYj1So)
+- [ ] [Managing the Model Artifacts?](https://twitter.com/nlpguy_/status/1302275537881055233?s=03)
 - [ ] [What is ML Ops? Best Practices for DevOps for ML (Cloud Next '18)](https://www.youtube.com/watch?v=_jnhXzY1HCw&feature=youtu.be)
 - [ ] [ML Ops - DVCorg](https://www.youtube.com/watch?v=9BgIDqAzfuA&feature=youtu.be)
   - [X] [MLOps Tutorial #1: Intro to Continuous Integration for ML](https://www.youtube.com/watch?v=9BgIDqAzfuA&feature=youtu.be)
@@ -114,6 +115,9 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [The Hugging face Transformers master branch now includes a built-in pipeline for zero-shot text classification, to be included in the next release.](https://twitter.com/huggingface/status/1293240692924452864?s=20)
 - [ ] [Language Interpretability Tool (LIT)](https://github.com/pair-code/lit)
 - [ ] [NLP guide from AllenNLP](https://guide.allennlp.org/overview/)
+- [ ] [Is there any approach to normalize words like helllllloooooo to hello?](https://www.reddit.com/r/LanguageTechnology/comments/io87i7/is_there_any_approach_to_normalize_words_like/?utm_medium=android_app&utm_source=share)
+- [ ] [BioBERT for Medical Domain](https://www.reddit.com/r/LanguageTechnology/comments/ip9qfz/biobert_cosine_similarity/?utm_medium=android_app&utm_source=share)
+- [ ] [Codequestion: Ask coding questions directly from the terminal](https://www.reddit.com/r/MachineLearning/comments/irauuz/p_codequestion_ask_coding_questions_directly_from/?utm_medium=android_app&utm_source=share)
 
 ### Essential tools
 
@@ -176,6 +180,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [X] [Let Me Choose: From Verbal Context to Font Selection](https://arxiv.org/abs/2005.01151)
   - [ ] [`6/9` - Cross-lingual Language Model Pretraining](https://arxiv.org/abs/1901.07291)
   - [ ] [`4/8` - A Multilingual View of Unsupervised Machine Translation](https://arxiv.org/abs/2002.02955)
+  - [ ] [Transforming machine translation: a deep learning system reaches news translation quality comparable to human professionals](https://www.nature.com/articles/s41467-020-18073-9)
   - [ ] [Human Attention Maps for Text Classification: Do Humans and Neural Networks Focus on the Same Words?](https://www.aclweb.org/anthology/2020.acl-main.419)
   - [ ] [Integrating Semantic Knowledge to Tackle Zero-shot Text Classification](https://arxiv.org/pdf/1903.12626.pdf)
   - [ ] [Continual Learning and Active Learning](https://arxiv.org/abs/2009.01797)
@@ -192,6 +197,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [The Woman Worked as a Babysitter: On Biases in Language Generation](https://arxiv.org/pdf/1909.01326.pdf)
   - [ ] [Annotated Paper on __What should not be Contrastive in Contrastive learning__](https://github.com/AakashKumarNain/annotated_research_papers/)
   - [ ] [Generative Language Modeling for Automated Theorem Proving](https://arxiv.org/abs/2009.03393)
+  - [ ] [Investigating Gender Bias in BERT](https://arxiv.org/abs/2009.05021)
 
 - [ ] [Talks/Videos](https://github.com/gitlost-murali/one_percent)
   - [X] [Ilya GPT-2 Talk](https://www.youtube.com/watch?v=T0I88NhR_9M)
@@ -219,6 +225,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [Hopfield Networks is All You Need](https://ml-jku.github.io/hopfield-layers/?s=03)
   - [X] [How are spaCy models trained in the background?](https://www.reddit.com/r/LanguageTechnology/comments/imkl7s/how_are_spacy_models_trained_in_the_background/?utm_medium=android_app&utm_source=share)
   - [ ] [Tutorial: Training on larger batches with less memory in AllenNLP](https://medium.com/ai2-blog/tutorial-training-on-larger-batches-with-less-memory-in-allennlp-1cd2047d92ad)
+  - [ ] [Achieving Human Parity on Automatic Chinese to English News Translation](https://www.microsoft.com/en-us/research/publication/achieving-human-parity-on-automatic-chinese-to-english-news-translation/)
   - [ ] [Introducing UBIAI: Easy-to-Use Text Annotation for NLP Applications](https://medium.com/@walidamamou/introducing-ubiai-easy-to-use-text-annotation-for-nlp-applications-74a2401fa725)
   - [ ] [Developments in NLP from RNNs(1985) to Big Bird(2020).](https://eugeneyan.com/writing/nlp-supervised-learning-survey/)
   - [ ] [Zero-Shot Learning in Modern NLP](https://joeddav.github.io/blog/2020/05/29/ZSL.html)
@@ -256,6 +263,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Intro to Causal Learning](https://www.bradyneal.com/causal-inference-course)
 - [ ] [Curated list of tutorials, projects, libraries, videos, papers, books and anything related to the incredible PyTorch.](https://github.com/ritchieng/the-incredible-pytorch)
 - [ ] [MultiModal Machine Learning - C.M.U](https://cmu-multicomp-lab.github.io/mmml-course/fall2020/schedule/)
+- [ ] [Multilingual Natural Language Processing](http://demo.clab.cs.cmu.edu/11737fa20/)
 
 ### Coding Tuts
 
@@ -263,6 +271,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Easy GPT2 fine-tuning with @huggingface Transformers and @PyTorch using @GoogleColab](http://reyfarhan.com/posts/easy-gpt2-finetuning-huggingface/)
 - [ ] [How to generate text: using different decoding methods for language generation with Transformers](https://huggingface.co/blog/how-to-generate)
 - [ ] [Deep dive into simCLR with code-first approach ("A Simple Framework for Contrastive Learning of Visual Representations")](https://www.youtube.com/playlist?list=PLaMu-SDt_RB4k8VXiB3hOdsn0Y3GoXo1k)
+- [ ] [Python Knowledge Graph: Understanding Semantic Relationships](https://programmerbackpack.com/python-knowledge-graph-understanding-semantic-relationships/)
 
 ### Events
 
@@ -307,6 +316,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [Getting out of the country, even within the same country: moving from Bengaluru to Varkala can be a huge income saver for most techies]()
 
 - [ ] [Career]()
+  - [ ] [Reflecting On My Failure To Craft Luck](https://pakodas.substack.com/p/reflecting-on-my-failure-to-craft?r=3w6vr&utm_campaign=post&utm_medium=web&utm_source=twitter)
   - [ ] [Masters/PhD application Advice by Andrew Trask -> Apply to work with a professor more than a dept/uni if possible ...](https://twitter.com/iamtrask/status/1303646976433623040?s=03)
   - [ ] [Triple Thread : Career Advice](https://dilbertblog.typepad.com/the_dilbert_blog/2007/07/career-advice.html)
   - [ ] [Where to go and why](https://pmarchive.com/guide_to_career_planning_part3.html)
