@@ -70,6 +70,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [X] [MLOps Tutorial #4: GitHub Actions with your own GPUs](https://www.youtube.com/watch?v=rVq-SCNyxVc)
   - [X] [DVC Explained in Five Minutes](https://www.youtube.com/watch?v=UbL7VUpv1Bs)
   - [ ] [Elle O'Brien - Adapting continuous integration and continuous delivery for ML](https://www.youtube.com/watch?v=yp0su5mOeko&feature=emb_title)
+- [X] [DVC Implementation: Completed setting up a project and running a pipeline](https://dvc.org/doc/start/experiments)
 - [ ] [MLOps: Accelerating Data Science with DevOps - Microsoft](https://www.youtube.com/watch?v=pqppGvTJm-A)
 - [X] [MLflow: An Open Platform to Simplify the Machine Learning Lifecycle](https://www.youtube.com/watch?v=859OxXrt_TI)
 - [ ] [Full Stack Deep Learning Course](https://course.fullstackdeeplearning.com/)
