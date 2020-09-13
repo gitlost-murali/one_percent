@@ -172,9 +172,9 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Papers](https://github.com/gitlost-murali/one_percent)
 
   - [X] [NLP Checklist Paper](https://arxiv.org/abs/2005.04118)
-  - [ ] [6/9 - Benchmarking Zero-shot Text Classification: Datasets, Evaluation and Entailment Approach](https://arxiv.org/abs/1909.00161)
+  - [ ] [`6/9` - Benchmarking Zero-shot Text Classification: Datasets, Evaluation and Entailment Approach](https://arxiv.org/abs/1909.00161)
   - [X] [Let Me Choose: From Verbal Context to Font Selection](https://arxiv.org/abs/2005.01151)
-  - [ ] [6/9 - Cross-lingual Language Model Pretraining](https://arxiv.org/abs/1901.07291)
+  - [ ] [`6/9` - Cross-lingual Language Model Pretraining](https://arxiv.org/abs/1901.07291)
   - [ ] [`4/8` - A Multilingual View of Unsupervised Machine Translation](https://arxiv.org/abs/2002.02955)
   - [ ] [Human Attention Maps for Text Classification: Do Humans and Neural Networks Focus on the Same Words?](https://www.aclweb.org/anthology/2020.acl-main.419)
   - [ ] [Integrating Semantic Knowledge to Tackle Zero-shot Text Classification](https://arxiv.org/pdf/1903.12626.pdf)
@@ -318,6 +318,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [What happens if your job is automated en masse?](https://medium.com/@larissafschiavo/industrial-revolution-66aee1b2cc2d/)
   - [ ] [5 Habits of Highly Effective Data Scientists](http://approximatelycorrect.com/2020/08/17/5-habits-of-highly-effective-data-scientists/)
   - [ ] [Embrace Beginner's Mind; Avoid The Wrong Way To Be An Expert](https://eugeneyan.com/writing/beginners-mind/)
+  - [ ] [Book: How to Deal with Bullies at Work - 13%](https://www.goodreads.com/book/show/33503509-the-asshole-survival-guide)
   - [ ] [Data Science and Agile (What works, and what doesn't)](https://eugeneyan.com/writing/data-science-and-agile-what-works-and-what-doesnt/)
   - [ ] [Why efficiency is dangerous and slowing down makes life better](https://psyche.co/ideas/why-efficiency-is-dangerous-and-slowing-down-makes-life-better)
 
@@ -331,9 +332,8 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 ### Increase attention time & Dopamine
 
 - [X] [Book: Riot](https://www.goodreads.com/book/show/30842.Riot)
-- [ ] [Book: How to Deal with Bullies at Work - 13%](https://www.goodreads.com/book/show/33503509-the-asshole-survival-guide)
-- [ ] [Book: No Country for Old Men - 12%](https://www.goodreads.com/book/show/12497.No_Country_for_Old_Men)
-- [X] [Book: Meditation and its methods - 49% - Boring. Got the gist]()
+- [ ] [Book: No Country for Old Men - `12%`](https://www.goodreads.com/book/show/12497.No_Country_for_Old_Men)
+- [X] [Book: Meditation and its methods - `49%` - Boring. Got the gist]()
 
 ### (Deep) Learning with Limited Labeled Data (DL3D): Unsupervised, Self-Supervised Learning Papers
 
