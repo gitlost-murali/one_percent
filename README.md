@@ -276,6 +276,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [How to generate text: using different decoding methods for language generation with Transformers](https://huggingface.co/blog/how-to-generate)
 - [ ] [Deep dive into simCLR with code-first approach ("A Simple Framework for Contrastive Learning of Visual Representations")](https://www.youtube.com/playlist?list=PLaMu-SDt_RB4k8VXiB3hOdsn0Y3GoXo1k)
 - [ ] [Python Knowledge Graph: Understanding Semantic Relationships](https://programmerbackpack.com/python-knowledge-graph-understanding-semantic-relationships/)
+- [ ] [How to Get Started with Spark NLP in 2 Weeks](https://towardsdatascience.com/how-to-get-started-with-sparknlp-in-2-weeks-cb47b2ba994d)
 
 ### Events
 
