@@ -118,6 +118,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Is there any approach to normalize words like helllllloooooo to hello?](https://www.reddit.com/r/LanguageTechnology/comments/io87i7/is_there_any_approach_to_normalize_words_like/?utm_medium=android_app&utm_source=share)
 - [ ] [BioBERT for Medical Domain](https://www.reddit.com/r/LanguageTechnology/comments/ip9qfz/biobert_cosine_similarity/?utm_medium=android_app&utm_source=share)
 - [ ] [Codequestion: Ask coding questions directly from the terminal](https://www.reddit.com/r/MachineLearning/comments/irauuz/p_codequestion_ask_coding_questions_directly_from/?utm_medium=android_app&utm_source=share)
+- [ ] [NLP models Template generation - HuggingFace](https://www.linkedin.com/posts/philipvollet_opensource-nlp-artificialintelligence-activity-6700850821002862592-zkw6/)
 
 ### Essential tools
 
@@ -198,6 +199,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [Annotated Paper on __What should not be Contrastive in Contrastive learning__](https://github.com/AakashKumarNain/annotated_research_papers/)
   - [ ] [Generative Language Modeling for Automated Theorem Proving](https://arxiv.org/abs/2009.03393)
   - [ ] [Investigating Gender Bias in BERT](https://arxiv.org/abs/2009.05021)
+  - [ ] [The Return of Lexical Dependencies: Neural Lexicalized PCFGs](https://arxiv.org/abs/2007.15135)
 
 - [ ] [Talks/Videos](https://github.com/gitlost-murali/one_percent)
   - [X] [Ilya GPT-2 Talk](https://www.youtube.com/watch?v=T0I88NhR_9M)
@@ -228,6 +230,8 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [Achieving Human Parity on Automatic Chinese to English News Translation](https://www.microsoft.com/en-us/research/publication/achieving-human-parity-on-automatic-chinese-to-english-news-translation/)
   - [ ] [Introducing UBIAI: Easy-to-Use Text Annotation for NLP Applications](https://medium.com/@walidamamou/introducing-ubiai-easy-to-use-text-annotation-for-nlp-applications-74a2401fa725)
   - [ ] [Developments in NLP from RNNs(1985) to Big Bird(2020).](https://eugeneyan.com/writing/nlp-supervised-learning-survey/)
+  - [ ] [Hugging Face - 🤗Hugging Face Newsletter Issue #2]()
+  - [ ] [Few-Shot Learning with fast.ai](https://towardsdatascience.com/few-shot-learning-with-fast-ai-81c66064e372)
   - [ ] [Zero-Shot Learning in Modern NLP](https://joeddav.github.io/blog/2020/05/29/ZSL.html)
   - [ ] [Better Language Models and Their Implications](https://openai.com/blog/better-language-models/)
   - [ ] [Practical AI: Using NLP word embeddings to solve localization](https://madewithml.com/projects/2251/practical-ai-using-nlp-word-embeddings-to-solve-localization/)
