@@ -182,6 +182,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [X] [Let Me Choose: From Verbal Context to Font Selection](https://arxiv.org/abs/2005.01151)
   - [ ] [`6/9` - Cross-lingual Language Model Pretraining](https://arxiv.org/abs/1901.07291)
   - [ ] [`4/8` - A Multilingual View of Unsupervised Machine Translation](https://arxiv.org/abs/2002.02955)
+  - [X] [The First Cross-Script Code-Mixed Question Answering Corpus](http://personales.upv.es/prosso/resources/BanerjeeEtAl_MultiLingMine16.pdf)
   - [ ] [Transforming machine translation: a deep learning system reaches news translation quality comparable to human professionals](https://www.nature.com/articles/s41467-020-18073-9)
   - [ ] [Human Attention Maps for Text Classification: Do Humans and Neural Networks Focus on the Same Words?](https://www.aclweb.org/anthology/2020.acl-main.419)
   - [ ] [Integrating Semantic Knowledge to Tackle Zero-shot Text Classification](https://arxiv.org/pdf/1903.12626.pdf)
