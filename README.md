@@ -208,7 +208,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [X] [Ilya GPT-2 Talk](https://www.youtube.com/watch?v=T0I88NhR_9M)
   - [ ] [NLP Idiots](https://www.youtube.com/watch?v=f2m6Mon0VE8)
   - [X] [Data Augmentation using PreTrained Models](https://www.youtube.com/watch?v=3N_a7LAU-pc&feature=youtu.be)
-  - [ ] [SpanBERT: Improving Pre-training by Representing and Predicting Spans | Research Paper Walkthrough](https://www.youtube.com/watch?v=QUP3rMrA1mk)
+  - [X] [SpanBERT: Improving Pre-training by Representing and Predicting Spans | Research Paper Walkthrough](https://www.youtube.com/watch?v=QUP3rMrA1mk)
   - [ ] [Please Stop Doing "Explainable" ML - Cynthia Rudin](https://www.youtube.com/watch?v=I0yrJz8uc5Q)
   - [ ] [Text Data Augmentation Made Simple By Leveraging NLP Cloud APIs - Claude Coulombe](https://www.youtube.com/watch?v=rEAxxE6-wco)
   - [ ] [Well-Read Students Learn Better](https://www.youtube.com/watch?v=yEhwRsuaPQs)
