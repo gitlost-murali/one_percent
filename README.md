@@ -185,6 +185,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [X] [The First Cross-Script Code-Mixed Question Answering Corpus](http://personales.upv.es/prosso/resources/BanerjeeEtAl_MultiLingMine16.pdf)
   - [ ] [`9/17` - Multilingual Denoising Pre-training for Neural Machine Translation](https://arxiv.org/abs/2001.08210)
   - [ ] [Transforming machine translation: a deep learning system reaches news translation quality comparable to human professionals](https://www.nature.com/articles/s41467-020-18073-9)
+  - [X] [OverView of Explicit Cross-lingual Pre-training for Unsupervised Machine Translation](https://www.aclweb.org/anthology/D19-1071.pdf)
   - [ ] [Human Attention Maps for Text Classification: Do Humans and Neural Networks Focus on the Same Words?](https://www.aclweb.org/anthology/2020.acl-main.419)
   - [ ] [Integrating Semantic Knowledge to Tackle Zero-shot Text Classification](https://arxiv.org/pdf/1903.12626.pdf)
   - [ ] [Continual Learning and Active Learning](https://arxiv.org/abs/2009.01797)
