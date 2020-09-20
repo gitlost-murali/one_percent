@@ -191,6 +191,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [X] [OverView of Explicit Cross-lingual Pre-training for Unsupervised Machine Translation](https://www.aclweb.org/anthology/D19-1071.pdf)
   - [ ] [On the Cross-lingual Transferability of Monolingual Representations.](https://arxiv.org/abs/1910.11856)
   - [ ] [MAD-X : An Adapter-based Framework forMulti-task Cross-lingual Transfer](https://public.ukp.informatik.tu-darmstadt.de/MAD-X/paper.pdf)
+  - [ ] [It's Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners](https://arxiv.org/abs/2009.07118)
   - [ ] [Human Attention Maps for Text Classification: Do Humans and Neural Networks Focus on the Same Words?](https://www.aclweb.org/anthology/2020.acl-main.419)
   - [ ] [Knowledge-Aware Language Model Pretraining](https://arxiv.org/abs/2007.00655)
   - [ ] [Integrating Semantic Knowledge to Tackle Zero-shot Text Classification](https://arxiv.org/pdf/1903.12626.pdf)
@@ -262,6 +263,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [X] [Amazon’s open-source tools make embedding knowledge graphs much more efficient](https://www.amazon.science/blog/amazons-open-source-tools-make-embedding-knowledge-graphs-much-more-efficient)
   - [ ] [Amazon Web Services open-sources biological knowledge graph to fight COVID-19](https://www.amazon.science/blog/amazon-web-services-open-sources-biological-knowledge-graph-to-fight-covid-19)
   - [ ] [Intro to Adversarial Examples](https://app.wandb.ai/authors/adv-dl/reports/An-Introduction-to-Adversarial-Examples-in-Deep-Learning--VmlldzoyMTQwODM?s=03)
+  - [ ] [Adversarial Attack and Defense on Neural Networks in PyTorch](https://towardsdatascience.com/adversarial-attack-and-defense-on-neural-networks-in-pytorch-82b5bcd9171)
 
 
 ### General-Courses (Interesting but not immediate)
