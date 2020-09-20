@@ -282,6 +282,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Python Knowledge Graph: Understanding Semantic Relationships](https://programmerbackpack.com/python-knowledge-graph-understanding-semantic-relationships/)
 - [ ] [How to Get Started with Spark NLP in 2 Weeks](https://towardsdatascience.com/how-to-get-started-with-sparknlp-in-2-weeks-cb47b2ba994d)
 - [ ] [Training RoBERTa from scratch - the missing guide](https://zablo.net/blog/post/training-roberta-from-scratch-the-missing-guide-polish-language-model/?utm_source=twitter&utm_medium=link&utm_campaign=hf_stickers&utm_content=roberta-from-scratch)
+- [ ] [Custom classifier on top of BERT-like Language Model - guide](https://zablo.net/blog/post/custom-classifier-on-bert-model-guide-polemo2-sentiment-analysis/?utm_source=twitter&utm_medium=link&utm_campaign=hf_stickers&utm_content=classifier)
 
 ### Events
 
