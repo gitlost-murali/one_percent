@@ -189,6 +189,8 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [`9/17` - Multilingual Denoising Pre-training for Neural Machine Translation](https://arxiv.org/abs/2001.08210)
   - [ ] [Transforming machine translation: a deep learning system reaches news translation quality comparable to human professionals](https://www.nature.com/articles/s41467-020-18073-9)
   - [X] [OverView of Explicit Cross-lingual Pre-training for Unsupervised Machine Translation](https://www.aclweb.org/anthology/D19-1071.pdf)
+  - [ ] [On the Cross-lingual Transferability of Monolingual Representations](https://arxiv.org/abs/1910.11856)
+  - [ ] [MAD-X: An Adapter-based Framework forMulti-task Cross-lingual Transfer](https://public.ukp.informatik.tu-darmstadt.de/MAD-X/paper.pdf)
   - [ ] [Human Attention Maps for Text Classification: Do Humans and Neural Networks Focus on the Same Words?](https://www.aclweb.org/anthology/2020.acl-main.419)
   - [ ] [Knowledge-Aware Language Model Pretraining](https://arxiv.org/abs/2007.00655)
   - [ ] [Integrating Semantic Knowledge to Tackle Zero-shot Text Classification](https://arxiv.org/pdf/1903.12626.pdf)
