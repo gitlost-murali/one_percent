@@ -230,6 +230,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [X] [Custom NLP Approaches to Data Anonymization](https://towardsdatascience.com/nlp-approaches-to-data-anonymization-1fb5bde6b929)
   - [X] [NLP Keeps Stealing From CV 👨🏻‍🎤 Why NLP engineers shouldn’t stop learning CV](https://pakodas.substack.com/p/nlp-keeps-stealing-from-cv-)
   - [X] [Introducing Label Studio, a swiss army knife of data labeling](https://towardsdatascience.com/introducing-label-studio-a-swiss-army-knife-of-data-labeling-140c1be92881#3907-fd502dc24c8d)
+  - [ ] [How to Skim Through Research Paper](https://twitter.com/hardmaru/status/1305758751798910976?s=03)
   - [ ] [Is Hopfield Networks All You Need?](https://analyticsindiamag.com/modern-hopfield-network-transformers-attention/)
   - [ ] [Hopfield Networks is All You Need](https://ml-jku.github.io/hopfield-layers/?s=03)
   - [X] [How are spaCy models trained in the background?](https://www.reddit.com/r/LanguageTechnology/comments/imkl7s/how_are_spacy_models_trained_in_the_background/?utm_medium=android_app&utm_source=share)
@@ -357,6 +358,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Tweet: On what an ML Engineer is expected to do](https://twitter.com/sh_reya/status/1295855995533524993?s=03)
 - [ ] [Birch AI](https://birch.ai/)
 - [ ] [Panda AI](https://getpanda.ai/)
+- [ ] [Research Statement from a FAIR candidate](https://twitter.com/dchaplot/status/1305590757974310918?s=20)
 
 ### Increase attention time & Dopamine
 
