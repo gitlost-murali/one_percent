@@ -134,14 +134,14 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Text Recognition with CRNN-CTC Network](https://app.wandb.ai/authors/text-recognition-crnn-ctc/reports/Text-Recognition-with-CRNN-CTC-Network--VmlldzoxNTI5NDI)
 - [ ] [VS Code (codeserver) on Google Colab / Kaggle / Anywhere](https://www.youtube.com/watch?v=7kTbM3D02jU)
 
-### Building strong NLP Fundamentals
+### Building strong ML/NLP Fundamentals
 
 - [X] [Video: Understanding ROC Curve](https://www.youtube.com/watch?v=4jRBRDbJemM)
 - [X] [Video: BackPropagation Through Time](https://www.youtube.com/watch?v=Xeb6OjnVn8g)
 - [ ] [The Sorcerer’s Apprentice Guide to Training LSTMs](https://www.niklasschmidinger.com/posts/2020-09-09-lstm-tricks/)
 - [ ] [Are categorical variables getting lost in your random forests](https://roamanalytics.com/2016/10/28/are-categorical-variables-getting-lost-in-your-random-forests/)
+- [ ] [How to learn Gaussian Process](https://www.reddit.com/r/MachineLearning/comments/itm5wh/how_to_learn_gaussian_process_r/?utm_medium=android_app&utm_source=share)
 - [ ] [CS224N](http://web.stanford.edu/class/cs224n/)
-
   - [X] [1. Introduction and Word Vectors](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=1)
   - [X] [2. Word Vectors and Word Senses](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=2)
   - [X] [3. Neural Networks](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=3)
