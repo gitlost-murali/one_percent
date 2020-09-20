@@ -193,6 +193,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [Knowledge-Aware Language Model Pretraining](https://arxiv.org/abs/2007.00655)
   - [ ] [Integrating Semantic Knowledge to Tackle Zero-shot Text Classification](https://arxiv.org/pdf/1903.12626.pdf)
   - [ ] [Continual Learning and Active Learning](https://arxiv.org/abs/2009.01797)
+  - [ ] [Design Challenges for Low-resource Cross-lingual Entity Linking](https://arxiv.org/abs/2005.00692)
   - [ ] [Pre-train and Plug-in: Flexible Conditional Text Generation with Variational Auto-Encoders](https://www.youtube.com/watch?v=f2m6Mon0VE8)
   - [ ] [Contextualized Weak Supervision for Text Classification](https://www.aclweb.org/anthology/2020.acl-main.30)
   - [ ] [AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models](https://arxiv.org/pdf/1909.09251.pdf)
