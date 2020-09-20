@@ -139,6 +139,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [X] [Video: Understanding ROC Curve](https://www.youtube.com/watch?v=4jRBRDbJemM)
 - [X] [Video: BackPropagation Through Time](https://www.youtube.com/watch?v=Xeb6OjnVn8g)
 - [ ] [The Sorcerer’s Apprentice Guide to Training LSTMs](https://www.niklasschmidinger.com/posts/2020-09-09-lstm-tricks/)
+- [ ] [Are categorical variables getting lost in your random forests](https://roamanalytics.com/2016/10/28/are-categorical-variables-getting-lost-in-your-random-forests/)
 - [ ] [CS224N](http://web.stanford.edu/class/cs224n/)
 
   - [X] [1. Introduction and Word Vectors](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=1)
@@ -172,8 +173,8 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Book : Speech and Language Processing - Jurafsky](https://web.stanford.edu/~jurafsky/slp3/)
   - [ ] [`5/27`Pages Chapter-2: Regular Expressions, Text Normalization, Edit Distance]()
 - [ ] [Natural Language Processing - Jurafsky & Manning](https://www.youtube.com/watch?v=oWsMIW-5xUc&list=PLLssT5z_DsK8HbD2sPcUIDfQ7zmBarMYv)
-
 - [ ] [Stanford CS229: Machine Learning (Autumn 2018)](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+- [ ] [Book: Emily M Bender's book](https://twitter.com/emilymbender/status/1305938604556824577?s=20)
 
 ### Stay up-to-date in research
 
@@ -233,6 +234,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [How to Skim Through Research Paper](https://twitter.com/hardmaru/status/1305758751798910976?s=03)
   - [ ] [Is Hopfield Networks All You Need?](https://analyticsindiamag.com/modern-hopfield-network-transformers-attention/)
   - [ ] [Hopfield Networks is All You Need](https://ml-jku.github.io/hopfield-layers/?s=03)
+  - [ ] [GLUCOSE: GeneraLized & COntextualized Story Explanations](https://twitter.com/nasrinmmm/status/1305958005683490823?s=20)
   - [X] [How are spaCy models trained in the background?](https://www.reddit.com/r/LanguageTechnology/comments/imkl7s/how_are_spacy_models_trained_in_the_background/?utm_medium=android_app&utm_source=share)
   - [ ] [Tutorial: Training on larger batches with less memory in AllenNLP](https://medium.com/ai2-blog/tutorial-training-on-larger-batches-with-less-memory-in-allennlp-1cd2047d92ad)
   - [ ] [Achieving Human Parity on Automatic Chinese to English News Translation](https://www.microsoft.com/en-us/research/publication/achieving-human-parity-on-automatic-chinese-to-english-news-translation/)
@@ -341,6 +343,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [Triple Thread : Career Advice](https://dilbertblog.typepad.com/the_dilbert_blog/2007/07/career-advice.html)
   - [ ] [Where to go and why](https://pmarchive.com/guide_to_career_planning_part3.html)
   - [X] [Five Nonobvious Remote Work Techniques](https://queue.acm.org/detail.cfm?id=3417752&s=03)
+  - [ ] [How to Accomplish More with Less - Useful Tools & Routines](https://eugeneyan.com/writing/how-to-accomplish-more-with-less/)
   - [X] [This Is The First 10 Years Of Your Career](https://m.huffpost.com/us/entry/us_58a99f03e4b0b0e1e0e20c40/amp?guccounter=1&__twitter_impression=true&s=03)
   - [ ] [Don't End The Week With Nothing](https://training.kalzumeus.com/newsletters/archive/do-not-end-the-week-with-nothing)
   - [ ] [Act Like You're 35._What I wish I knew when I was 20 about Workplace_](https://niranting.substack.com/p/act-like-youre-35)
