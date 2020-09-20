@@ -243,6 +243,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [Practical AI: Using NLP word embeddings to solve localization](https://madewithml.com/projects/2251/practical-ai-using-nlp-word-embeddings-to-solve-localization/)
   - [ ] [Introduction to Graph Neural Networks with GatedGCN](https://app.wandb.ai/yashkotadia/gatedgcn-pattern/reports/Introduction-to-Graph-Neural-Networks-with-GatedGCN--VmlldzoyMDg4MjA)
   - [ ] [Learning from imbalanced data](https://www.jeremyjordan.me/imbalanced-data/)
+  - [ ] [Accelerate your Hyperparameter Optimization with PyTorch’s Ecosystem Tools](https://medium.com/pytorch/accelerate-your-hyperparameter-optimization-with-pytorchs-ecosystem-tools-bc17001b9a49)
   - [ ] [Which Optimizer should I use for my Machine Learning Project?](https://www.whattolabel.com/post/which-optimizer-should-i-use-for-my-machine-learning-project)
   - [ ] [Tempering Expectations for GPT-3 and OpenAI’s API](https://minimaxir.com/2020/07/gpt3-expectations/)
   - [ ] [Effective testing for machine learning systems](https://www.jeremyjordan.me/testing-ml/)
