@@ -69,6 +69,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [X] [MLOps Tutorial #3: Track ML models with Git & GitHub Actions](https://www.youtube.com/watch?v=xPncjKH6SPk)
   - [X] [MLOps Tutorial #4: GitHub Actions with your own GPUs](https://www.youtube.com/watch?v=rVq-SCNyxVc)
   - [X] [DVC Explained in Five Minutes](https://www.youtube.com/watch?v=UbL7VUpv1Bs)
+  - [ ] [MLOps Tutorial #5: Automated Testing for Machine Learning](https://youtu.be/bSXUJRnQPPo)
   - [ ] [Elle O'Brien - Adapting continuous integration and continuous delivery for ML](https://www.youtube.com/watch?v=yp0su5mOeko&feature=emb_title)
 - [X] [DVC Implementation: Completed setting up a project and running a pipeline](https://dvc.org/doc/start/experiments)
 - [ ] [MLOps: Accelerating Data Science with DevOps - Microsoft](https://www.youtube.com/watch?v=pqppGvTJm-A)
@@ -187,6 +188,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [Transforming machine translation: a deep learning system reaches news translation quality comparable to human professionals](https://www.nature.com/articles/s41467-020-18073-9)
   - [X] [OverView of Explicit Cross-lingual Pre-training for Unsupervised Machine Translation](https://www.aclweb.org/anthology/D19-1071.pdf)
   - [ ] [Human Attention Maps for Text Classification: Do Humans and Neural Networks Focus on the Same Words?](https://www.aclweb.org/anthology/2020.acl-main.419)
+  - [ ] [Knowledge-Aware Language Model Pretraining](https://arxiv.org/abs/2007.00655)
   - [ ] [Integrating Semantic Knowledge to Tackle Zero-shot Text Classification](https://arxiv.org/pdf/1903.12626.pdf)
   - [ ] [Continual Learning and Active Learning](https://arxiv.org/abs/2009.01797)
   - [ ] [Pre-train and Plug-in: Flexible Conditional Text Generation with Variational Auto-Encoders](https://www.youtube.com/watch?v=f2m6Mon0VE8)
@@ -283,6 +285,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [How to Get Started with Spark NLP in 2 Weeks](https://towardsdatascience.com/how-to-get-started-with-sparknlp-in-2-weeks-cb47b2ba994d)
 - [ ] [Training RoBERTa from scratch - the missing guide](https://zablo.net/blog/post/training-roberta-from-scratch-the-missing-guide-polish-language-model/?utm_source=twitter&utm_medium=link&utm_campaign=hf_stickers&utm_content=roberta-from-scratch)
 - [ ] [Custom classifier on top of BERT-like Language Model - guide](https://zablo.net/blog/post/custom-classifier-on-bert-model-guide-polemo2-sentiment-analysis/?utm_source=twitter&utm_medium=link&utm_campaign=hf_stickers&utm_content=classifier)
+- [ ] [Use @HelsinkiNLP's translation models transformers  to do very cheap back translators for data augmentation](https://discuss.huggingface.co/t/marian-language-discovery-questions/739/4?u=sshleifer)
 
 ### Events
 
