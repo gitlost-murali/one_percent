@@ -138,6 +138,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 
 - [X] [Video: Understanding ROC Curve](https://www.youtube.com/watch?v=4jRBRDbJemM)
 - [X] [Video: BackPropagation Through Time](https://www.youtube.com/watch?v=Xeb6OjnVn8g)
+- [ ] [The Sorcerer’s Apprentice Guide to Training LSTMs](https://www.niklasschmidinger.com/posts/2020-09-09-lstm-tricks/)
 - [ ] [CS224N](http://web.stanford.edu/class/cs224n/)
 
   - [X] [1. Introduction and Word Vectors](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=1)
@@ -288,6 +289,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Training RoBERTa from scratch - the missing guide](https://zablo.net/blog/post/training-roberta-from-scratch-the-missing-guide-polish-language-model/?utm_source=twitter&utm_medium=link&utm_campaign=hf_stickers&utm_content=roberta-from-scratch)
 - [ ] [Custom classifier on top of BERT-like Language Model - guide](https://zablo.net/blog/post/custom-classifier-on-bert-model-guide-polemo2-sentiment-analysis/?utm_source=twitter&utm_medium=link&utm_campaign=hf_stickers&utm_content=classifier)
 - [ ] [Use @HelsinkiNLP's translation models transformers  to do very cheap back translators for data augmentation](https://discuss.huggingface.co/t/marian-language-discovery-questions/739/4?u=sshleifer)
+- [ ] [Transformers' 1st-ever end-2-end multimodal demo - leveraging LXMERT, SOTA model for visual Q&A!](https://twitter.com/huggingface/status/1305517211159851008?s=20)
 
 ### Events
 
@@ -302,6 +304,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [X] [Aakash Nain | Tensorflow 2.0 | TF Add-Ons | Good API Designs | CTDS.Show #90](https://www.youtube.com/watch?v=hZNhkiIfHtM)
 - [X] [Connor Shorten | Creating AI Content, Videos, | Henry AI Labs, Research & GANs | CTDS.Show #76](https://www.youtube.com/watch?v=Cn97ynuWAiQ)
 - [ ] [Episode #191: Live from the Manning Python Conference](https://pythonbytes.fm/episodes/show/191/live-from-the-manning-python-conference)
+- [ ] [TwiMLAI- Causal Modeling in ML](https://twitter.com/twimlai/status/1305129106175123456?s=03)
 
 ### Revisiting concepts with Summary Papers
 
