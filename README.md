@@ -246,7 +246,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [Developments in NLP from RNNs(1985) to Big Bird(2020).](https://eugeneyan.com/writing/nlp-supervised-learning-survey/)
   - [ ] [Hugging Face - 🤗Hugging Face Newsletter Issue #2]()
   - [ ] [Few-Shot Learning with fast.ai](https://towardsdatascience.com/few-shot-learning-with-fast-ai-81c66064e372)
-  - [ ] [Zero-Shot Learning in Modern NLP](https://joeddav.github.io/blog/2020/05/29/ZSL.html)
+  - [X] [Zero-Shot Learning in Modern NLP](https://joeddav.github.io/blog/2020/05/29/ZSL.html)
   - [ ] [Better Language Models and Their Implications](https://openai.com/blog/better-language-models/)
   - [ ] [Practical AI: Using NLP word embeddings to solve localization](https://madewithml.com/projects/2251/practical-ai-using-nlp-word-embeddings-to-solve-localization/)
   - [ ] [Introduction to Graph Neural Networks with GatedGCN](https://app.wandb.ai/yashkotadia/gatedgcn-pattern/reports/Introduction-to-Graph-Neural-Networks-with-GatedGCN--VmlldzoyMDg4MjA)
