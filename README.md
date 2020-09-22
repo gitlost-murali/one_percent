@@ -361,7 +361,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [Book: How to Deal with Bullies at Work - 13%](https://www.goodreads.com/book/show/33503509-the-asshole-survival-guide)
   - [ ] [Data Science and Agile (What works, and what doesn't)](https://eugeneyan.com/writing/data-science-and-agile-what-works-and-what-doesnt/)
   - [ ] [Why efficiency is dangerous and slowing down makes life better](https://psyche.co/ideas/why-efficiency-is-dangerous-and-slowing-down-makes-life-better)
-
+  - [ ] [Unpopular Opinion - Data Scientists Should Be More End-to-End](https://eugeneyan.com/writing/end-to-end-data-science/)
 
 ### Jobs/Roles details
 
