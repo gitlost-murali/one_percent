@@ -1,5 +1,7 @@
 # one_percent 
 
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fgitlost-murali%2Fone_percent)
+
 Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my progress here _everyday_.
 
 <p align="center">
