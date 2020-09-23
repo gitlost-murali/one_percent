@@ -375,7 +375,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 ### Increase attention time & Dopamine
 
 - [X] [Book: Riot](https://www.goodreads.com/book/show/30842.Riot)
-- [ ] [Book: Stoicism - `60%`]()
+- [ ] [Book: Stoicism - `77%`]()
 - [ ] [Book: No Country for Old Men - `12%`](https://www.goodreads.com/book/show/12497.No_Country_for_Old_Men)
 - [X] [Book: Meditation and its methods - `49%` - Boring. Got the gist]()
 
