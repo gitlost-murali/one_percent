@@ -80,7 +80,8 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [1. Setting up Machine Learning Projects](https://course.fullstackdeeplearning.com/course-content/setting-up-machine-learning-projects)
     - [X] [1.1 Overview](https://course.fullstackdeeplearning.com/course-content/setting-up-machine-learning-projects/overview)
     - [X] [1.2 Lifecycle](https://course.fullstackdeeplearning.com/course-content/setting-up-machine-learning-projects/lifecycle)
-    - [X] [1.3 Prioritizing - ML Projects - Full Stack Deep Learning](https://www.youtube.com/watch?v=Dx3hKmNJ-1E)
+    - [X] [1.3 Prioritizing - ML Projects](https://www.youtube.com/watch?v=Dx3hKmNJ-1E)
+    - [X] [1.4 Archetypes - ML Projects](https://www.youtube.com/watch?v=di--TEEMV6U)
 
   - [ ] [2. Infrastructure and Tooling](https://course.fullstackdeeplearning.com/course-content/infrastructure-and-tooling)
   - [ ] [3. Data Management](https://course.fullstackdeeplearning.com/course-content/data-management)
