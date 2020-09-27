@@ -77,7 +77,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [MLOps: Accelerating Data Science with DevOps - Microsoft](https://www.youtube.com/watch?v=pqppGvTJm-A)
 - [X] [MLflow: An Open Platform to Simplify the Machine Learning Lifecycle](https://www.youtube.com/watch?v=859OxXrt_TI)
 - [ ] [Full Stack Deep Learning Course](https://course.fullstackdeeplearning.com/)
-  - [ ] [1. Setting up Machine Learning Projects](https://course.fullstackdeeplearning.com/course-content/setting-up-machine-learning-projects)
+  - [X] [1. Setting up Machine Learning Projects](https://course.fullstackdeeplearning.com/course-content/setting-up-machine-learning-projects)
     - [X] [1.1 Overview](https://course.fullstackdeeplearning.com/course-content/setting-up-machine-learning-projects/overview)
     - [X] [1.2 Lifecycle](https://course.fullstackdeeplearning.com/course-content/setting-up-machine-learning-projects/lifecycle)
     - [X] [1.3 Prioritizing - ML Projects](https://www.youtube.com/watch?v=Dx3hKmNJ-1E)
