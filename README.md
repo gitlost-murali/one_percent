@@ -227,7 +227,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [X] [SpanBERT: Improving Pre-training by Representing and Predicting Spans | Research Paper Walkthrough](https://www.youtube.com/watch?v=QUP3rMrA1mk)
   - [ ] [Please Stop Doing "Explainable" ML - Cynthia Rudin](https://www.youtube.com/watch?v=I0yrJz8uc5Q)
   - [ ] [Text Data Augmentation Made Simple By Leveraging NLP Cloud APIs - Claude Coulombe](https://www.youtube.com/watch?v=rEAxxE6-wco)
-  - [ ] [Well-Read Students Learn Better](https://www.youtube.com/watch?v=yEhwRsuaPQs)
+  - [X] [Well-Read Students Learn Better](https://www.youtube.com/watch?v=yEhwRsuaPQs)
   - [X] [Easy Data Augmentation for Text Classification](https://www.youtube.com/watch?v=3w92peJtYNQ)
   - [X] [TextAttack: A Framework for Data Augmentation and Adversarial Training in NLP](https://youtu.be/VpLAjOQHaLU)
   - [ ] [ACL 2019 tutorial on Unsupervised Cross-lingual Representation Learning](https://tinyurl.com/xlingual)
