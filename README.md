@@ -248,6 +248,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [GLUCOSE: GeneraLized & COntextualized Story Explanations](https://twitter.com/nasrinmmm/status/1305958005683490823?s=20)
   - [X] [How are spaCy models trained in the background?](https://www.reddit.com/r/LanguageTechnology/comments/imkl7s/how_are_spacy_models_trained_in_the_background/?utm_medium=android_app&utm_source=share)
   - [ ] [Tutorial: Training on larger batches with less memory in AllenNLP](https://medium.com/ai2-blog/tutorial-training-on-larger-batches-with-less-memory-in-allennlp-1cd2047d92ad)
+  - [ ] [Knowledge Distillation](https://nervanasystems.github.io/distiller/knowledge_distillation.html#knowledge-distillation)
   - [ ] [Achieving Human Parity on Automatic Chinese to English News Translation](https://www.microsoft.com/en-us/research/publication/achieving-human-parity-on-automatic-chinese-to-english-news-translation/)
   - [ ] [Introducing UBIAI: Easy-to-Use Text Annotation for NLP Applications](https://medium.com/@walidamamou/introducing-ubiai-easy-to-use-text-annotation-for-nlp-applications-74a2401fa725)
   - [ ] [Developments in NLP from RNNs(1985) to Big Bird(2020).](https://eugeneyan.com/writing/nlp-supervised-learning-survey/)
