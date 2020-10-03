@@ -347,6 +347,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [X] [The 4% Rule: The Easy Answer to “How Much Do I Need for Retirement?”](https://www.mrmoneymustache.com/2012/05/29/how-much-do-i-need-for-retirement/)
   - [X] [Save Like A Pessimist, Invest Like An Optimist](https://www.collaborativefund.com/blog/save-like-a-pessimist-invest-like-an-optimist/)
   - [ ] [How to Prosper in an Economic Boom - For 2013, maynot be applicable now](https://www.mrmoneymustache.com/2013/05/07/how-to-prosper-in-an-economic-boom/)
+  - [X] [Are You Cleaning Out Your Own Wallet?](https://www.mrmoneymustache.com/2013/12/30/are-you-cleaning-out-your-own-wallet/)
   - [X] [Getting out of the country, even within the same country: moving from Bengaluru to Varkala can be a huge income saver for most techies]()
 
 - [ ] [Career]()
