@@ -374,7 +374,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [How to Accomplish More with Less - Useful Tools & Routines](https://eugeneyan.com/writing/how-to-accomplish-more-with-less/)
   - [X] [This Is The First 10 Years Of Your Career](https://m.huffpost.com/us/entry/us_58a99f03e4b0b0e1e0e20c40/amp?guccounter=1&__twitter_impression=true&s=03)
   - [ ] [Don't End The Week With Nothing](https://training.kalzumeus.com/newsletters/archive/do-not-end-the-week-with-nothing)
-  - [ ] [Act Like You're 35._What I wish I knew when I was 20 about Workplace_](https://niranting.substack.com/p/act-like-youre-35)
+  - [X] [Act Like You're 35._What I wish I knew when I was 20 about Workplace_](https://niranting.substack.com/p/act-like-youre-35)
   - [ ] [Reach Out, Stay in Touch and Deepen Your Connections with This Essential Networking Advice](https://firstround.com/review/reach-out-stay-in-touch-and-deepen-your-connections-with-this-essential-networking-advice/)
   - [ ] [What happens if your job is automated en masse?](https://medium.com/@larissafschiavo/industrial-revolution-66aee1b2cc2d/)
   - [ ] [5 Habits of Highly Effective Data Scientists](http://approximatelycorrect.com/2020/08/17/5-habits-of-highly-effective-data-scientists/)
