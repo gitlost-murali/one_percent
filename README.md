@@ -369,6 +369,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [How Reading Papers Helps You Be a More Effective Data Scientist](https://eugeneyan.com/writing/why-read-papers/)
   - [ ] [The Effects of Sequence and Delay on Crowd Work](https://www.cs.cmu.edu/~jbigham/pubs/pdfs/2015/sequenceanddelay.pdf)
   - [ ] [Triple Thread : Career Advice](https://dilbertblog.typepad.com/the_dilbert_blog/2007/07/career-advice.html)
+  - [X] [Standing Out at Work](https://niranting.substack.com/p/standing-out-at-work)
   - [ ] [Where to go and why](https://pmarchive.com/guide_to_career_planning_part3.html)
   - [X] [Five Nonobvious Remote Work Techniques](https://queue.acm.org/detail.cfm?id=3417752&s=03)
   - [ ] [How to Accomplish More with Less - Useful Tools & Routines](https://eugeneyan.com/writing/how-to-accomplish-more-with-less/)
