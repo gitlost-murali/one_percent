@@ -253,6 +253,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [X] [NLP Keeps Stealing From CV 👨🏻‍🎤 Why NLP engineers shouldn’t stop learning CV](https://pakodas.substack.com/p/nlp-keeps-stealing-from-cv-)
   - [X] [Introducing Label Studio, a swiss army knife of data labeling](https://towardsdatascience.com/introducing-label-studio-a-swiss-army-knife-of-data-labeling-140c1be92881#3907-fd502dc24c8d)
   - [X] [How to Skim Through Research Paper](https://twitter.com/hardmaru/status/1305758751798910976?s=03)
+  - [X] [TaBERT: A new model for understanding queries over tabular data](https://ai.facebook.com/blog/tabert-a-new-model-for-understanding-queries-over-tabular-data/)
   - [ ] [Is Hopfield Networks All You Need?](https://analyticsindiamag.com/modern-hopfield-network-transformers-attention/)
   - [ ] [Hopfield Networks is All You Need](https://ml-jku.github.io/hopfield-layers/?s=03)
   - [ ] [GLUCOSE: GeneraLized & COntextualized Story Explanations](https://twitter.com/nasrinmmm/status/1305958005683490823?s=20)
