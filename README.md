@@ -318,6 +318,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Custom classifier on top of BERT-like Language Model - guide](https://zablo.net/blog/post/custom-classifier-on-bert-model-guide-polemo2-sentiment-analysis/?utm_source=twitter&utm_medium=link&utm_campaign=hf_stickers&utm_content=classifier)
 - [X] [Use @HelsinkiNLP's translation models transformers  to do very cheap back translators for data augmentation](https://discuss.huggingface.co/t/marian-language-discovery-questions/739/4?u=sshleifer)
 - [ ] [Transformers' 1st-ever end-2-end multimodal demo - leveraging LXMERT, SOTA model for visual Q&A!](https://twitter.com/huggingface/status/1305517211159851008?s=20)
+- [X] [`Video:` nbdev tutorial](https://www.youtube.com/watch?v=Hrs7iEYmRmg&feature=emb_title)
 
 ### Events
 
