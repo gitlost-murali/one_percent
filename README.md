@@ -381,7 +381,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [Reach Out, Stay in Touch and Deepen Your Connections with This Essential Networking Advice](https://firstround.com/review/reach-out-stay-in-touch-and-deepen-your-connections-with-this-essential-networking-advice/)
   - [ ] [What happens if your job is automated en masse?](https://medium.com/@larissafschiavo/industrial-revolution-66aee1b2cc2d/)
   - [ ] [5 Habits of Highly Effective Data Scientists](http://approximatelycorrect.com/2020/08/17/5-habits-of-highly-effective-data-scientists/)
-  - [ ] [Embrace Beginner's Mind; Avoid The Wrong Way To Be An Expert](https://eugeneyan.com/writing/beginners-mind/)
+  - [X] [Embrace Beginner's Mind; Avoid The Wrong Way To Be An Expert](https://eugeneyan.com/writing/beginners-mind/)
   - [ ] [Book: How to Deal with Bullies at Work - 13%](https://www.goodreads.com/book/show/33503509-the-asshole-survival-guide)
   - [ ] [Data Science and Agile (What works, and what doesn't)](https://eugeneyan.com/writing/data-science-and-agile-what-works-and-what-doesnt/)
   - [ ] [Why efficiency is dangerous and slowing down makes life better](https://psyche.co/ideas/why-efficiency-is-dangerous-and-slowing-down-makes-life-better)
