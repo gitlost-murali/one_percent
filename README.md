@@ -386,13 +386,8 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [Data Science and Agile (What works, and what doesn't)](https://eugeneyan.com/writing/data-science-and-agile-what-works-and-what-doesnt/)
   - [ ] [Why efficiency is dangerous and slowing down makes life better](https://psyche.co/ideas/why-efficiency-is-dangerous-and-slowing-down-makes-life-better)
   - [ ] [Unpopular Opinion - Data Scientists Should Be More End-to-End](https://eugeneyan.com/writing/end-to-end-data-science/)
-
-### Jobs/Roles details
-
-- [ ] [Tweet: On what an ML Engineer is expected to do](https://twitter.com/sh_reya/status/1295855995533524993?s=03)
-- [ ] [Birch AI](https://birch.ai/)
-- [ ] [Panda AI](https://getpanda.ai/)
-- [ ] [Research Statement from a FAIR candidate](https://twitter.com/dchaplot/status/1305590757974310918?s=20)
+  - [ ] [Tweet: On what an ML Engineer is expected to do](https://twitter.com/sh_reya/status/1295855995533524993?s=03)
+  - [ ] [Research Statement from a FAIR candidate](https://twitter.com/dchaplot/status/1305590757974310918?s=20)
 
 ### Increase attention time & Dopamine
 
