@@ -356,7 +356,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 ### Financial & Career Knowledge
 
 - [ ] [Finance]()
-  - [ ] [Let's Talk money - `60%`](https://github.com/freemiya)
+  - [ ] [Let's Talk money - `62%`](https://github.com/freemiya)
   - [X] [Recession Proofing My Tech Career _Or the Desi Guide to Personal Finance_](https://niranting.substack.com/p/recession-proofing-my-tech-career)
   - [ ] [Default Alive or Default Dead?](http://www.paulgraham.com/aord.html)
   - [X] [The FIRE movement](https://www.mrmoneymustache.com/2018/10/05/the-fire-movement/)
