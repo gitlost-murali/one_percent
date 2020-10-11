@@ -229,6 +229,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [Utility is in the Eye of the User: A Critique of NLP Leaderboards](https://arxiv.org/pdf/2009.13888.pdf)
   - [ ] [An Image Is Worth 16X16 Words: Transformers For Image Recognition At Scale](https://openreview.net/pdf?id=YicbFdNTTy)
   - [ ] [Compositional Explanations of Neurons](https://arxiv.org/pdf/2006.14032.pdf)
+  - [ ] [Leakage-Adjusted Simulatability: Can Models Generate Non-Trivial Explanations of Their Behavior in Natural Language?](https://arxiv.org/abs/2010.04119) and [its Tweet](https://twitter.com/peterbhase/status/1314600474180497409?s=03)
 
 - [ ] [Talks/Videos](https://github.com/gitlost-murali/one_percent)
   - [X] [Ilya GPT-2 Talk](https://www.youtube.com/watch?v=T0I88NhR_9M)
@@ -258,6 +259,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [X] [Introducing Label Studio, a swiss army knife of data labeling](https://towardsdatascience.com/introducing-label-studio-a-swiss-army-knife-of-data-labeling-140c1be92881#3907-fd502dc24c8d)
   - [X] [How to Skim Through Research Paper](https://twitter.com/hardmaru/status/1305758751798910976?s=03)
   - [X] [TaBERT: A new model for understanding queries over tabular data](https://ai.facebook.com/blog/tabert-a-new-model-for-understanding-queries-over-tabular-data/)
+  - [ ] [Comprehensive Language Model Fine Tuning, Part 1: 🤗 Datasets library](https://www.ntentional.com/nlp/datasets/tokenization/processing/2020/10/09/comprehensive-datasets.html)
   - [ ] [Is Hopfield Networks All You Need?](https://analyticsindiamag.com/modern-hopfield-network-transformers-attention/)
   - [ ] [Hopfield Networks is All You Need](https://ml-jku.github.io/hopfield-layers/?s=03)
   - [ ] [GLUCOSE: GeneraLized & COntextualized Story Explanations](https://twitter.com/nasrinmmm/status/1305958005683490823?s=20)
@@ -324,6 +326,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [X] [Use @HelsinkiNLP's translation models transformers  to do very cheap back translators for data augmentation](https://discuss.huggingface.co/t/marian-language-discovery-questions/739/4?u=sshleifer)
 - [ ] [Transformers' 1st-ever end-2-end multimodal demo - leveraging LXMERT, SOTA model for visual Q&A!](https://twitter.com/huggingface/status/1305517211159851008?s=20)
 - [X] [`Video`: nbdev tutorial](https://www.youtube.com/watch?v=Hrs7iEYmRmg&feature=emb_title)
+- [ ] [Fine-tune Transformers in PyTorch Using Hugging Face Transformers](https://www.linkedin.com/posts/philipvollet_deeplearning-pytorch-nlp-activity-6720947953479008256-4S5T/)
 
 ### Events
 
