@@ -230,6 +230,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [An Image Is Worth 16X16 Words: Transformers For Image Recognition At Scale](https://openreview.net/pdf?id=YicbFdNTTy)
   - [ ] [Compositional Explanations of Neurons](https://arxiv.org/pdf/2006.14032.pdf)
   - [ ] [Leakage-Adjusted Simulatability: Can Models Generate Non-Trivial Explanations of Their Behavior in Natural Language?](https://arxiv.org/abs/2010.04119) and [its Tweet](https://twitter.com/peterbhase/status/1314600474180497409?s=03)
+  - [ ] [Understanding Self-supervised Learning with Dual Deep Networks](https://arxiv.org/abs/2010.00578)
 
 - [ ] [Talks/Videos](https://github.com/gitlost-murali/one_percent)
   - [X] [Ilya GPT-2 Talk](https://www.youtube.com/watch?v=T0I88NhR_9M)
@@ -259,9 +260,12 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [X] [Introducing Label Studio, a swiss army knife of data labeling](https://towardsdatascience.com/introducing-label-studio-a-swiss-army-knife-of-data-labeling-140c1be92881#3907-fd502dc24c8d)
   - [X] [How to Skim Through Research Paper](https://twitter.com/hardmaru/status/1305758751798910976?s=03)
   - [X] [TaBERT: A new model for understanding queries over tabular data](https://ai.facebook.com/blog/tabert-a-new-model-for-understanding-queries-over-tabular-data/)
-  - [ ] [Comprehensive Language Model Fine Tuning, Part 1: 🤗 Datasets library](https://www.ntentional.com/nlp/datasets/tokenization/processing/2020/10/09/comprehensive-datasets.html)
+  - [ ] [Comprehensive Language Model Fine Tuning, Part 1: 🤗 Datasets library - Normalizing](https://www.ntentional.com/nlp/datasets/tokenization/processing/2020/10/09/comprehensive-datasets.html)
   - [ ] [Is Hopfield Networks All You Need?](https://analyticsindiamag.com/modern-hopfield-network-transformers-attention/)
   - [ ] [Hopfield Networks is All You Need](https://ml-jku.github.io/hopfield-layers/?s=03)
+  - [ ] [Challenges in going from POCs to Production-Ready ML system](https://twitter.com/full_stack_dl/status/1313129048420229120?s=03)
+  - [ ] [Transformers-based Encoder-Decoder Models](https://huggingface.co/blog/encoder-decoder)
+  - [ ] [How to generate text: using different decoding methods for language generation with Transformers](https://huggingface.co/blog/how-to-generate)
   - [ ] [GLUCOSE: GeneraLized & COntextualized Story Explanations](https://twitter.com/nasrinmmm/status/1305958005683490823?s=20)
   - [ ] [PyCon India 2020 Interesting Talks](https://twitter.com/DrElleOBrien/status/1312104309669027841?s=20)
   - [X] [How are spaCy models trained in the background?](https://www.reddit.com/r/LanguageTechnology/comments/imkl7s/how_are_spacy_models_trained_in_the_background/?utm_medium=android_app&utm_source=share)
@@ -273,6 +277,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [Hugging Face - 🤗Hugging Face Newsletter Issue #2]()
   - [ ] [Few-Shot Learning with fast.ai](https://towardsdatascience.com/few-shot-learning-with-fast-ai-81c66064e372)
   - [X] [Zero-Shot Learning in Modern NLP](https://joeddav.github.io/blog/2020/05/29/ZSL.html)
+  - [ ] [Topic Modeling! Leveraging BERT, and TF-IDF to create easily interpretable topics - README of the repo](https://github.com/MaartenGr/BERTopic)
   - [ ] [Better Language Models and Their Implications](https://openai.com/blog/better-language-models/)
   - [ ] [Practical AI: Using NLP word embeddings to solve localization](https://madewithml.com/projects/2251/practical-ai-using-nlp-word-embeddings-to-solve-localization/)
   - [ ] [Introduction to Graph Neural Networks with GatedGCN](https://app.wandb.ai/yashkotadia/gatedgcn-pattern/reports/Introduction-to-Graph-Neural-Networks-with-GatedGCN--VmlldzoyMDg4MjA)
@@ -312,6 +317,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Multilingual Natural Language Processing](http://demo.clab.cs.cmu.edu/11737fa20/)
 - [ ] [CS 285: Deep Reinforcement Learning](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc)
 - [ ] [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [ ] [*Most* extensive list of "From Scratch Machine Learning".](https://github.com/eriklindernoren/ML-From-Scratch)
 
 ### Coding Tuts
 
@@ -327,6 +333,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Transformers' 1st-ever end-2-end multimodal demo - leveraging LXMERT, SOTA model for visual Q&A!](https://twitter.com/huggingface/status/1305517211159851008?s=20)
 - [X] [`Video`: nbdev tutorial](https://www.youtube.com/watch?v=Hrs7iEYmRmg&feature=emb_title)
 - [ ] [Fine-tune Transformers in PyTorch Using Hugging Face Transformers](https://www.linkedin.com/posts/philipvollet_deeplearning-pytorch-nlp-activity-6720947953479008256-4S5T/)
+- [ ] [Comprehensive Language Model Fine Tuning, Part 1: 🤗 Datasets library - Normalizing](https://www.ntentional.com/nlp/datasets/tokenization/processing/2020/10/09/comprehensive-datasets.html)
 
 ### Events
 
@@ -396,6 +403,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [Unpopular Opinion - Data Scientists Should Be More End-to-End](https://eugeneyan.com/writing/end-to-end-data-science/)
   - [ ] [Tweet: On what an ML Engineer is expected to do](https://twitter.com/sh_reya/status/1295855995533524993?s=03)
   - [ ] [Research Statement from a FAIR candidate](https://twitter.com/dchaplot/status/1305590757974310918?s=20)
+  - [ ] [A compilation of research advice(s) for doing good research and writing good papers.](https://github.com/TheShadow29/research-advice-list)
 
 ### Increase attention time & Dopamine
 
@@ -404,6 +412,10 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Book: A Gentleman in Moscow - `4%`]()
 - [ ] [Book: No Country for Old Men - `12%`](https://www.goodreads.com/book/show/12497.No_Country_for_Old_Men)
 - [X] [Book: Meditation and its methods - `49%` - Boring. Got the gist]()
+
+### Datasets
+
+- [ ] [TaxiNLI dataset - NLI example in the MultiNLI dataset with 18 features like Linguistic, Logic, Knowledge etc](https://github.com/microsoft/TaxiNLI)
 
 ### (Deep) Learning with Limited Labeled Data (DL3D): Unsupervised, Self-Supervised Learning Papers
 
