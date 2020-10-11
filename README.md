@@ -90,6 +90,8 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
     - [X] [1.5 Metrics - ML Projects](https://youtu.be/-US7jrlz3wM)
     - [X] [1.6 Baselines - ML Projects](https://course.fullstackdeeplearning.com/course-content/setting-up-machine-learning-projects/baselines)
   - [ ] [2. Infrastructure and Tooling](https://course.fullstackdeeplearning.com/course-content/infrastructure-and-tooling)
+    - [X] [2.1 Overview : Components of a Machine Learning system?](https://course.fullstackdeeplearning.com/course-content/infrastructure-and-tooling/overview)
+    - [ ] [2.2 Software Engineering: Good SEngg practices for ML developers?](https://course.fullstackdeeplearning.com/course-content/infrastructure-and-tooling/software-engineering)
   - [ ] [3. Data Management](https://course.fullstackdeeplearning.com/course-content/data-management)
   - [ ] [4. Machine Learning Teams](https://course.fullstackdeeplearning.com/course-content/ml-teams)
   - [ ] [5. Training and Debugging](https://course.fullstackdeeplearning.com/course-content/training-and-debugging)
