@@ -8,7 +8,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   <img src="https://jamesclear.com/wp-content/uploads/2015/08/tiny-gains-graph-700x700.jpg" width="316" height="292"/>
 </p>
 
-### Software Engineering
+### Software (& ML) Engineering
 
 - [ ] [Dockers](https://www.youtube.com/watch?v=RSIstPUiEjY)
 - [ ] [Docker For Data Scientists](https://www.youtube.com/watch?v=0qG_0CPQhpg&feature=youtu.be)
@@ -64,6 +64,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 ### Structuring machine learning projects
 
 - [ ] [PyTorch Performance Tuning Guide - Szymon Migacz, NVIDIA](https://www.youtube.com/watch?v=9mS1fIYj1So)
+- [ ] [Study material to become an ML engineer](https://twitter.com/chipro/status/1315283623910805504?s=20)
 - [ ] [Managing the Model Artifacts?](https://twitter.com/nlpguy_/status/1302275537881055233?s=03)
 - [ ] [What is ML Ops? Best Practices for DevOps for ML (Cloud Next '18)](https://www.youtube.com/watch?v=_jnhXzY1HCw&feature=youtu.be)
 - [ ] [ML Ops - DVCorg](https://www.youtube.com/watch?v=9BgIDqAzfuA&feature=youtu.be)
@@ -263,13 +264,16 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [X] [How to Skim Through Research Paper](https://twitter.com/hardmaru/status/1305758751798910976?s=03)
   - [X] [TaBERT: A new model for understanding queries over tabular data](https://ai.facebook.com/blog/tabert-a-new-model-for-understanding-queries-over-tabular-data/)
   - [ ] [Comprehensive Language Model Fine Tuning, Part 1: 🤗 Datasets library - Normalizing](https://www.ntentional.com/nlp/datasets/tokenization/processing/2020/10/09/comprehensive-datasets.html)
+  - [ ] [On the Ability and Limitations of Transformers to Recognize Formal Languages](https://twitter.com/satwik1729/status/1315575680885637120?s=20)
   - [ ] [Is Hopfield Networks All You Need?](https://analyticsindiamag.com/modern-hopfield-network-transformers-attention/)
   - [ ] [Hopfield Networks is All You Need](https://ml-jku.github.io/hopfield-layers/?s=03)
   - [ ] [Challenges in going from POCs to Production-Ready ML system](https://twitter.com/full_stack_dl/status/1313129048420229120?s=03)
+  - [ ] [iNLTK Feature: CodeMix for Indic Languages: About generating synthetic code-mix data](https://www.linkedin.com/posts/gaurav-arora-23593220_nlp-codemixed-deeplearning-activity-6721048175848783872-RndX/)
   - [ ] [Transformers-based Encoder-Decoder Models](https://huggingface.co/blog/encoder-decoder)
   - [ ] [How to generate text: using different decoding methods for language generation with Transformers](https://huggingface.co/blog/how-to-generate)
   - [ ] [GLUCOSE: GeneraLized & COntextualized Story Explanations](https://twitter.com/nasrinmmm/status/1305958005683490823?s=20)
   - [ ] [PyCon India 2020 Interesting Talks](https://twitter.com/DrElleOBrien/status/1312104309669027841?s=20)
+  - [ ] [Under the Hood of Sequence Models](https://madewithml.com/projects/2449/under-the-hood-of-sequence-models/)
   - [X] [How are spaCy models trained in the background?](https://www.reddit.com/r/LanguageTechnology/comments/imkl7s/how_are_spacy_models_trained_in_the_background/?utm_medium=android_app&utm_source=share)
   - [ ] [Tutorial: Training on larger batches with less memory in AllenNLP](https://medium.com/ai2-blog/tutorial-training-on-larger-batches-with-less-memory-in-allennlp-1cd2047d92ad)
   - [ ] [Knowledge Distillation](https://nervanasystems.github.io/distiller/knowledge_distillation.html#knowledge-distillation)
