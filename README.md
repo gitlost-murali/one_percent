@@ -336,6 +336,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [X] [`Video`: nbdev tutorial](https://www.youtube.com/watch?v=Hrs7iEYmRmg&feature=emb_title)
 - [ ] [Fine-tune Transformers in PyTorch Using Hugging Face Transformers](https://www.linkedin.com/posts/philipvollet_deeplearning-pytorch-nlp-activity-6720947953479008256-4S5T/)
 - [ ] [Comprehensive Language Model Fine Tuning, Part 1: 🤗 Datasets library - Normalizing](https://www.ntentional.com/nlp/datasets/tokenization/processing/2020/10/09/comprehensive-datasets.html)
+- [X] [Building an entity extraction model using BERT](https://www.youtube.com/watch?v=MqQ7rqRllIc)
 
 ### Events
 
