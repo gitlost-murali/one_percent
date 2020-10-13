@@ -136,6 +136,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [BioBERT for Medical Domain](https://www.reddit.com/r/LanguageTechnology/comments/ip9qfz/biobert_cosine_similarity/?utm_medium=android_app&utm_source=share)
 - [ ] [Codequestion: Ask coding questions directly from the terminal](https://www.reddit.com/r/MachineLearning/comments/irauuz/p_codequestion_ask_coding_questions_directly_from/?utm_medium=android_app&utm_source=share)
 - [ ] [NLP models Template generation - HuggingFace](https://www.linkedin.com/posts/philipvollet_opensource-nlp-artificialintelligence-activity-6700850821002862592-zkw6/)
+- [X] [DiffBot - Observations on various tasks]()
 
 ### Essential tools
 
