@@ -343,6 +343,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Comprehensive Language Model Fine Tuning, Part 1: 🤗 Datasets library - Normalizing](https://www.ntentional.com/nlp/datasets/tokenization/processing/2020/10/09/comprehensive-datasets.html)
 - [X] [Building an entity extraction model using BERT](https://www.youtube.com/watch?v=MqQ7rqRllIc)
 - [X] [`Implementation`: XLM-> HuggingFace Dataset & Model](https://huggingface.co/transformers/model_doc/xlm.html)
+- [X] [`Implementation`: XLM-> HuggingFace Model & Loss](https://huggingface.co/transformers/model_doc/xlm.html)
 
 ### Events
 
