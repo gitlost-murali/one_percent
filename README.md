@@ -47,6 +47,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [How to deploy PyTorch Lightning models to production](https://www.cortex.dev/post/deploy-pytorch-lightning-models)
 - [ ] [ML Deployment Decision Tree](https://pakodas.substack.com/p/ml-deployment-decision-tree)
 - [ ] [What is ML Ops? Best Practices for DevOps for ML (Cloud Next '18)](https://www.youtube.com/watch?v=_jnhXzY1HCw&feature=youtu.be)
+- [ ] [MLOps - GitHub Repo - List of Articles/Blogs](https://github.com/visenger/awesome-mlops)
 - [ ] [ML Ops - DVCorg](https://www.youtube.com/watch?v=9BgIDqAzfuA&feature=youtu.be)
   - [X] [MLOps Tutorial #1: Intro to Continuous Integration for ML](https://www.youtube.com/watch?v=9BgIDqAzfuA&feature=youtu.be)
   - [X] [MLOps Tutorial #2: When data is too big for Git](https://www.youtube.com/watch?v=kZKAuShWF0s)
@@ -170,7 +171,6 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 ### Stay up-to-date in research
 
 - [ ] [Papers](https://github.com/gitlost-murali/one_percent)
-
   - [X] [NLP Checklist Paper](https://arxiv.org/abs/2005.04118)
   - [ ] [`6/9` - Benchmarking Zero-shot Text Classification: Datasets, Evaluation and Entailment Approach](https://arxiv.org/abs/1909.00161)
   - [X] [Let Me Choose: From Verbal Context to Font Selection](https://arxiv.org/abs/2005.01151)
@@ -181,6 +181,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [Transforming machine translation: a deep learning system reaches news translation quality comparable to human professionals](https://www.nature.com/articles/s41467-020-18073-9)
   - [X] [OverView of Explicit Cross-lingual Pre-training for Unsupervised Machine Translation](https://www.aclweb.org/anthology/D19-1071.pdf)
   - [ ] [On the Cross-lingual Transferability of Monolingual Representations.](https://arxiv.org/abs/1910.11856)
+  - [ ] [The elephant in the interpretability room: Why use attention as explanation when we have saliency methods?](https://arxiv.org/abs/2010.05607)
   - [ ] [MAD-X : An Adapter-based Framework forMulti-task Cross-lingual Transfer](https://public.ukp.informatik.tu-darmstadt.de/MAD-X/paper.pdf)
   - [ ] [It's Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners](https://arxiv.org/abs/2009.07118)
   - [ ] [Human Attention Maps for Text Classification: Do Humans and Neural Networks Focus on the Same Words?](https://www.aclweb.org/anthology/2020.acl-main.419)
@@ -196,6 +197,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [Pre-training via Paraphrasing](https://arxiv.org/pdf/2006.15020.pdf)
   - [ ] [A language model you can add symbolic facts to! ](https://arxiv.org/abs/2007.00849)
   - [ ] [Perturbation sensitivity analysis to detect **unintended model biases**](https://arxiv.org/abs/1910.04210)
+  - [ ] [Asking Crowdworkers to Write Entailment Examples: The Best of Bad Options](https://twitter.com/claravania/status/1316405457511231490?s=20)
   - [ ] [Big Bird: Transformers for Longer Sequences](https://arxiv.org/abs/2007.14062)
   - [ ] [The State and Fate of Linguistic Diversity and Inclusion in the NLP World](https://arxiv.org/pdf/2004.09095.pdf)
   - [ ] [A Call for More Rigor in Unsupervised Cross-lingual Learning](https://www.aclweb.org/anthology/2020.acl-main.658/)
@@ -225,6 +227,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [X] [Easy Data Augmentation for Text Classification](https://www.youtube.com/watch?v=3w92peJtYNQ)
   - [X] [TextAttack: A Framework for Data Augmentation and Adversarial Training in NLP](https://youtu.be/VpLAjOQHaLU)
   - [ ] [ACL 2019 tutorial on Unsupervised Cross-lingual Representation Learning](https://tinyurl.com/xlingual)
+  - [ ] [Small Language Models Are Also Few-Shot Learners](https://www.youtube.com/watch?v=UrGZCPalfoE&feature=youtu.be)
   - [X] [REALM: Retrieval-Augmented Language Model Pre-Training | NLP Journal Club](https://www.youtube.com/watch?v=mFoEig-Xi_0)
   - [ ] [Training more effective learned optimizers, and using them to train themselves (Paper Explained)](https://www.youtube.com/watch?v=3baFTP0uYOc&feature=youtu.be)
 
@@ -240,6 +243,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [X] [How to Skim Through Research Paper](https://twitter.com/hardmaru/status/1305758751798910976?s=03)
   - [X] [TaBERT: A new model for understanding queries over tabular data](https://ai.facebook.com/blog/tabert-a-new-model-for-understanding-queries-over-tabular-data/)
   - [ ] [Comprehensive Language Model Fine Tuning, Part 1: 🤗 Datasets library - Normalizing](https://www.ntentional.com/nlp/datasets/tokenization/processing/2020/10/09/comprehensive-datasets.html)
+  - [ ] [Paper -> Adjective ordering is universal across languages](https://twitter.com/junyenle/status/1316429411193847812?s=20)
   - [ ] [On the Ability and Limitations of Transformers to Recognize Formal Languages](https://twitter.com/satwik1729/status/1315575680885637120?s=20)
   - [ ] [The Best NLP Papers From ICLR 2020](https://www.topbots.com/best-nlp-papers-from-iclr-2020/)
   - [ ] [Is Hopfield Networks All You Need?](https://analyticsindiamag.com/modern-hopfield-network-transformers-attention/)
@@ -321,6 +325,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [X] [Building an entity extraction model using BERT](https://www.youtube.com/watch?v=MqQ7rqRllIc)
 - [X] [`Implementation`: XLM-> HuggingFace Dataset & Model](https://huggingface.co/transformers/model_doc/xlm.html)
 - [X] [`Implementation`: XLM-> HuggingFace Model & Loss](https://huggingface.co/transformers/model_doc/xlm.html)
+- [X] [Spacy exploration]()
 
 ### Events
 
