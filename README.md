@@ -93,7 +93,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Snorkel: Tweet asking Custom Snorkel Annotation Functions](https://twitter.com/yoavgo/status/1300582803319513089)
 - [ ] [FAQ #1: Tips & tricks for NLP, annotation & training with Prodigy and spaCy](https://www.youtube.com/watch?v=tMAU3gLbKII)
 - [ ] [TRAINING A NEW ENTITY TYPE with Prodigy – annotation powered by active learning](https://www.youtube.com/watch?v=l4scwf8KeIA&feature=youtu.be)
-- [ ] [Training a NAMED ENTITY RECOGNITION MODEL with Prodigy and Transfer Learning](https://www.youtube.com/watch?v=59BKHO_xBPA&feature=youtu.be)
+- [X] [Training a NAMED ENTITY RECOGNITION MODEL with Prodigy and Transfer Learning](https://www.youtube.com/watch?v=59BKHO_xBPA&feature=youtu.be)
 
 
 ### Up-to-date with NLP tools
