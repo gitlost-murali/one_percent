@@ -233,6 +233,8 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 
 - [ ] [Podcasts]()
   - [ ] [Generating Sentiment-Preserving Fake Online Reviews Using Neural Language Models and Their Human- and Machine-based Detection](https://dataskeptic.libsyn.com/sentiment-preserving-fake-reviews) based on [Paper](https://arxiv.org/abs/1907.09177)
+  - [X] [Finding Trash in Sensitive Waterways with AI - `26:00`](https://open.spotify.com/episode/2GZjam1c5QHPagdyQFW3Iw)
+  - [X] [NVIDIA's Keith Strier Talks AI Nations - `30:00`](https://open.spotify.com/episode/6XVDdAUUt86zr6MNdqO2wD)
 
 - [ ] [Blogs](https://github.com/gitlost-murali/one_percent)
   - [X] [Why You Should Do NLP Beyond English](https://ruder.io/nlp-beyond-english/)
