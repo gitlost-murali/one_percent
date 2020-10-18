@@ -112,6 +112,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Codequestion: Ask coding questions directly from the terminal](https://www.reddit.com/r/MachineLearning/comments/irauuz/p_codequestion_ask_coding_questions_directly_from/?utm_medium=android_app&utm_source=share)
 - [ ] [NLP models Template generation - HuggingFace](https://www.linkedin.com/posts/philipvollet_opensource-nlp-artificialintelligence-activity-6700850821002862592-zkw6/)
 - [X] [DiffBot - Observations on various tasks]()
+- [ ] [Argos-Translate -> Open source offline translation app written in Python. Uses OpenNMT for translations.](https://github.com/argosopentech/argos-translate)
 
 ### Essential tools
 
@@ -181,9 +182,15 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [Transforming machine translation: a deep learning system reaches news translation quality comparable to human professionals](https://www.nature.com/articles/s41467-020-18073-9)
   - [X] [OverView of Explicit Cross-lingual Pre-training for Unsupervised Machine Translation](https://www.aclweb.org/anthology/D19-1071.pdf)
   - [ ] [On the Cross-lingual Transferability of Monolingual Representations.](https://arxiv.org/abs/1910.11856)
+  - [ ] [Investigating representations of verb bias in neural language models](https://arxiv.org/abs/2010.02375)
+  - [ ] [Multilevel Text Alignment with Cross-Document Attention](https://arxiv.org/abs/2010.01263)
   - [ ] [The elephant in the interpretability room: Why use attention as explanation when we have saliency methods?](https://arxiv.org/abs/2010.05607)
   - [ ] [MAD-X : An Adapter-based Framework forMulti-task Cross-lingual Transfer](https://public.ukp.informatik.tu-darmstadt.de/MAD-X/paper.pdf)
   - [ ] [It's Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners](https://arxiv.org/abs/2009.07118)
+  - [ ] [Grounded Compositional Outputs for Adaptive Language Modeling](https://arxiv.org/abs/2009.11523)
+  - [ ] [Plug and Play Autoencoders for Conditional Text Generation](https://arxiv.org/abs/2010.02983)
+  - [ ] [Not Low-Resource Anymore: Aligner Ensembling, Batch Filtering, and New Datasets for Bengali-English Machine Translation](https://arxiv.org/pdf/2009.09359.pdf)
+  - [ ] [Participatory Research for Low-resourced Machine Translation: A Case Study in African Languages](https://arxiv.org/pdf/2010.02353.pdf)
   - [ ] [Human Attention Maps for Text Classification: Do Humans and Neural Networks Focus on the Same Words?](https://www.aclweb.org/anthology/2020.acl-main.419)
   - [ ] [Knowledge-Aware Language Model Pretraining](https://arxiv.org/abs/2007.00655)
   - [ ] [Integrating Semantic Knowledge to Tackle Zero-shot Text Classification](https://arxiv.org/pdf/1903.12626.pdf)
@@ -376,6 +383,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Career]()
   - [ ] [Reflecting On My Failure To Craft Luck](https://pakodas.substack.com/p/reflecting-on-my-failure-to-craft?r=3w6vr&utm_campaign=post&utm_medium=web&utm_source=twitter)
   - [ ] [Decomplication: How to Find Simple Solutions to “Hard” Problems](https://www.nateliason.com/blog/decomplication)
+  - [ ] [Offers 1:1 Career Advice calls](https://twitter.com/jesslynnrose/status/1300381984548679680)
   - [ ] [Useful vs. Useless Feedback](https://medium.com/swlh/useful-vs-useless-feedback-ba8c65cb7a4c)
   - [ ] [Masters/PhD application Advice by Andrew Trask -> Apply to work with a professor more than a dept/uni if possible ...](https://twitter.com/iamtrask/status/1303646976433623040?s=03)
   - [ ] [Compilation of resources for applications](https://twitter.com/996roma/status/1312356906388910080?s=20)
@@ -413,6 +421,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 ### Datasets
 
 - [ ] [TaxiNLI dataset - NLI example in the MultiNLI dataset with 18 features like Linguistic, Logic, Knowledge etc](https://github.com/microsoft/TaxiNLI)
+- [ ] [QED: A Framework and Dataset for Explanations in Question Answering](https://arxiv.org/abs/2009.06354)
 
 ### (Deep) Learning with Limited Labeled Data (DL3D): Unsupervised, Self-Supervised Learning Papers
 
