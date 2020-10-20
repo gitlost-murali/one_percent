@@ -10,7 +10,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 
 ### Software (& ML) Engineering
 
-- [ ] [Dockers - `1:03:00`/`5:16:45`](https://www.youtube.com/watch?v=RSIstPUiEjY)
+- [ ] [Dockers - `1:47:00`/`5:16:45`](https://www.youtube.com/watch?v=RSIstPUiEjY)
 - [ ] [Docker For Data Scientists](https://www.youtube.com/watch?v=0qG_0CPQhpg&feature=youtu.be)
 - [ ] [Binder: Repo2Docker](https://zero-to-jupyterhub.readthedocs.io/en/latest/repo2docker.html)
 - [X] [Youtube: Jekyll - Static Site Generator Playlist](https://www.youtube.com/watch?v=T1itpPvFWHI&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=1)
