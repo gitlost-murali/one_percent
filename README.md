@@ -132,6 +132,8 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 
 - [X] [Video: Understanding ROC Curve](https://www.youtube.com/watch?v=4jRBRDbJemM)
 - [X] [Video: BackPropagation Through Time](https://www.youtube.com/watch?v=Xeb6OjnVn8g)
+- [ ] [Decision Trees Playlist](https://www.youtube.com/watch?v=3vZo0ApLz0A&list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3&index=32)
+  - [X] [1. Intro to Decision Trees](https://www.youtube.com/watch?v=3vZo0ApLz0A&list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3&index=32)
 - [ ] [The Sorcerer’s Apprentice Guide to Training LSTMs](https://www.niklasschmidinger.com/posts/2020-09-09-lstm-tricks/)
 - [ ] [Are categorical variables getting lost in your random forests](https://roamanalytics.com/2016/10/28/are-categorical-variables-getting-lost-in-your-random-forests/)
 - [ ] [How to learn Gaussian Process](https://www.reddit.com/r/MachineLearning/comments/itm5wh/how_to_learn_gaussian_process_r/?utm_medium=android_app&utm_source=share)
