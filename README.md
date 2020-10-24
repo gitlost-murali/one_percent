@@ -113,6 +113,8 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [NLP models Template generation - HuggingFace](https://www.linkedin.com/posts/philipvollet_opensource-nlp-artificialintelligence-activity-6700850821002862592-zkw6/)
 - [X] [DiffBot - Observations on various tasks]()
 - [ ] [Argos-Translate -> Open source offline translation app written in Python. Uses OpenNMT for translations.](https://github.com/argosopentech/argos-translate)
+- [ ] [Extract transliteration pairs from a parallel corpus using Moses](https://github.com/gv22ga/moses-transliteration-pair-mining.git)
+- [ ] [Text-to-SQL Generation for Question Answering on Electronic Medical Records](https://github.com/wangpinggl/TREQS)
 
 ### Essential tools
 
@@ -189,6 +191,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [The elephant in the interpretability room: Why use attention as explanation when we have saliency methods?](https://arxiv.org/abs/2010.05607)
   - [ ] [MAD-X : An Adapter-based Framework forMulti-task Cross-lingual Transfer](https://public.ukp.informatik.tu-darmstadt.de/MAD-X/paper.pdf)
   - [ ] [It's Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners](https://arxiv.org/abs/2009.07118)
+  - [ ] [‘Less Than One’-Shot Learning: Learning N Classes From M<N Samples](https://arxiv.org/abs/2009.08449)
   - [ ] [Grounded Compositional Outputs for Adaptive Language Modeling](https://arxiv.org/abs/2009.11523)
   - [ ] [Plug and Play Autoencoders for Conditional Text Generation](https://arxiv.org/abs/2010.02983)
   - [ ] [Not Low-Resource Anymore: Aligner Ensembling, Batch Filtering, and New Datasets for Bengali-English Machine Translation](https://arxiv.org/pdf/2009.09359.pdf)
@@ -220,6 +223,8 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [An Image Is Worth 16X16 Words: Transformers For Image Recognition At Scale](https://openreview.net/pdf?id=YicbFdNTTy)
   - [ ] [Compositional Explanations of Neurons](https://arxiv.org/pdf/2006.14032.pdf)
   - [ ] [Leakage-Adjusted Simulatability: Can Models Generate Non-Trivial Explanations of Their Behavior in Natural Language?](https://arxiv.org/abs/2010.04119) and [its Tweet](https://twitter.com/peterbhase/status/1314600474180497409?s=03)
+  - [ ] ["You are grounded!": Latent Name Artifacts in Pre-trained Language Models](https://arxiv.org/abs/2004.03012v2)
+  - [ ] [Unsupervised Commonsense Question Answering with Self-Talk](https://arxiv.org/abs/2004.05483v2)
   - [ ] [Understanding Self-supervised Learning with Dual Deep Networks](https://arxiv.org/abs/2010.00578)
 
 - [ ] [Talks/Videos](https://github.com/gitlost-murali/one_percent)
@@ -238,6 +243,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [ACL 2019 tutorial on Unsupervised Cross-lingual Representation Learning](https://tinyurl.com/xlingual)
   - [ ] [Small Language Models Are Also Few-Shot Learners](https://www.youtube.com/watch?v=UrGZCPalfoE&feature=youtu.be)
   - [X] [REALM: Retrieval-Augmented Language Model Pre-Training | NLP Journal Club](https://www.youtube.com/watch?v=mFoEig-Xi_0)
+  - [ ] [The Hardware Lottery (Paper Explained)](https://youtu.be/MQ89be_685o)
   - [ ] [Training more effective learned optimizers, and using them to train themselves (Paper Explained)](https://www.youtube.com/watch?v=3baFTP0uYOc&feature=youtu.be)
 
 - [ ] [Podcasts]()
@@ -353,12 +359,13 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Episode #191: Live from the Manning Python Conference](https://pythonbytes.fm/episodes/show/191/live-from-the-manning-python-conference)
 - [ ] [TwiMLAI- Causal Modeling in ML](https://twitter.com/twimlai/status/1305129106175123456?s=03)
 
-### Revisiting concepts with Summary Papers
+### Revisiting concepts with Survey Papers
 
 - [ ] [Text Classification Algorithms: A Survey](https://arxiv.org/pdf/1904.08067.pdf)
 - [ ] [A Survey of Evaluation Metrics Used for NLG Systems](https://arxiv.org/abs/2008.12009)
 - [ ] [100 Must-Read NLP Papers](https://github.com/mhagiwara/100-nlp-papers)
 - [ ] [A Survey of Surveys (NLP & ML)](https://github.com/NiuTrans/ABigSurvey)
+- [ ] [Efficient Transformers: A Survey](https://arxiv.org/abs/2009.06732)
 
 ### Blog ideas
 
@@ -370,7 +377,8 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 ### Financial & Career Knowledge
 
 - [ ] [Finance]()
-  - [ ] [Let's Talk money - `62%`](https://github.com/freemiya)
+  - [ ] [Let's Talk money - `62%`]()
+  - [ ] [The Psychology of Money](https://www.collaborativefund.com/blog/the-psychology-of-money/?s=03)
   - [X] [Recession Proofing My Tech Career _Or the Desi Guide to Personal Finance_](https://niranting.substack.com/p/recession-proofing-my-tech-career)
   - [ ] [Default Alive or Default Dead?](http://www.paulgraham.com/aord.html)
   - [X] [The FIRE movement](https://www.mrmoneymustache.com/2018/10/05/the-fire-movement/)
@@ -384,6 +392,8 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 
 - [ ] [Career]()
   - [ ] [Reflecting On My Failure To Craft Luck](https://pakodas.substack.com/p/reflecting-on-my-failure-to-craft?r=3w6vr&utm_campaign=post&utm_medium=web&utm_source=twitter)
+  - [ ] [How to read and understand a scientific paper: a guide for non-scientists](https://blogs.lse.ac.uk/impactofsocialsciences/2016/05/09/how-to-read-and-understand-a-scientific-paper-a-guide-for-non-scientists/#8230)
+  - [ ] [How-to-Read-Papers-for-ideas](https://twitter.com/daniel_bilar/status/1305804091667484672?s=20)
   - [ ] [Decomplication: How to Find Simple Solutions to “Hard” Problems](https://www.nateliason.com/blog/decomplication)
   - [ ] [Offers 1:1 Career Advice calls](https://twitter.com/jesslynnrose/status/1300381984548679680)
   - [ ] [Useful vs. Useless Feedback](https://medium.com/swlh/useful-vs-useless-feedback-ba8c65cb7a4c)
@@ -423,6 +433,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 ### Datasets
 
 - [ ] [TaxiNLI dataset - NLI example in the MultiNLI dataset with 18 features like Linguistic, Logic, Knowledge etc](https://github.com/microsoft/TaxiNLI)
+- [ ] [Standardizing Indic NLP - Scripts for downloading various Indic NLP datasets and converting them into a standard format](https://github.com/deterministic-algorithms-lab/Std-Indic-NLP.git)
 - [ ] [QED: A Framework and Dataset for Explanations in Question Answering](https://arxiv.org/abs/2009.06354)
 
 ### (Deep) Learning with Limited Labeled Data (DL3D): Unsupervised, Self-Supervised Learning Papers
