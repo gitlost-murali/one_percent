@@ -396,6 +396,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [How-to-Read-Papers-for-ideas](https://twitter.com/daniel_bilar/status/1305804091667484672?s=20)
   - [X] [Making Money, Making Happiness](https://www.nateliason.com/blog/making-money-making-happiness)
   - [X] [Decomplication: How to Find Simple Solutions to “Hard” Problems](https://www.nateliason.com/blog/decomplication)
+  - [ ] [Level 3 Thinking: A Unified Theory of Self-Improvement](https://www.nateliason.com/blog/level-3-thinking)
   - [ ] [Offers 1:1 Career Advice calls](https://twitter.com/jesslynnrose/status/1300381984548679680)
   - [ ] [Useful vs. Useless Feedback](https://medium.com/swlh/useful-vs-useless-feedback-ba8c65cb7a4c)
   - [ ] [Masters/PhD application Advice by Andrew Trask -> Apply to work with a professor more than a dept/uni if possible ...](https://twitter.com/iamtrask/status/1303646976433623040?s=03)
