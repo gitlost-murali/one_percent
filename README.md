@@ -421,7 +421,6 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [X] [Five Nonobvious Remote Work Techniques](https://queue.acm.org/detail.cfm?id=3417752&s=03)
   - [ ] [How to Accomplish More with Less - Useful Tools & Routines](https://eugeneyan.com/writing/how-to-accomplish-more-with-less/)
   - [X] [This Is The First 10 Years Of Your Career](https://m.huffpost.com/us/entry/us_58a99f03e4b0b0e1e0e20c40/amp?guccounter=1&__twitter_impression=true&s=03)
-  - [ ] [](https://twitter.com/NirantK/status/1316598725150732288?s=20)
   - [ ] [Don't End The Week With Nothing](https://training.kalzumeus.com/newsletters/archive/do-not-end-the-week-with-nothing)
   - [X] [Act Like You're 35._What I wish I knew when I was 20 about Workplace_](https://niranting.substack.com/p/act-like-youre-35)
   - [ ] [Reach Out, Stay in Touch and Deepen Your Connections with This Essential Networking Advice](https://firstround.com/review/reach-out-stay-in-touch-and-deepen-your-connections-with-this-essential-networking-advice/)
