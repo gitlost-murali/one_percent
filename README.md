@@ -404,7 +404,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Career]()
   - [ ] [Reflecting On My Failure To Craft Luck](https://pakodas.substack.com/p/reflecting-on-my-failure-to-craft?r=3w6vr&utm_campaign=post&utm_medium=web&utm_source=twitter)
   - [ ] [How to read and understand a scientific paper: a guide for non-scientists](https://blogs.lse.ac.uk/impactofsocialsciences/2016/05/09/how-to-read-and-understand-a-scientific-paper-a-guide-for-non-scientists/#8230)
-  - [ ] [How-to-Read-Papers-for-ideas](https://twitter.com/daniel_bilar/status/1305804091667484672?s=20)
+  - [X] [How-to-Read-Papers-for-ideas](https://twitter.com/daniel_bilar/status/1305804091667484672?s=20)
   - [X] [Making Money, Making Happiness](https://www.nateliason.com/blog/making-money-making-happiness)
   - [X] [Decomplication: How to Find Simple Solutions to “Hard” Problems](https://www.nateliason.com/blog/decomplication)
   - [ ] [Level 3 Thinking: A Unified Theory of Self - Improvement](https://www.nateliason.com/blog/level-3-thinking)
