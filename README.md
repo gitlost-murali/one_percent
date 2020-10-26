@@ -354,6 +354,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [X] [`Implementation`: XLM-> HuggingFace Model & Loss](https://huggingface.co/transformers/model_doc/xlm.html)
 - [X] [Spacy exploration]()
 - [ ] [SparkNLP in 1 Hour](https://www.linkedin.com/posts/vkocaman_sparknlp-spark-tensorflow-activity-6715948330591031296-3tuA/)
+- [ ] [`25:00/1:16:00` - Ensembling, Blending & Stacking](https://www.youtube.com/watch?v=TuIgtitqJho)
 
 ### Events
 
