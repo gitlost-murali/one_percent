@@ -312,7 +312,8 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 
 ### General-Courses (Interesting but not immediate)
 
-- [ ] [FastAI - New Course](https://course.fast.ai/)
+- [ ] [FastAI - Course-v4](https://course.fast.ai/)
+  - [X] [L1: Intro to fastAI- `1:22:30`](https://course.fast.ai/videos/?lesson=1)
 - [ ] [Justin Johnson - Deep Learning for Computer Vision](https://www.youtube.com/watch?v=dJYGatp4SvA&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r&index=2&t=0s)
 - [ ] [NYU Deep learning course - Interesting!!!!!](https://www.youtube.com/watch?v=kwPWpVverkw)
 - [ ] [Dive into Deep Learning](https://d2l.ai/)
