@@ -32,6 +32,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [`Video`: GitHub Actions & Machine Learning Workflows with Hamel Husain](https://www.youtube.com/watch?v=S-kn4mmlxFU)
 - [ ] [Kubernetes]()
   - [X] [An introduction to Kubernetes.](https://www.jeremyjordan.me/kubernetes/)
+  - [X] [Kubernetes Concepts Explained in 9 minutes!](https://www.youtube.com/watch?v=QJ4fODH6DXI)
 - [ ] [Learn PostgreSQL](https://www.youtube.com/watch?v=qw--VYLpxG4)
   - [ ] [Introduction - 1 hour](https://www.youtube.com/watch?v=qw--VYLpxG4)
   - [ ] [Basic Operations - 1 hour](https://www.youtube.com/watch?v=qw--VYLpxG4)
