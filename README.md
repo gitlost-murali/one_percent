@@ -386,6 +386,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 
 - [X] [On Exploting LMs. Refer nlp-helper tool as well](https://gitlost-murali.github.io/blogs/blogs/nlp/exploiting-contextual-models-for-data)
 - [ ] [Collate all - t5, marge, pegasus, electra etc.](https://github.com/freemiya)
+- [ ] [Blog on robustness,drifts]()
 - [X] [Explaining PDF backend](https://gitlost-murali.github.io/blogs/tooling/pdf/how-to-read-write-pdfs/)
 - [X] [On label-studio usage and mapping with ML: Fast in a day or two](https://gitlost-murali.github.io/blogs/tooling/annotation/labelling-your-data/)
 
