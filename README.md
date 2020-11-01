@@ -33,7 +33,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Kubernetes]()
   - [X] [An introduction to Kubernetes.](https://www.jeremyjordan.me/kubernetes/)
   - [X] [Kubernetes Concepts Explained in 9 minutes!](https://www.youtube.com/watch?v=QJ4fODH6DXI)
-  - [ ] [Introduction to Microservices, Docker, and Kubernetes - `40:00/55:07`](https://www.youtube.com/watch?v=1xo-0gCVhTU)
+  - [X] [Introduction to Microservices, Docker, and Kubernetes - `55:07/55:07`](https://www.youtube.com/watch?v=1xo-0gCVhTU)
 - [ ] [Learn PostgreSQL](https://www.youtube.com/watch?v=qw--VYLpxG4)
   - [ ] [Introduction - 1 hour](https://www.youtube.com/watch?v=qw--VYLpxG4)
   - [ ] [Basic Operations - 1 hour](https://www.youtube.com/watch?v=qw--VYLpxG4)
