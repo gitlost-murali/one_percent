@@ -110,7 +110,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Language Interpretability Tool (LIT)](https://github.com/pair-code/lit)
 - [ ] [NLP guide from AllenNLP](https://guide.allennlp.org/overview/)
 - [ ] [Is there any approach to normalize words like helllllloooooo to hello?](https://www.reddit.com/r/LanguageTechnology/comments/io87i7/is_there_any_approach_to_normalize_words_like/?utm_medium=android_app&utm_source=share)
-- [ ] [BioBERT for Medical Domain](https://www.reddit.com/r/LanguageTechnology/comments/ip9qfz/biobert_cosine_similarity/?utm_medium=android_app&utm_source=share)
+- [X] [BioBERT for Medical Domain](https://www.reddit.com/r/LanguageTechnology/comments/ip9qfz/biobert_cosine_similarity/?utm_medium=android_app&utm_source=share)
 - [ ] [Codequestion: Ask coding questions directly from the terminal](https://www.reddit.com/r/MachineLearning/comments/irauuz/p_codequestion_ask_coding_questions_directly_from/?utm_medium=android_app&utm_source=share)
 - [ ] [NLP models Template generation - HuggingFace](https://www.linkedin.com/posts/philipvollet_opensource-nlp-artificialintelligence-activity-6700850821002862592-zkw6/)
 - [X] [DiffBot - Observations on various tasks]()
