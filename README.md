@@ -128,7 +128,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Production scale, Kubernetes-native vision AI platform, with fully integrated components for model building, automated labeling, data processing and model training pipelines.](https://github.com/onepanelio/core)
 - [ ] [CascadeTabNet - Cascade mask R-CNN HRNet to detect Tables](https://github.com/DevashishPrasad/CascadeTabNet)
 - [ ] [Text Recognition with CRNN-CTC Network](https://app.wandb.ai/authors/text-recognition-crnn-ctc/reports/Text-Recognition-with-CRNN-CTC-Network--VmlldzoxNTI5NDI)
-- [ ] [VS Code (codeserver) on Google Colab / Kaggle / Anywhere](https://www.youtube.com/watch?v=7kTbM3D02jU)
+- [X] [VS Code (codeserver) on Google Colab / Kaggle / Anywhere](https://www.youtube.com/watch?v=7kTbM3D02jU)
 - [X] [OpenRefine Lib for cleaning, managing data](https://openrefine.org/)
 
 ### Building strong ML/NLP Fundamentals
