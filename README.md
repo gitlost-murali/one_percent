@@ -335,6 +335,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Multilingual Natural Language Processing](http://demo.clab.cs.cmu.edu/11737fa20/)
   - [X] [CMU Multilingual NLP 2020 (1): Introduction - `1:17:28`](https://www.youtube.com/watch?v=xeu7LKIT194&list=PL8PYTP1V4I8CHhppU6n1Q9-04m96D9gt5&index=2&t=0s)
   - [X] [CMU Multilingual NLP 2020 (2): Typology - The Space of Language - `37:12`](https://www.youtube.com/watch?v=4QilRTLxvCc&list=PL8PYTP1V4I8CHhppU6n1Q9-04m96D9gt5&index=2)
+  - [X] [CMU Multilingual NLP 2020 (3): Words, Parts of Speech, Morphology - `38:57`](https://www.youtube.com/watch?v=kaSCjn7oMDw&list=PL8PYTP1V4I8CHhppU6n1Q9-04m96D9gt5&index=3)
 - [ ] [CS 285: Deep Reinforcement Learning](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc)
 - [ ] [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [ ] [*Most* extensive list of "From Scratch Machine Learning".](https://github.com/eriklindernoren/ML-From-Scratch)
