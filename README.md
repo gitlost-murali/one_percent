@@ -268,7 +268,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [X] [Introducing Label Studio, a swiss army knife of data labeling](https://towardsdatascience.com/introducing-label-studio-a-swiss-army-knife-of-data-labeling-140c1be92881#3907-fd502dc24c8d)
   - [X] [How to Skim Through Research Paper](https://twitter.com/hardmaru/status/1305758751798910976?s=03)
   - [X] [TaBERT: A new model for understanding queries over tabular data](https://ai.facebook.com/blog/tabert-a-new-model-for-understanding-queries-over-tabular-data/)
-  - [X] [https://ai.stanford.edu/blog/adaptive-risk-minimization/](https://ai.stanford.edu/blog/adaptive-risk-minimization/)
+  - [X] [Adaptive Risk Minimization: Adapting to new test distribution in production](https://ai.stanford.edu/blog/adaptive-risk-minimization/)
   - [ ] [Maximizing BERT model performance](https://towardsdatascience.com/maximizing-bert-model-performance-539c762132ab)
   - [ ] [Comprehensive Language Model Fine Tuning, Part 1: 🤗 Datasets library - Normalizing](https://www.ntentional.com/nlp/datasets/tokenization/processing/2020/10/09/comprehensive-datasets.html)
   - [ ] [Paper -> Adjective ordering is universal across languages](https://twitter.com/junyenle/status/1316429411193847812?s=20)
