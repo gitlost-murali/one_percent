@@ -522,7 +522,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 | [FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence](https://arxiv.org/abs/2001.07685) | Semi-Supervised Learning | CV |
 | [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709) | Transfer/Representation Learning | CV |
 | [Fine-Tuning Pretrained Language Models: Weight Initializations, Data Orders, and Early Stopping](https://arxiv.org/abs/2002.06305) | Transfer Learning | NLP |
-| [ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators](https://arxiv.org/abs/2003.10555) | Transfer Learning | NLP |
+| [`3/10` ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators](https://arxiv.org/abs/2003.10555) | Transfer Learning | NLP |
 | [Rethinking Pre-training and Self-training](https://arxiv.org/abs/2006.06882) | Transfer and Semi-Supervised Learning | CV |
 | [Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning](https://arxiv.org/abs/2006.07733) | Transfer/Representation Learning | CV |
 | [Unsupervised Learning of Visual Features by Contrasting Cluster Assignments](https://arxiv.org/abs/2006.09882) | Transfer/Representation Learning | CV |
