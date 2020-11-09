@@ -279,6 +279,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [Measuring dataset similarity using optimal transport](https://www.microsoft.com/en-us/research/blog/measuring-dataset-similarity-using-optimal-transport/?OCID=msr_blog_otdd_tw)
   - [ ] [The Best NLP Papers From ICLR 2020](https://www.topbots.com/best-nlp-papers-from-iclr-2020/)
   - [X] [What is XLNet and why it outperforms BERT -> Basic knowledge of XLNet to understand the difference between XLNet and BERT intuitively](https://towardsdatascience.com/what-is-xlnet-and-why-it-outperforms-bert-8d8fce710335)
+  - [X] [Paper Dissected: “XLNet: Generalized Autoregressive Pretraining for Language Understanding” Explained](https://mlexplained.com/2019/06/30/paper-dissected-xlnet-generalized-autoregressive-pretraining-for-language-understanding-explained/)
   - [ ] [Is Hopfield Networks All You Need?](https://analyticsindiamag.com/modern-hopfield-network-transformers-attention/)
   - [ ] [Hopfield Networks is All You Need](https://ml-jku.github.io/hopfield-layers/?s=03)
   - [ ] [Challenges in going from POCs to Production-Ready ML system](https://twitter.com/full_stack_dl/status/1313129048420229120?s=03)
