@@ -514,7 +514,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 | [How to Fine-Tune BERT for Text Classification?](https://arxiv.org/abs/1905.05583) | Transfer Learning | NLP |
 | [Data-Efficient Image Recognition with Contrastive Predictive Coding](https://arxiv.org/abs/1905.09272) | Transfer/Representation Learning | CV |
 | [Synthetic QA Corpora Generation with Roundtrip Consistency](https://arxiv.org/abs/1906.05416) | Semi-Supervised Learning | NLP |
-| [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237) | Transfer Learning | NLP |
+| [`3/9` -> XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237) | Transfer Learning | NLP |
 | [Large Scale Adversarial Representation Learning](https://arxiv.org/abs/1907.02544) | Transfer/Representation Learning | CV |
 | [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692) | Transfer Learning | NLP |
 | [Pseudo-Labeling and Confirmation Bias in Deep Semi-Supervised Learning](https://arxiv.org/abs/1908.02983) | Semi-Supervised Learning | CV |
