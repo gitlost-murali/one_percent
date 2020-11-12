@@ -174,7 +174,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [4. Natural Language Processing with Attention Models](https://www.coursera.org/learn/attention-models-in-nlp)
 
 - [ ] [Book : Speech and Language Processing - Jurafsky](https://web.stanford.edu/~jurafsky/slp3/)
-  - [ ] [`17/27`Pages Chapter-2: Regular Expressions, Text Normalization, Edit Distance]()
+  - [ ] [`22/27`Pages Chapter-2: Regular Expressions, Text Normalization, Edit Distance]()
 - [ ] [Natural Language Processing - Jurafsky & Manning](https://www.youtube.com/watch?v=oWsMIW-5xUc&list=PLLssT5z_DsK8HbD2sPcUIDfQ7zmBarMYv)
 - [ ] [Stanford CS229: Machine Learning (Autumn 2018)](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 - [ ] [Book: Emily M Bender's book](https://twitter.com/emilymbender/status/1305938604556824577?s=20)
