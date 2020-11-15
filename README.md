@@ -329,6 +329,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [X] [L1: Intro to fastAI- `1:22:30`](https://course.fast.ai/videos/?lesson=1)
 - [ ] [Justin Johnson - Deep Learning for Computer Vision](https://www.youtube.com/watch?v=dJYGatp4SvA&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r&index=2&t=0s)
 - [ ] [NYU Deep learning course - Interesting!!!!!](https://www.youtube.com/watch?v=kwPWpVverkw)
+   - [X] [Lecture-1: History, motivation and evolution of DL](https://www.youtube.com/watch?v=0bMe_vCZo30&list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
 - [ ] [Dive into Deep Learning](https://d2l.ai/)
 - [ ] [ETH-Zurich Machine Learning](https://las.inf.ethz.ch/teaching/introml-s20)
 - [ ] [Tweet mentioning a lot of cool apps](https://twitter.com/sannykimchi/status/1294285085672431618?s=20)
