@@ -256,6 +256,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [ACL 2019 tutorial on Unsupervised Cross-lingual Representation Learning](https://tinyurl.com/xlingual)
   - [ ] [Small Language Models Are Also Few-Shot Learners](https://www.youtube.com/watch?v=UrGZCPalfoE&feature=youtu.be)
   - [X] [REALM: Retrieval-Augmented Language Model Pre-Training | NLP Journal Club](https://www.youtube.com/watch?v=mFoEig-Xi_0)
+  - [X] [Knowledge Graph made simple using NLP and Transfer Learning by Suyog Swami](https://www.youtube.com/watch?v=S25CEMULDfc)
   - [ ] [Linkedin's New Search Engine | DeText: A Deep Text Ranking Framework with BERT | Deep Ranking Model](https://www.youtube.com/watch?v=Dd4Rw3t5QQk&feature=emb_title)
   - [ ] [The Hardware Lottery (Paper Explained)](https://youtu.be/MQ89be_685o)
   - [ ] [Training more effective learned optimizers, and using them to train themselves (Paper Explained)](https://www.youtube.com/watch?v=3baFTP0uYOc&feature=youtu.be)
