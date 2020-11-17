@@ -281,6 +281,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [Paper -> Adjective ordering is universal across languages](https://twitter.com/junyenle/status/1316429411193847812?s=20)
   - [ ] [Should you deploy and use Semi-Supervised Learning in production? -> From Research to Production with Deep Semi-Supervised Learning](https://towardsdatascience.com/from-research-to-production-with-deep-semi-supervised-learning-7caaedc39093)
   - [ ] [On the Ability and Limitations of Transformers to Recognize Formal Languages](https://twitter.com/satwik1729/status/1315575680885637120?s=20)
+  - [ ] [WTF is a knowledge graph?](https://hackernoon.com/wtf-is-a-knowledge-graph-a16603a1a25f)
   - [ ] [Measuring dataset similarity using optimal transport](https://www.microsoft.com/en-us/research/blog/measuring-dataset-similarity-using-optimal-transport/?OCID=msr_blog_otdd_tw)
   - [ ] [The Best NLP Papers From ICLR 2020](https://www.topbots.com/best-nlp-papers-from-iclr-2020/)
   - [X] [What is XLNet and why it outperforms BERT -> Basic knowledge of XLNet to understand the difference between XLNet and BERT intuitively](https://towardsdatascience.com/what-is-xlnet-and-why-it-outperforms-bert-8d8fce710335)
