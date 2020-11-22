@@ -354,7 +354,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [X] [CMU Multilingual NLP 2020 (2): Typology - The Space of Language - `37:12`](https://www.youtube.com/watch?v=4QilRTLxvCc&list=PL8PYTP1V4I8CHhppU6n1Q9-04m96D9gt5&index=2)
   - [X] [CMU Multilingual NLP 2020 (3): Words, Parts of Speech, Morphology - `38:57`](https://www.youtube.com/watch?v=kaSCjn7oMDw&list=PL8PYTP1V4I8CHhppU6n1Q9-04m96D9gt5&index=3)
   - [X] [CMU Multilingual NLP 2020 (4): Text Classification and Sequence Labeling](https://www.youtube.com/watch?v=aDvI8-iE0pM&list=PL8PYTP1V4I8CHhppU6n1Q9-04m96D9gt5&index=4)
-  - [X] [CMU Multilingual NLP 2020 (5): Advanced Text Classification/Labeling](https://www.youtube.com/watch?v=aDvI8-iE0pM&list=PL8PYTP1V4I8CHhppU6n1Q9-04m96D9gt5&index=4)
+  - [X] [CMU Multilingual NLP 2020 (5): Advanced Text Classification/Labeling - `24:00/49:39`](https://www.youtube.com/watch?v=aDvI8-iE0pM&list=PL8PYTP1V4I8CHhppU6n1Q9-04m96D9gt5&index=4)
 - [ ] [CS 285: Deep Reinforcement Learning](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc)
 - [ ] [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [ ] [*Most* extensive list of "From Scratch Machine Learning".](https://github.com/eriklindernoren/ML-From-Scratch)
