@@ -121,7 +121,8 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Argos-Translate -> Open source offline translation app written in Python. Uses OpenNMT for translations.](https://github.com/argosopentech/argos-translate)
 - [ ] [Extract transliteration pairs from a parallel corpus using Moses](https://github.com/gv22ga/moses-transliteration-pair-mining.git)
 - [ ] [Text-to-SQL Generation for Question Answering on Electronic Medical Records](https://github.com/wangpinggl/TREQS)
-- [ ] [HuggingFace NeuralCoref blog on how they are doing Coreference resolution](https://medium.com/huggingface/state-of-the-art-neural-coreference-resolution-for-chatbots-3302365dcf30#06e5)
+- [X] [HuggingFace NeuralCoref blog on how they are doing Coreference resolution](https://medium.com/huggingface/state-of-the-art-neural-coreference-resolution-for-chatbots-3302365dcf30#06e5)
+- [X] [How to train a neural coreference model— Neuralcoref 2](https://medium.com/huggingface/how-to-train-a-neural-coreference-model-neuralcoref-2-7bb30c1abdfe)
 
 ### Essential tools
 
