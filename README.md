@@ -74,6 +74,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
     - [X] [2.2 Software Engineering: Good SEngg practices for ML developers?](https://course.fullstackdeeplearning.com/course-content/infrastructure-and-tooling/software-engineering)
     - [X] [2.3 Computing and GPUs (3) - Infrastructure & Tooling](https://course.fullstackdeeplearning.com/course-content/infrastructure-and-tooling/hardware)
     - [X] [2.4 Resource Management (4) - Infrastructure & Tooling](https://www.youtube.com/watch?v=XmHRXktfwhM&feature=emb_title)
+    - [X] [2.5 Frameworks & Distributed Training (5) - Infrastructure & Tooling](https://course.fullstackdeeplearning.com/course-content/infrastructure-and-tooling/frameworks-and-distributed-training)
   - [ ] [3. Data Management](https://course.fullstackdeeplearning.com/course-content/data-management)
   - [ ] [4. Machine Learning Teams](https://course.fullstackdeeplearning.com/course-content/ml-teams)
   - [ ] [5. Training and Debugging](https://course.fullstackdeeplearning.com/course-content/training-and-debugging)
