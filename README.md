@@ -59,6 +59,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [X] [MLOps Tutorial #4: GitHub Actions with your own GPUs](https://www.youtube.com/watch?v=rVq-SCNyxVc)
   - [X] [DVC Explained in Five Minutes](https://www.youtube.com/watch?v=UbL7VUpv1Bs)
   - [X] [MLOps Tutorial #5: Automated Testing for Machine Learning](https://youtu.be/bSXUJRnQPPo)
+  - [X] [MLOps Tutorial #6: Behavioral tests for models with GitHub Actions](https://www.youtube.com/watch?v=ZhufbyZtF78&list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz&index=6)
   - [ ] [Elle O'Brien - Adapting continuous integration and continuous delivery for ML](https://www.youtube.com/watch?v=yp0su5mOeko&feature=emb_title)
 - [ ] [Blogs on ML-Production: Proper release and monitoring of machine learning systems in production.](https://madewithml.com/topics/production/)
 - [ ] [Blogs on Unit testing for ML](https://madewithml.com/topics/testing/)
