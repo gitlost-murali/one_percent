@@ -246,7 +246,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 
 - [ ] [Talks/Videos](https://github.com/gitlost-murali/one_percent)
   - [X] [Ilya GPT-2 Talk](https://www.youtube.com/watch?v=T0I88NhR_9M)
-  - [ ] [NLP Idiots](https://www.youtube.com/watch?v=f2m6Mon0VE8)
+  - [X] [NLP Idiots](https://www.youtube.com/watch?v=f2m6Mon0VE8)
   - [X] [Getting Started With Diffbot's Excel Add-In: Data Enrichment](https://www.youtube.com/watch?v=lbG5fl5foD8)
   - [X] [Getting Started With Diffbot's Excel Add-In: Lead Generation](https://www.youtube.com/watch?v=_G_feBvk-lY)
   - [X] [VLDB2020: The Diffbot Knowledge Graph](https://www.youtube.com/watch?v=d58BwcyTwEo)
