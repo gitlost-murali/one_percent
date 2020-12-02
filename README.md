@@ -161,7 +161,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [X] [8. Translation, Seq2Seq, Attention](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=8)
   - [X] [9. Practical Tips for Projects](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=9)
   - [X] [10. Question Answering](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=10)
-  - [ ] [11. Convolutional Networks for NLP](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=11)
+  - [X] [11. Convolutional Networks for NLP](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=11)
   - [ ] [12. Subword Models](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=12)
   - [ ] [13. Contextual Word Embeddings](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=13)
   - [ ] [14. Transformers and Self-Attention](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=14)
