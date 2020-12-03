@@ -444,6 +444,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [Useful vs. Useless Feedback](https://medium.com/swlh/useful-vs-useless-feedback-ba8c65cb7a4c)
   - [ ] [Masters/PhD application Advice by Andrew Trask -> Apply to work with a professor more than a dept/uni if possible ...](https://twitter.com/iamtrask/status/1303646976433623040?s=03)
   - [ ] [Compilation of resources for applications](https://twitter.com/996roma/status/1312356906388910080?s=20)
+  - [ ] [Alexey Grigorev on His Career, Data Science, and Writing](https://eugeneyan.com/writing/informal-mentors-alexey-grigorev/)
   - [ ] [How Reading Papers Helps You Be a More Effective Data Scientist](https://eugeneyan.com/writing/why-read-papers/)
   - [ ] [The Effects of Sequence and Delay on Crowd Work](https://www.cs.cmu.edu/~jbigham/pubs/pdfs/2015/sequenceanddelay.pdf)
   - [X] [Chip Huyen: Four lessons I learned after my first full-time job after college](https://huyenchip.com/2019/12/23/leaving-nvidia-lessons.html)
