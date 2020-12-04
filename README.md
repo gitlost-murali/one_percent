@@ -452,7 +452,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [NLP Trends and Use Cases in 2020](https://towardsdatascience.com/nlp-trends-and-use-cases-in-2020-dc8fb84a6e58)
   - [X] [Triple Thread : Career Advice](https://dilbertblog.typepad.com/the_dilbert_blog/2007/07/career-advice.html)
   - [X] [Standing Out at Work](https://niranting.substack.com/p/standing-out-at-work)
-  - [ ] [Where to go and why](https://pmarchive.com/guide_to_career_planning_part3.html)
+  - [X] [Where to go and why](https://pmarchive.com/guide_to_career_planning_part3.html)
   - [X] [Five Nonobvious Remote Work Techniques](https://queue.acm.org/detail.cfm?id=3417752&s=03)
   - [ ] [How to Accomplish More with Less - Useful Tools & Routines](https://eugeneyan.com/writing/how-to-accomplish-more-with-less/)
   - [X] [This Is The First 10 Years Of Your Career](https://m.huffpost.com/us/entry/us_58a99f03e4b0b0e1e0e20c40/amp?guccounter=1&__twitter_impression=true&s=03)
