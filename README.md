@@ -230,6 +230,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [Big Bird: Transformers for Longer Sequences](https://arxiv.org/abs/2007.14062)
   - [ ] [The State and Fate of Linguistic Diversity and Inclusion in the NLP World](https://arxiv.org/pdf/2004.09095.pdf)
   - [ ] [A Call for More Rigor in Unsupervised Cross-lingual Learning](https://www.aclweb.org/anthology/2020.acl-main.658/)
+  - [X] [`5/5` - Publicly Available Clinical BERT Embeddings](https://arxiv.org/pdf/1904.03323.pdf)
   - [ ] [Deploying Lifelong Open-Domain Dialogue Learning](https://arxiv.org/abs/2008.08076)
   - [ ] [The Woman Worked as a Babysitter: On Biases in Language Generation](https://arxiv.org/pdf/1909.01326.pdf)
   - [ ] [Annotated Paper on __What should not be Contrastive in Contrastive learning__](https://github.com/AakashKumarNain/annotated_research_papers/)
