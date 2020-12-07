@@ -9,7 +9,6 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 </p>
 
 ### Software (& ML) Engineering
-
 - [ ] [Dockers - `1:50:00`/`5:16:45`](https://www.youtube.com/watch?v=RSIstPUiEjY)
 - [ ] [Docker For Data Scientists](https://www.youtube.com/watch?v=0qG_0CPQhpg&feature=youtu.be)
 - [ ] [Binder: Repo2Docker](https://zero-to-jupyterhub.readthedocs.io/en/latest/repo2docker.html)
@@ -43,7 +42,6 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [Relations - 1 hour](https://www.youtube.com/watch?v=qw--VYLpxG4)
 
 ### Structuring machine learning projects
-
 - [ ] [PyTorch Performance Tuning Guide - Szymon Migacz, NVIDIA](https://www.youtube.com/watch?v=9mS1fIYj1So)
 - [ ] [Study material to become an ML engineer](https://twitter.com/chipro/status/1315283623910805504?s=20)
 - [ ] [Managing the Model Artifacts?](https://twitter.com/nlpguy_/status/1302275537881055233?s=03)
@@ -87,7 +85,6 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [How to Deploy Machine Learning Models](https://christophergs.com/machine%20learning/2019/03/17/how-to-deploy-machine-learning-models/)
 
 ### Open-Source Contribution
-
 - [ ] [ML Collective](https://twitter.com/ml_collective)
 - [ ] [Gender Bias Checklist Module](https://github.com/freemiya)
 - [ ] [Redaction Module](https://github.com/freemiya)
@@ -105,7 +102,6 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 
 
 ### Up-to-date with NLP tools
-
 - [ ] [5 NLP Libraries Everyone Should Know | by Pawan Jain | Jul, 2020 | Towards Data Science: spaCy, NLTK, Transformers, Gensim, and Stanza](https://towardsdatascience.com/5-nlp-libraries-everyone-should-know-4f13f5263908)
 - [ ] [fine-tuned (distil)GPT-2 on "Amazon fine food reviews dataset".](https://twitter.com/mrm8488/status/1300822620192092160?s=03)
 - [ ] [TextAttack](https://github.com/QData/TextAttack)
@@ -127,7 +123,6 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [X] [How to train a neural coreference model— Neuralcoref 2](https://medium.com/huggingface/how-to-train-a-neural-coreference-model-neuralcoref-2-7bb30c1abdfe)
 
 ### Essential tools
-
 - [X] [Talk: Camelot -> Extracting Tables from PDFs](https://www.youtube.com/watch?v=99A9Fz6uHAA)
 - [ ] [Git repo: Making Language Models like BERT, ALBERTA etc good at _Sentence Representations_](https://github.com/UKPLab/sentence-transformers)
 - [X] [Faker: Generates fake data for you like fake names, address etc](https://github.com/joke2k/faker)
@@ -141,7 +136,6 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [X] [OpenRefine Lib for cleaning, managing data](https://openrefine.org/)
 
 ### Building strong ML/NLP Fundamentals
-
 - [X] [Video: Understanding ROC Curve](https://www.youtube.com/watch?v=4jRBRDbJemM)
 - [X] [Video: BackPropagation Through Time](https://www.youtube.com/watch?v=Xeb6OjnVn8g)
 - [ ] [A Friendly introduction to PCA](http://peterbloem.nl/blog/pca)
@@ -184,8 +178,13 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Stanford CS229: Machine Learning (Autumn 2018)](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 - [ ] [Book: Emily M Bender's book](https://twitter.com/emilymbender/status/1305938604556824577?s=20)
 
-### Stay up-to-date in research
+### Cross-lingual NER
+- [ ] [Entity Projection via Machine-Translation for Cross-Lingual NER](https://www.aclweb.org/anthology/D19-1100v2.pdf)
+- [ ] [Zero-Resource Cross-Lingual Named Entity Recognition](https://arxiv.org/pdf/1911.09812.pdf)
+- [ ] [Neural Cross-Lingual Named Entity Recognition with Minimal Resources](https://www.aclweb.org/anthology/D18-1034.pdf)
+- [ ] [UniTrans : Unifying Model Transfer and Data Transfer for Cross-Lingual Named Entity Recognition with Unlabeled Data](https://arxiv.org/pdf/2007.07683v1.pdf)
 
+### Stay up-to-date in research
 - [ ] [Papers](https://github.com/gitlost-murali/one_percent)
   - [X] [NLP Checklist Paper](https://arxiv.org/abs/2005.04118)
   - [ ] [`6/9` - Benchmarking Zero-shot Text Classification: Datasets, Evaluation and Entailment Approach](https://arxiv.org/abs/1909.00161)
