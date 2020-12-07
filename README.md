@@ -181,7 +181,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 ### Cross-lingual NER
 - [ ] [Entity Projection via Machine-Translation for Cross-Lingual NER](https://www.aclweb.org/anthology/D19-1100v2.pdf)
 - [ ] [Zero-Resource Cross-Lingual Named Entity Recognition](https://arxiv.org/pdf/1911.09812.pdf)
-- [ ] [Neural Cross-Lingual Named Entity Recognition with Minimal Resources](https://www.aclweb.org/anthology/D18-1034.pdf)
+- [X] [`8/8` - Neural Cross-Lingual Named Entity Recognition with Minimal Resources](https://www.aclweb.org/anthology/D18-1034.pdf)
 - [ ] [UniTrans : Unifying Model Transfer and Data Transfer for Cross-Lingual Named Entity Recognition with Unlabeled Data](https://arxiv.org/pdf/2007.07683v1.pdf)
 
 ### Stay up-to-date in research
