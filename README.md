@@ -195,6 +195,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [`9/17` - Multilingual Denoising Pre-training for Neural Machine Translation](https://arxiv.org/abs/2001.08210)
   - [ ] [Transforming machine translation: a deep learning system reaches news translation quality comparable to human professionals](https://www.nature.com/articles/s41467-020-18073-9)
   - [X] [OverView of Explicit Cross-lingual Pre-training for Unsupervised Machine Translation](https://www.aclweb.org/anthology/D19-1071.pdf)
+  - [ ] [`6/8` - A unified framework for evaluating the risk of re-identification of text de-identification tools](https://pubmed.ncbi.nlm.nih.gov/27426236/)
   - [ ] [On the Cross-lingual Transferability of Monolingual Representations.](https://arxiv.org/abs/1910.11856)
   - [ ] [Warning sign If you are using a pretrained transformer, data augmentation doesn’t help : How Effective is Task-Agnostic Data Augmentation for Pretrained Transformers?](https://arxiv.org/abs/2010.01764)
   - [ ] [Self-training Improves Pre-training for Natural Language Understanding](https://arxiv.org/abs/2010.02194)
