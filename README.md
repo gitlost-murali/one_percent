@@ -13,6 +13,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Docker For Data Scientists](https://www.youtube.com/watch?v=0qG_0CPQhpg&feature=youtu.be)
 - [ ] [Binder: Repo2Docker](https://zero-to-jupyterhub.readthedocs.io/en/latest/repo2docker.html)
 - [X] [Youtube: Jekyll - Static Site Generator Playlist](https://www.youtube.com/watch?v=T1itpPvFWHI&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=1)
+- [ ] [Useful tools](https://www.linkedin.com/posts/chiphuyen_mlops-machinelearning-datascience-activity-6751865757212262401-oF3T/)
 - [ ] [The Missing Semester](https://missing.csail.mit.edu/2020/)
   - [X] [1. Course overview + the shell](https://missing.csail.mit.edu/2020/course-shell/)
   - [ ] [2. Shell Tools and Scripting](https://missing.csail.mit.edu/2020/shell-tools/)
@@ -134,6 +135,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Text Recognition with CRNN-CTC Network](https://app.wandb.ai/authors/text-recognition-crnn-ctc/reports/Text-Recognition-with-CRNN-CTC-Network--VmlldzoxNTI5NDI)
 - [X] [VS Code (codeserver) on Google Colab / Kaggle / Anywhere](https://www.youtube.com/watch?v=7kTbM3D02jU)
 - [X] [OpenRefine Lib for cleaning, managing data](https://openrefine.org/)
+- [ ] [RasaLitHQ: bulk labelling with a ui from a jupyter notebook](https://github.com/RasaHQ/rasalit/blob/master/notebooks/bulk-labelling/bulk-labelling-ui.ipynb)
 
 ### Building strong ML/NLP Fundamentals
 - [X] [Video: Understanding ROC Curve](https://www.youtube.com/watch?v=4jRBRDbJemM)
@@ -185,6 +187,8 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [UniTrans : Unifying Model Transfer and Data Transfer for Cross-Lingual Named Entity Recognition with Unlabeled Data](https://arxiv.org/pdf/2007.07683v1.pdf)
 
 ### Stay up-to-date in research
+- [ ] [NewsLetters]()
+  - [ ] [AlphaSignal.Ai: latest breakthroughs in Machine Learning](https://alphasignal.ai/)
 - [ ] [Papers](https://github.com/gitlost-murali/one_percent)
   - [X] [NLP Checklist Paper](https://arxiv.org/abs/2005.04118)
   - [ ] [`6/9` - Benchmarking Zero-shot Text Classification: Datasets, Evaluation and Entailment Approach](https://arxiv.org/abs/1909.00161)
@@ -284,6 +288,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [X] [Adaptive Risk Minimization: Adapting to new test distribution in production](https://ai.stanford.edu/blog/adaptive-risk-minimization/)
   - [ ] [Maximizing BERT model performance](https://towardsdatascience.com/maximizing-bert-model-performance-539c762132ab)
   - [ ] [Comprehensive Language Model Fine Tuning, Part 1: 🤗 Datasets library - Normalizing](https://www.ntentional.com/nlp/datasets/tokenization/processing/2020/10/09/comprehensive-datasets.html)
+  - [ ] [MixUp Augmentation](https://towardsdatascience.com/2-reasons-to-use-mixup-when-training-yor-deep-learning-models-58728f15c559)
   - [ ] [Paper -> Adjective ordering is universal across languages](https://twitter.com/junyenle/status/1316429411193847812?s=20)
   - [ ] [Should you deploy and use Semi-Supervised Learning in production? -> From Research to Production with Deep Semi-Supervised Learning](https://towardsdatascience.com/from-research-to-production-with-deep-semi-supervised-learning-7caaedc39093)
   - [ ] [On the Ability and Limitations of Transformers to Recognize Formal Languages](https://twitter.com/satwik1729/status/1315575680885637120?s=20)
@@ -486,7 +491,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [TaxiNLI dataset - NLI example in the MultiNLI dataset with 18 features like Linguistic, Logic, Knowledge etc](https://github.com/microsoft/TaxiNLI)
 - [ ] [Standardizing Indic NLP - Scripts for downloading various Indic NLP datasets and converting them into a standard format](https://github.com/deterministic-algorithms-lab/Std-Indic-NLP.git)
 - [ ] [QED: A Framework and Dataset for Explanations in Question Answering](https://arxiv.org/abs/2009.06354)
-- [ ] [Clinical NER datasets collection -> CADEC, ADE corpus, i2b2/n2c2 2018, MIMIC-3 & UK-CRIS]()
+- [ ] [Clinical NER datasets collection -> CADEC, ADE corpus, i2b2/n2c2 2018, MIMIC-3 & UK-CRIS](https://clinical-nlp.github.io/2020/resources.html)
 
 ### (Deep) Learning with Limited Labeled Data (DL3D): Unsupervised, Self-Supervised Learning Papers
 
