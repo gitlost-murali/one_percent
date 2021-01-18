@@ -93,7 +93,6 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [T5 Tasks]()
 
 ### Data Annotation strategies
-
 - [X] [Snorkel: Dark Data and Machine Learning - Christopher Ré](https://www.youtube.com/watch?v=yu15Nf5eJEE)
 - [X] [Snorkel: Programming Training Data with Paroma Varma of Stanford University (2019)](https://www.youtube.com/watch?v=RUPbYvzSrg0)
 - [ ] [Snorkel: Tweet asking Custom Snorkel Annotation Functions](https://twitter.com/yoavgo/status/1300582803319513089)
@@ -341,7 +340,6 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 
 
 ### General-Courses (Interesting but not immediate)
-
 - [ ] [FastAI - Course-v4](https://course.fast.ai/)
   - [X] [L1: Intro to fastAI- `1:22:30`](https://course.fast.ai/videos/?lesson=1)
 - [ ] [Justin Johnson - Deep Learning for Computer Vision](https://www.youtube.com/watch?v=dJYGatp4SvA&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r&index=2&t=0s)
@@ -371,7 +369,6 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [*Most* extensive list of "From Scratch Machine Learning".](https://github.com/eriklindernoren/ML-From-Scratch)
 
 ### Coding Tuts
-
 - [ ] [Fine-tuning with custom datasets](https://huggingface.co/transformers/master/custom_datasets.html) & [Tweet](https://twitter.com/joeddav/status/1295361743322062848?s=20)
 - [ ] [Easy GPT2 fine-tuning with @huggingface Transformers and @PyTorch using @GoogleColab](http://reyfarhan.com/posts/easy-gpt2-finetuning-huggingface/)
 - [ ] [How to generate text: using different decoding methods for language generation with Transformers](https://huggingface.co/blog/how-to-generate)
@@ -394,22 +391,15 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [X] [Ensembling, Blending & Stacking](https://www.youtube.com/watch?v=TuIgtitqJho)
 
 ### Events
-
-- [X] [Aug 20th - Exploration of Weights & Biases machine learning tools](https://us02web.zoom.us/j/2037613535)
-- [ ] [Aug 24th - Deep Learning Day at KDD](https://www.kdd.org/kdd2020/special-days/deep-learning-day)
-- [ ] [Aug 27th 6 AM IST - Tangled up in BLEU: Reevaluating the Evaluation of Automatic Machine Translation Evaluation Metrics](https://www.eventbrite.co.uk/e/nlp-with-friends-featured-friend-nitika-mathur-tickets-117606966603)
-- [ ] [Sept-2nd Fair comparisons for generative language models—with a bit of Information Theory](https://www.eventbrite.co.uk/e/nlp-with-friends-featured-friend-sabrina-j-mielke-tickets-118647236077#)
-- [ ] [October 6th-9th NLP Summit](https://www.nlpsummit.org/registration/)
+- [ ] [January 29th: 10PM IST/17:30 CET](https://eu.bbcollab.com/guest/38be8fe4cdcd40caab95c6ebb686c91e&sa=D&ust=1610987708425000&usg=AFQjCNFm2VET-mXrXsRSylyvY7FrmK6iTQ)
 
 ### Podcasts
-
 - [X] [Aakash Nain | Tensorflow 2.0 | TF Add-Ons | Good API Designs | CTDS.Show #90](https://www.youtube.com/watch?v=hZNhkiIfHtM)
 - [X] [Connor Shorten | Creating AI Content, Videos, | Henry AI Labs, Research & GANs | CTDS.Show #76](https://www.youtube.com/watch?v=Cn97ynuWAiQ)
 - [ ] [Episode #191: Live from the Manning Python Conference](https://pythonbytes.fm/episodes/show/191/live-from-the-manning-python-conference)
 - [ ] [TwiMLAI- Causal Modeling in ML](https://twitter.com/twimlai/status/1305129106175123456?s=03)
 
 ### Revisiting concepts with Survey Papers
-
 - [ ] [Text Classification Algorithms: A Survey](https://arxiv.org/pdf/1904.08067.pdf)
 - [ ] [A Survey of Evaluation Metrics Used for NLG Systems](https://arxiv.org/abs/2008.12009)
 - [ ] [100 Must-Read NLP Papers](https://github.com/mhagiwara/100-nlp-papers)
@@ -417,7 +407,6 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Efficient Transformers: A Survey](https://arxiv.org/abs/2009.06732)
 
 ### Blog ideas
-
 - [X] [On Exploting LMs. Refer nlp-helper tool as well](https://gitlost-murali.github.io/blogs/blogs/nlp/exploiting-contextual-models-for-data)
 - [ ] [Collate all - t5, marge, pegasus, electra etc.](https://github.com/freemiya)
 - [ ] [`1/7` -> Blog on ml project management]()
@@ -425,7 +414,6 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [X] [On label-studio usage and mapping with ML: Fast in a day or two](https://gitlost-murali.github.io/blogs/tooling/annotation/labelling-your-data/)
 
 ### Financial & Career Knowledge
-
 - [ ] [Finance]()
   - [ ] [Let's Talk money - `62%`]()
   - [ ] [The Psychology of Money](https://www.collaborativefund.com/blog/the-psychology-of-money/?s=03)
@@ -478,7 +466,6 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [A compilation of research advice(s) for doing good research and writing good papers.](https://github.com/TheShadow29/research-advice-list)
 
 ### Increase attention time & Dopamine
-
 - [X] [Book: Riot](https://www.goodreads.com/book/show/30842.Riot)
 - [ ] [Book: Stoicism - `78%`]()
 - [ ] [Book: A Gentleman in Moscow - `9%`]()
@@ -487,14 +474,12 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [X] [Book: Meditation and its methods - `49%` - Boring. Got the gist]()
 
 ### Datasets
-
 - [ ] [TaxiNLI dataset - NLI example in the MultiNLI dataset with 18 features like Linguistic, Logic, Knowledge etc](https://github.com/microsoft/TaxiNLI)
 - [ ] [Standardizing Indic NLP - Scripts for downloading various Indic NLP datasets and converting them into a standard format](https://github.com/deterministic-algorithms-lab/Std-Indic-NLP.git)
 - [ ] [QED: A Framework and Dataset for Explanations in Question Answering](https://arxiv.org/abs/2009.06354)
 - [ ] [Clinical NER datasets collection -> CADEC, ADE corpus, i2b2/n2c2 2018, MIMIC-3 & UK-CRIS](https://clinical-nlp.github.io/2020/resources.html)
 
 ### (Deep) Learning with Limited Labeled Data (DL3D): Unsupervised, Self-Supervised Learning Papers
-
 - [ ] [Twitter post mentioning major concepts in Limited-Data Setting](https://twitter.com/iskander/status/1292904556943286272?s=20)
 - [ ] [Adaptive Name Entity Recognition under Highly Unbalanced Data](https://arxiv.org/pdf/2003.10296.pdf)
 
