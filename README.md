@@ -77,6 +77,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
     - [X] [2.5 Frameworks & Distributed Training (5) - Infrastructure & Tooling](https://course.fullstackdeeplearning.com/course-content/infrastructure-and-tooling/frameworks-and-distributed-training)
     - [X] [2.6 Experiment Management (6)](https://course.fullstackdeeplearning.com/course-content/infrastructure-and-tooling/experiment-management)
     - [X] [2.7 Hyperparameter Tuning (7)](https://course.fullstackdeeplearning.com/course-content/infrastructure-and-tooling/hyperparameter-tuning)
+    - [X] [2.8 All-in-one Solutions (8)](https://course.fullstackdeeplearning.com/course-content/infrastructure-and-tooling/all-in-one-solutions)
   - [ ] [3. Data Management](https://course.fullstackdeeplearning.com/course-content/data-management)
   - [ ] [4. Machine Learning Teams](https://course.fullstackdeeplearning.com/course-content/ml-teams)
   - [ ] [5. Training and Debugging](https://course.fullstackdeeplearning.com/course-content/training-and-debugging)
