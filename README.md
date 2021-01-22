@@ -415,6 +415,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [`1/7` -> Blog on ml project management]()
 - [X] [Explaining PDF backend](https://gitlost-murali.github.io/blogs/tooling/pdf/how-to-read-write-pdfs/)
 - [X] [On label-studio usage and mapping with ML: Fast in a day or two](https://gitlost-murali.github.io/blogs/tooling/annotation/labelling-your-data/)
+- [ ] [`1/365` - HuggingFace GitLFS]()
 
 ### Financial & Career Knowledge
 - [ ] [Finance]()
