@@ -290,6 +290,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [X] [How to Skim Through Research Paper](https://twitter.com/hardmaru/status/1305758751798910976?s=03)
   - [X] [TaBERT: A new model for understanding queries over tabular data](https://ai.facebook.com/blog/tabert-a-new-model-for-understanding-queries-over-tabular-data/)
   - [X] [Adaptive Risk Minimization: Adapting to new test distribution in production](https://ai.stanford.edu/blog/adaptive-risk-minimization/)
+  - [X] [How we sped up transformer inference 100x for 🤗 API customers](https://huggingface.co/blog/accelerated-inference)
   - [ ] [Maximizing BERT model performance](https://towardsdatascience.com/maximizing-bert-model-performance-539c762132ab)
   - [ ] [Comprehensive Language Model Fine Tuning, Part 1: 🤗 Datasets library - Normalizing](https://www.ntentional.com/nlp/datasets/tokenization/processing/2020/10/09/comprehensive-datasets.html)
   - [ ] [MixUp Augmentation](https://towardsdatascience.com/2-reasons-to-use-mixup-when-training-yor-deep-learning-models-58728f15c559)
