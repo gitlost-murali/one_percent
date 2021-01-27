@@ -446,6 +446,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [What Machine Learning Can Teach Us About Life: 7 Lessons](https://eugeneyan.com/writing/life-lessons-from-machine-learning/)
   - [X] [Blog on writing everyday](https://medium.com/blankpage/what-happened-when-i-published-25-articles-in-one-month-790c541ada42)
   - [ ] [Offers 1:1 Career Advice calls](https://twitter.com/jesslynnrose/status/1300381984548679680)
+  - [X] [You Don't Really Need Another MOOC](https://eugeneyan.com/writing/you-dont-need-another-mooc/)
   - [ ] [Useful vs. Useless Feedback](https://medium.com/swlh/useful-vs-useless-feedback-ba8c65cb7a4c)
   - [ ] [Masters/PhD application Advice by Andrew Trask -> Apply to work with a professor more than a dept/uni if possible ...](https://twitter.com/iamtrask/status/1303646976433623040?s=03)
   - [ ] [Compilation of resources for applications](https://twitter.com/996roma/status/1312356906388910080?s=20)
