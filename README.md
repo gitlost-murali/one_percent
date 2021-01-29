@@ -398,7 +398,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [X] [Ensembling, Blending & Stacking](https://www.youtube.com/watch?v=TuIgtitqJho)
 
 ### Events
-- [ ] [January 29th: 10PM IST/17:30 CET](https://eu.bbcollab.com/guest/38be8fe4cdcd40caab95c6ebb686c91e&sa=D&ust=1610987708425000&usg=AFQjCNFm2VET-mXrXsRSylyvY7FrmK6iTQ)
+- [X] [January 29th: 10PM IST/17:30 CET](https://eu.bbcollab.com/guest/38be8fe4cdcd40caab95c6ebb686c91e&sa=D&ust=1610987708425000&usg=AFQjCNFm2VET-mXrXsRSylyvY7FrmK6iTQ)
 
 ### Podcasts
 - [X] [Aakash Nain | Tensorflow 2.0 | TF Add-Ons | Good API Designs | CTDS.Show #90](https://www.youtube.com/watch?v=hZNhkiIfHtM)
