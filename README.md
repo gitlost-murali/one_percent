@@ -483,7 +483,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Book: A Gentleman in Moscow - `9%`]()
 - [ ] [Book: Why We Sleep? - `37%`]()
 - [ ] [Book: The Psychology of Money - `24%`]()
-- [ ] [Book: Into the Woods - `44%`]()
+- [ ] [Book: Into the Woods - `47%`]()
 - [ ] [Book: No Country for Old Men - `12%`](https://www.goodreads.com/book/show/12497.No_Country_for_Old_Men)
 - [X] [Book: Meditation and its methods - `49%` - Boring. Got the gist]()
 
