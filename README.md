@@ -36,6 +36,8 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [X] [Introduction to Microservices, Docker, and Kubernetes - `55:07/55:07`](https://www.youtube.com/watch?v=1xo-0gCVhTU)
   - [X] [you need to learn Kubernetes RIGHT NOW!!](https://www.youtube.com/watch?v=7bA0gTroJjw)
   - [X] [`Implementation`: Deploy a simple app using minikube & k8s]()
+- [ ] [Kubeflow]()
+  - [X] [Session on introduction to KubeFlow](https://www.youtube.com/watch?v=2yByPQ6Iv1o)
 - [ ] [Learn PostgreSQL](https://www.youtube.com/watch?v=qw--VYLpxG4)
   - [ ] [Introduction - 1 hour](https://www.youtube.com/watch?v=qw--VYLpxG4)
   - [ ] [Basic Operations - 1 hour](https://www.youtube.com/watch?v=qw--VYLpxG4)
