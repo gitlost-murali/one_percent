@@ -496,6 +496,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Standardizing Indic NLP - Scripts for downloading various Indic NLP datasets and converting them into a standard format](https://github.com/deterministic-algorithms-lab/Std-Indic-NLP.git)
 - [ ] [QED: A Framework and Dataset for Explanations in Question Answering](https://arxiv.org/abs/2009.06354)
 - [ ] [Clinical NER datasets collection -> CADEC, ADE corpus, i2b2/n2c2 2018, MIMIC-3 & UK-CRIS](https://clinical-nlp.github.io/2020/resources.html)
+- [ ] [Contract Understanding Atticus Dataset](https://github.com/TheAtticusProject/cuad/)
 
 ### (Deep) Learning with Limited Labeled Data (DL3D): Unsupervised, Self-Supervised Learning Papers
 - [ ] [Twitter post mentioning major concepts in Limited-Data Setting](https://twitter.com/iskander/status/1292904556943286272?s=20)
