@@ -87,7 +87,9 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [6. Testing and Deployment](https://course.fullstackdeeplearning.com/course-content/testing-and-deployment)
   - [ ] [6. Testing and Deployment](https://course.fullstackdeeplearning.com/course-content/testing-and-deployment)
   - [ ] [7. Research Areas](https://course.fullstackdeeplearning.com/course-content/testing-and-deployment)
-
+- [ ] [Full Stack Deep Learning Course - 2021](https://fullstackdeeplearning.com/spring2021/)
+  - [X] [Lecture 11A -Deployment](https://www.youtube.com/watch?v=jFflwpx4iK0)
+  - [X] [Lecture 11B -Monitoring](https://www.youtube.com/watch?v=NfnpPrW30Zo)
 - [ ] [Organize Your Machine Learning Pipelines with Artifacts](https://app.wandb.ai/authors/artifact-workplace-safety/reports/Organize-Your-Machine-Learning-Pipelines-with-Artifacts--VmlldzoxODQwNTY)
 - [ ] [How to Deploy Machine Learning Models](https://christophergs.com/machine%20learning/2019/03/17/how-to-deploy-machine-learning-models/)
 
