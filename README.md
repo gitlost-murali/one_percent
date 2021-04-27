@@ -50,6 +50,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Study material to become an ML engineer](https://twitter.com/chipro/status/1315283623910805504?s=20)
 - [ ] [Managing the Model Artifacts?](https://twitter.com/nlpguy_/status/1302275537881055233?s=03)
 - [ ] [Getting started with Torchserve: Learn Torchserve with examples + Introducing the management dashboard](https://cceyda.github.io/blog/torchserve/streamlit/dashboard/2020/10/15/torchserve.html)
+- [ ] [Launching DAGsHub integration with MLflow](https://dagshub.com/blog/launching-dagshub-integration-with-databricks-mlflow/)
 - [ ] [How to deploy PyTorch Lightning models to production](https://www.cortex.dev/post/deploy-pytorch-lightning-models)
 - [ ] [ML Deployment Decision Tree](https://pakodas.substack.com/p/ml-deployment-decision-tree)
 - [ ] [What is ML Ops? Best Practices for DevOps for ML (Cloud Next '18)](https://www.youtube.com/watch?v=_jnhXzY1HCw&feature=youtu.be)
