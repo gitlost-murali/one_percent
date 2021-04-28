@@ -47,6 +47,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 
 ### Structuring machine learning projects
 - [ ] [PyTorch Performance Tuning Guide - Szymon Migacz, NVIDIA](https://www.youtube.com/watch?v=9mS1fIYj1So)
+- [X] [Airflow DAG: Coding your first DAG for Beginners](https://www.youtube.com/watch?v=IH1-0hwFZRQ)
 - [ ] [Study material to become an ML engineer](https://twitter.com/chipro/status/1315283623910805504?s=20)
 - [ ] [Managing the Model Artifacts?](https://twitter.com/nlpguy_/status/1302275537881055233?s=03)
 - [ ] [Getting started with Torchserve: Learn Torchserve with examples + Introducing the management dashboard](https://cceyda.github.io/blog/torchserve/streamlit/dashboard/2020/10/15/torchserve.html)
