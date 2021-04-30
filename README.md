@@ -15,6 +15,8 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Binder: Repo2Docker](https://zero-to-jupyterhub.readthedocs.io/en/latest/repo2docker.html)
 - [X] [Youtube: Jekyll - Static Site Generator Playlist](https://www.youtube.com/watch?v=T1itpPvFWHI&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=1)
 - [ ] [Useful tools for ML Engineer](https://www.linkedin.com/posts/chiphuyen_mlops-machinelearning-datascience-activity-6751865757212262401-oF3T/)
+- [ ] [CS329S Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html)
+  - [X] [1. Understanding machine learning production](https://docs.google.com/document/d/1VuofeF5okBATz1F7HRQmOgi5Jc4bmUiHMYjRqwF-29s/edit?usp=sharing)
 - [ ] [The Missing Semester](https://missing.csail.mit.edu/2020/)
   - [X] [1. Course overview + the shell](https://missing.csail.mit.edu/2020/course-shell/)
   - [ ] [2. Shell Tools and Scripting](https://missing.csail.mit.edu/2020/shell-tools/)
