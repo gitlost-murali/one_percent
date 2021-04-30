@@ -18,6 +18,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [CS329S Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html)
   - [X] [1. Understanding machine learning production](https://docs.google.com/document/d/1VuofeF5okBATz1F7HRQmOgi5Jc4bmUiHMYjRqwF-29s/edit?usp=sharing)
   - [X] [2. Intro to machine learning systems design](https://docs.google.com/document/d/15vCMf7SbDuxST9Q-rWtx8o7qHJQN2pE5urCDFTYI1zs/edit?usp=sharing)
+  - [X] [3. Data engineering](https://docs.google.com/document/d/1b9iuZiDEGVLHyMmnf6w2y1aN6yWQhAyqk3GHlpI9q6M/edit?usp=sharing)
 - [ ] [The Missing Semester](https://missing.csail.mit.edu/2020/)
   - [X] [1. Course overview + the shell](https://missing.csail.mit.edu/2020/course-shell/)
   - [ ] [2. Shell Tools and Scripting](https://missing.csail.mit.edu/2020/shell-tools/)
