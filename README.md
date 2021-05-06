@@ -432,11 +432,11 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 ### Blog ideas
 - [X] [On Exploting LMs. Refer nlp-helper tool as well](https://gitlost-murali.github.io/blogs/blogs/nlp/exploiting-contextual-models-for-data)
 - [ ] [Collate all - t5, marge, pegasus, electra etc.](https://github.com/freemiya)
-- [ ] [`1/7` -> Blog on ml project management]()
 - [X] [Explaining PDF backend](https://gitlost-murali.github.io/blogs/tooling/pdf/how-to-read-write-pdfs/)
 - [X] [On label-studio usage and mapping with ML: Fast in a day or two](https://gitlost-murali.github.io/blogs/tooling/annotation/labelling-your-data/)
+- [X] [Optimizing code & reducing runtime from 2+ hours to 8 mins](https://gitlost-murali.github.io/blogs/python/data-science/ml/runtime)
 - [X] [On DVC](https://gitlost-murali.github.io/blogs/python/tooling/dvc)
-- [ ] [`2/365` - HuggingFace GitLFS, Papermill]()
+- [ ] [`3/365` Shorts - HuggingFace GitLFS, Papermill, GPU dynamic select]()
 
 ### Financial & Career Knowledge
 - [ ] [Finance]()
