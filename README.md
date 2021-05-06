@@ -51,6 +51,10 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [ ] [Relations - 1 hour](https://www.youtube.com/watch?v=qw--VYLpxG4)
 
 ### Structuring machine learning projects
+- [ ] [End-End & open source MLOps toolkit](https://www.reddit.com/r/MachineLearning/comments/mgzvt2/d_whats_the_simplest_most_lightweight_but/?utm_medium=android_app&utm_source=share)
+- [ ] [Comparison of experiment tracking tools](https://www.reddit.com/r/MachineLearning/comments/mhchee/d_comparison_of_experiment_tracking_tools/?utm_source=share&utm_medium=web2x&context=3)
+- [ ] [D Ways to speed-up the deployment process?](https://www.reddit.com/r/MachineLearning/comments/m8fmmb/d_ways_to_speedup_the_deployment_process/?utm_source=share&utm_medium=web2x&context=3)
+- [ ] [Towards MLOps: Technical capabilities of a Machine Learning platform](https://medium.com/prosus-ai-tech-blog/towards-mlops-technical-capabilities-of-a-machine-learning-platform-61f504e3e281)
 - [ ] [PyTorch Performance Tuning Guide - Szymon Migacz, NVIDIA](https://www.youtube.com/watch?v=9mS1fIYj1So)
 - [X] [Airflow DAG: Coding your first DAG for Beginners](https://www.youtube.com/watch?v=IH1-0hwFZRQ)
 - [ ] [Study material to become an ML engineer](https://twitter.com/chipro/status/1315283623910805504?s=20)
@@ -126,6 +130,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [The Hugging face Transformers master branch now includes a built-in pipeline for zero-shot text classification, to be included in the next release.](https://twitter.com/huggingface/status/1293240692924452864?s=20)
 - [ ] [Language Interpretability Tool (LIT)](https://github.com/pair-code/lit)
 - [ ] [How to Fine-Tune BERT Transformer with spaCy 3](https://walidamamou.medium.com/how-to-fine-tune-bert-transformer-with-spacy-3-6a90bfe57647)
+- [ ] [Tools & Flow for reproducible deep learning](https://twitter.com/s_scardapane/status/1389240445788643329)
 - [ ] [NLP guide from AllenNLP](https://guide.allennlp.org/overview/)
 - [ ] [Is there any approach to normalize words like helllllloooooo to hello?](https://www.reddit.com/r/LanguageTechnology/comments/io87i7/is_there_any_approach_to_normalize_words_like/?utm_medium=android_app&utm_source=share)
 - [X] [BioBERT for Medical Domain](https://www.reddit.com/r/LanguageTechnology/comments/ip9qfz/biobert_cosine_similarity/?utm_medium=android_app&utm_source=share)
@@ -208,6 +213,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [NewsLetters]()
   - [ ] [AlphaSignal.Ai: latest breakthroughs in Machine Learning](https://alphasignal.ai/)
 - [ ] [Papers](https://github.com/gitlost-murali/one_percent)
+  - [ ] [Entailment as Few-Shot Learner](https://arxiv.org/abs/2104.14690)
   - [X] [NLP Checklist Paper](https://arxiv.org/abs/2005.04118)
   - [ ] [`6/9` - Benchmarking Zero-shot Text Classification: Datasets, Evaluation and Entailment Approach](https://arxiv.org/abs/1909.00161)
   - [X] [Let Me Choose: From Verbal Context to Font Selection](https://arxiv.org/abs/2005.01151)
@@ -429,6 +435,8 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [100 Must-Read NLP Papers](https://github.com/mhagiwara/100-nlp-papers)
 - [ ] [A Survey of Surveys (NLP & ML)](https://github.com/NiuTrans/ABigSurvey)
 - [ ] [Efficient Transformers: A Survey](https://arxiv.org/abs/2009.06732)
+- [ ] [Towards MLOps: Technical capabilities of a Machine Learning platform](https://medium.com/prosus-ai-tech-blog/towards-mlops-technical-capabilities-of-a-machine-learning-platform-61f504e3e281)
+
 
 ### Blog ideas
 - [X] [On Exploting LMs. Refer nlp-helper tool as well](https://gitlost-murali.github.io/blogs/blogs/nlp/exploiting-contextual-models-for-data)
@@ -455,6 +463,8 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [X] [Getting out of the country, even within the same country: moving from Bengaluru to Varkala can be a huge income saver for most techies]()
 
 - [ ] [Career]()
+  - [ ] [Mentorship sessions to help students in research](https://mementor.net/#/)
+  - [ ] [Free NLP assignments - Useful when teaching](https://openclass.ai/catalog/nlp)
   - [X] [Reflecting On My Failure To Craft Luck](https://pakodas.substack.com/p/reflecting-on-my-failure-to-craft?r=3w6vr&utm_campaign=post&utm_medium=web&utm_source=twitter)
   - [ ] [How to read and understand a scientific paper: a guide for non-scientists](https://blogs.lse.ac.uk/impactofsocialsciences/2016/05/09/how-to-read-and-understand-a-scientific-paper-a-guide-for-non-scientists/#8230)
   - [X] [How-to-Read-Papers-for-ideas](https://twitter.com/daniel_bilar/status/1305804091667484672?s=20)
