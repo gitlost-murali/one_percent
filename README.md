@@ -515,6 +515,10 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Book: No Country for Old Men - `12%`](https://www.goodreads.com/book/show/12497.No_Country_for_Old_Men)
 - [X] [Book: Meditation and its methods - `49%` - Boring. Got the gist]()
 
+### Writing
+
+- [ ] [Daily writing sessions - 1]
+
 ### Datasets
 - [ ] [TaxiNLI dataset - NLI example in the MultiNLI dataset with 18 features like Linguistic, Logic, Knowledge etc](https://github.com/microsoft/TaxiNLI)
 - [ ] [Standardizing Indic NLP - Scripts for downloading various Indic NLP datasets and converting them into a standard format](https://github.com/deterministic-algorithms-lab/Std-Indic-NLP.git)
