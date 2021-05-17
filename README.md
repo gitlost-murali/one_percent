@@ -517,7 +517,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 
 ### Writing
 
-- [ ] [Daily writing sessions - 1]
+- [ ] [Daily writing sessions - 2]
 
 ### Datasets
 - [ ] [TaxiNLI dataset - NLI example in the MultiNLI dataset with 18 features like Linguistic, Logic, Knowledge etc](https://github.com/microsoft/TaxiNLI)
