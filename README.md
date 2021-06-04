@@ -44,11 +44,8 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [X] [`Implementation`: Deploy a simple app using minikube & k8s]()
 - [ ] [Kubeflow]()
   - [X] [Session on introduction to KubeFlow](https://www.youtube.com/watch?v=2yByPQ6Iv1o)
+- [ ] [Blog: How to improve software engineering skills as a researcher](https://ljvmiranda921.github.io/notebook/2020/11/15/data-science-swe/)
 - [ ] [Learn PostgreSQL](https://www.youtube.com/watch?v=qw--VYLpxG4)
-  - [ ] [Introduction - 1 hour](https://www.youtube.com/watch?v=qw--VYLpxG4)
-  - [ ] [Basic Operations - 1 hour](https://www.youtube.com/watch?v=qw--VYLpxG4)
-  - [ ] [More Operations - 1 hour](https://www.youtube.com/watch?v=qw--VYLpxG4)
-  - [ ] [Relations - 1 hour](https://www.youtube.com/watch?v=qw--VYLpxG4)
 
 ### Structuring machine learning projects
 - [ ] [End-End & open source MLOps toolkit](https://www.reddit.com/r/MachineLearning/comments/mgzvt2/d_whats_the_simplest_most_lightweight_but/?utm_medium=android_app&utm_source=share)
@@ -369,7 +366,8 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 
 
 ### General-Courses (Interesting but not immediate)
-- [ ] [FastAI - Course-v4](https://course.fast.ai/)
+- [ ] [FastAI - Course-2021](https://course.fast.ai/)
+  - [X] [Lecture 0](https://www.youtube.com/watch?v=gGxe2mN3kAg)
   - [X] [L1: Intro to fastAI- `1:22:30`](https://course.fast.ai/videos/?lesson=1)
 - [ ] [Justin Johnson - Deep Learning for Computer Vision](https://www.youtube.com/watch?v=dJYGatp4SvA&list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r&index=2&t=0s)
 - [ ] [NYU Deep learning course - Interesting!!!!!](https://www.youtube.com/watch?v=kwPWpVverkw)
