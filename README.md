@@ -48,6 +48,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Learn PostgreSQL](https://www.youtube.com/watch?v=qw--VYLpxG4)
 
 ### Structuring machine learning projects
+- [ ] [Towards a Fully Automated Active Learning Pipeline](https://towardsdatascience.com/towards-a-fully-automated-active-learning-pipeline-29b8f4eb7d73)
 - [ ] [End-End & open source MLOps toolkit](https://www.reddit.com/r/MachineLearning/comments/mgzvt2/d_whats_the_simplest_most_lightweight_but/?utm_medium=android_app&utm_source=share)
 - [ ] [Comparison of experiment tracking tools](https://www.reddit.com/r/MachineLearning/comments/mhchee/d_comparison_of_experiment_tracking_tools/?utm_source=share&utm_medium=web2x&context=3)
 - [ ] [D Ways to speed-up the deployment process?](https://www.reddit.com/r/MachineLearning/comments/m8fmmb/d_ways_to_speedup_the_deployment_process/?utm_source=share&utm_medium=web2x&context=3)
@@ -302,6 +303,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [X] [NVIDIA's Keith Strier Talks AI Nations - `30:00`](https://open.spotify.com/episode/6XVDdAUUt86zr6MNdqO2wD)
 
 - [ ] [Blogs](https://github.com/gitlost-murali/one_percent)
+  - [ ] [Neural Machine Translation Inside Out](https://lena-voita.github.io/posts/nmt_inside_out.html)
   - [X] [Why You Should Do NLP Beyond English](https://ruder.io/nlp-beyond-english/)
   - [X] [Simple Ways to Tackle Class Imbalance](https://app.wandb.ai/authors/class-imbalance/reports/Simple-Ways-to-Tackle-Class-Imbalance--VmlldzoxODA3NTk)
   - [X] [Custom NLP Approaches to Data Anonymization](https://towardsdatascience.com/nlp-approaches-to-data-anonymization-1fb5bde6b929)
