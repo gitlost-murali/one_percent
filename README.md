@@ -76,7 +76,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Blogs on ML-Production: Proper release and monitoring of machine learning systems in production.](https://madewithml.com/topics/production/)
 - [ ] [Blogs on Unit testing for ML](https://madewithml.com/topics/testing/)
 - [ ] [Blogs on Continuous Integration / Continuous Deployment (CI/CD)](https://madewithml.com/topics/ci-cd/)
-  - [ ] [`Blog:` Continuous Machine Learning (CML) is CI/CD for ML](https://dvc.org/blog/cml-release)
+- [X] [`Blog:` Continuous Machine Learning (CML) is CI/CD for ML](https://dvc.org/blog/cml-release)
 - [X] [DVC Implementation: Completed setting up a project and running a pipeline](https://dvc.org/doc/start/experiments)
 - [ ] [MLOps: Accelerating Data Science with DevOps - Microsoft](https://www.youtube.com/watch?v=pqppGvTJm-A)
 - [X] [MLflow: An Open Platform to Simplify the Machine Learning Lifecycle](https://www.youtube.com/watch?v=859OxXrt_TI)
