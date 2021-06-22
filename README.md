@@ -162,7 +162,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [X] [Video: BackPropagation Through Time](https://www.youtube.com/watch?v=Xeb6OjnVn8g)
 - [ ] [A Friendly introduction to PCA](http://peterbloem.nl/blog/pca)
 - [X] [StatQuest - Confidence Interval](https://www.youtube.com/watch?v=TqOeMYtOc1w)
-- [ ] [`10/43` (p-value intro) - Intro to Stats](https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
+- [ ] [`11/43` (p-value intro) - Intro to Stats](https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
 - [ ] [Decision Trees Playlist](https://www.youtube.com/watch?v=3vZo0ApLz0A&list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3&index=32)
   - [X] [1. Intro to Decision Trees](https://www.youtube.com/watch?v=3vZo0ApLz0A&list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3&index=32)
   - [X] [StatQuest: Decision and Classification Trees, Clearly Explained!!!](https://www.youtube.com/watch?v=_L39rN6gz7Y&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&index=41)
