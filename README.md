@@ -519,7 +519,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Book: Into the Woods - `47%`]()
 - [ ] [Book: No Country for Old Men - `12%`](https://www.goodreads.com/book/show/12497.No_Country_for_Old_Men)
 - [X] [Book: Meditation and its methods - `49%` - Boring. Got the gist]()
-- [ ] [Book: The Shadow Lines - `36%`]()
+- [ ] [Book: The Shadow Lines - `37%`]()
 
 ### Writing
 
