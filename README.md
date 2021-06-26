@@ -520,6 +520,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [Book: No Country for Old Men - `12%`](https://www.goodreads.com/book/show/12497.No_Country_for_Old_Men)
 - [X] [Book: Meditation and its methods - `49%` - Boring. Got the gist]()
 - [ ] [Book: The Shadow Lines - `38%`]()
+- [ ] [Book: Absolute Power - `2%`]()
 
 ### Writing
 
