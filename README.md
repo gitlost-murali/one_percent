@@ -298,6 +298,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [X] [Building a Knowledge Graph Using Messy Real Estate Data | Cherre](https://www.youtube.com/watch?v=Bp38pYrpdSY)
   - [ ] [Linkedin's New Search Engine | DeText: A Deep Text Ranking Framework with BERT | Deep Ranking Model](https://www.youtube.com/watch?v=Dd4Rw3t5QQk&feature=emb_title)
   - [ ] [The Hardware Lottery (Paper Explained)](https://youtu.be/MQ89be_685o)
+  - [X] [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://www.youtube.com/watch?v=ZVVnvZdUMUk)
   - [ ] [Training more effective learned optimizers, and using them to train themselves (Paper Explained)](https://www.youtube.com/watch?v=3baFTP0uYOc&feature=youtu.be)
 
 - [ ] [Podcasts]()
