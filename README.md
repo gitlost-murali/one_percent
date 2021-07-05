@@ -318,6 +318,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   - [X] [Adaptive Risk Minimization: Adapting to new test distribution in production](https://ai.stanford.edu/blog/adaptive-risk-minimization/)
   - [X] [How we sped up transformer inference 100x for 🤗 API customers](https://huggingface.co/blog/accelerated-inference)
   - [X] [Attention Is Not All You Need: Google & EPFL Study Reveals Huge Inductive Biases in Self-Attention Architectures](https://medium.com/syncedreview/attention-is-not-all-you-need-google-epfl-study-reveals-huge-inductive-biases-in-self-attention-fa3cdd060abe)
+  - [X] [Pruning BERT to accelerate inference](https://blog.rasa.com/pruning-bert-to-accelerate-inference/)
   - [ ] [Unsupervised NER using BERT](https://towardsdatascience.com/unsupervised-ner-using-bert-2d7af5f90b8a)
   - [ ] [Maximizing BERT model performance](https://towardsdatascience.com/maximizing-bert-model-performance-539c762132ab)
   - [ ] [Comprehensive Language Model Fine Tuning, Part 1: 🤗 Datasets library - Normalizing](https://www.ntentional.com/nlp/datasets/tokenization/processing/2020/10/09/comprehensive-datasets.html)
