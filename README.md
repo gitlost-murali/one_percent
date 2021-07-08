@@ -405,6 +405,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [ ] [*Most* extensive list of "From Scratch Machine Learning".](https://github.com/eriklindernoren/ML-From-Scratch)
 
 ### Coding Tuts
+- [X] [Setting up SSL for website](https://geekflare.com/setup-nginx-with-lets-encrypt-cert/)
 - [ ] [Fine-tuning with custom datasets](https://huggingface.co/transformers/master/custom_datasets.html) & [Tweet](https://twitter.com/joeddav/status/1295361743322062848?s=20)
 - [ ] [Easy GPT2 fine-tuning with @huggingface Transformers and @PyTorch using @GoogleColab](http://reyfarhan.com/posts/easy-gpt2-finetuning-huggingface/)
 - [X] [Decorators in Python](https://towardsdatascience.com/10-fabulous-python-decorators-ab674a732871)
