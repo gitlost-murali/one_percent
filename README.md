@@ -309,6 +309,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 
 - [ ] [Blogs](https://github.com/gitlost-murali/one_percent)
   - [ ] [Neural Machine Translation Inside Out](https://lena-voita.github.io/posts/nmt_inside_out.html)
+  - [X] [Basic Intro to Pruning](https://towardsdatascience.com/pruning-neural-networks-1bb3ab5791f9)
   - [X] [Why You Should Do NLP Beyond English](https://ruder.io/nlp-beyond-english/)
   - [X] [Simple Ways to Tackle Class Imbalance](https://app.wandb.ai/authors/class-imbalance/reports/Simple-Ways-to-Tackle-Class-Imbalance--VmlldzoxODA3NTk)
   - [X] [Custom NLP Approaches to Data Anonymization](https://towardsdatascience.com/nlp-approaches-to-data-anonymization-1fb5bde6b929)
