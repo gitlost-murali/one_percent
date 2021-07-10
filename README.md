@@ -410,6 +410,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [X] [Setting up SSL for website](https://geekflare.com/setup-nginx-with-lets-encrypt-cert/)
 - [ ] [Fine-tuning with custom datasets](https://huggingface.co/transformers/master/custom_datasets.html) & [Tweet](https://twitter.com/joeddav/status/1295361743322062848?s=20)
 - [ ] [Easy GPT2 fine-tuning with @huggingface Transformers and @PyTorch using @GoogleColab](http://reyfarhan.com/posts/easy-gpt2-finetuning-huggingface/)
+- [X] [Pruning Tutorial](https://pytorch.org/tutorials/intermediate/pruning_tutorial.html)
 - [X] [Decorators in Python](https://towardsdatascience.com/10-fabulous-python-decorators-ab674a732871)
 - [ ] [How to generate text: using different decoding methods for language generation with Transformers](https://huggingface.co/blog/how-to-generate)
 - [ ] [Deep dive into simCLR with code-first approach ("A Simple Framework for Contrastive Learning of Visual Representations")](https://www.youtube.com/playlist?list=PLaMu-SDt_RB4k8VXiB3hOdsn0Y3GoXo1k)
