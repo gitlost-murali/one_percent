@@ -533,7 +533,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 
 ### Writing
 
-- [ ] [Daily writing sessions - 3]
+- [ ] [Daily writing sessions - 4]
 - [X] [Session on CI/CD using CML in Gitlab]
 
 ### Datasets
