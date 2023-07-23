@@ -8,6 +8,10 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   <img src="https://jamesclear.com/wp-content/uploads/2015/08/tiny-gains-graph-700x700.jpg" width="316" height="292"/>
 </p>
 
+### LLM space
+
+- [X] [What are OpenAI functions](https://openai.com/blog/function-calling-and-other-api-updates)
+
 ### Software (& ML) Engineering
 - [ ] [Dockers - `1:50:00`/`5:16:45`](https://www.youtube.com/watch?v=RSIstPUiEjY)
 - [ ] [Docker For Data Scientists](https://www.youtube.com/watch?v=0qG_0CPQhpg&feature=youtu.be)
@@ -460,6 +464,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [X] [Optimizing code & reducing runtime from 2+ hours to 8 mins](https://gitlost-murali.github.io/blogs/python/data-science/ml/runtime)
 - [X] [On DVC](https://gitlost-murali.github.io/blogs/python/tooling/dvc)
 - [ ] [`3/365` Shorts - HuggingFace GitLFS, Papermill, GPU dynamic select]()
+- [ ] [Everything everywhere at once: Memory & State]()
 
 ### Financial & Career Knowledge
 - [ ] [Finance]()
