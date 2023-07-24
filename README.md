@@ -11,8 +11,13 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 ### LLM space
 
 - [X] [What are OpenAI functions](https://openai.com/blog/function-calling-and-other-api-updates)
+- [X] [LangChain docs on Memory state for LLMs & ChatLMs](https://beta.openai.com/docs/introduction)
+- [X] [The FASTEST way to build CHAT UI for LLAMA-v2](https://www.youtube.com/watch?v=PE0DQlQItro)
+- [ ] [Continuous blog on learning about building a custom LLM "SuperHot"](https://kaiokendev.github.io/til)
+- [ ] [All info about RoPE](https://kaiokendev.github.io/context)
 
 ### Software (& ML) Engineering
+- [ ] [CPU land: Quick bytes on multiprocessing, forking, paging and so on](https://cpu.land/epilogue)
 - [ ] [Dockers - `1:50:00`/`5:16:45`](https://www.youtube.com/watch?v=RSIstPUiEjY)
 - [ ] [Docker For Data Scientists](https://www.youtube.com/watch?v=0qG_0CPQhpg&feature=youtu.be)
 - [X] [Understanding CoRoutines- async & await. FastAPI docs](https://fastapi.tiangolo.com/async/#in-a-hurry)
