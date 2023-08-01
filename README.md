@@ -15,6 +15,8 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 - [X] [The FASTEST way to build CHAT UI for LLAMA-v2](https://www.youtube.com/watch?v=PE0DQlQItro)
 - [ ] [Continuous blog on learning about building a custom LLM "SuperHot"](https://kaiokendev.github.io/til)
 - [ ] [All info about RoPE](https://kaiokendev.github.io/context)
+- [X]  [Learning with code: Rotary Positional Embeddings (RoPE)](https://nn.labml.ai/transformers/rope/index.html)
+- [X] [RoPE scaling](https://kaiokendev.github.io/til#extending-context-to-8k)
 
 ### Software (& ML) Engineering
 - [ ] [CPU land: Quick bytes on multiprocessing, forking, paging and so on](https://cpu.land/epilogue)
