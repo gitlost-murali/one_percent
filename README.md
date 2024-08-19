@@ -8,9 +8,13 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   <img src="https://jamesclear.com/wp-content/uploads/2015/08/tiny-gains-graph-700x700.jpg" width="316" height="292"/>
 </p>
 
+### ML Fundamentals catchup
+- [] [Building makemore Part 3: Activations & Gradients, BatchNorm - `42:06/1:55:57`](https://www.youtube.com/watch?v=P6sfmUTpUmc)
+
+### Performance Heavy Languages
+- [] [Rust: The Rust Programming Language Book - `43/773` pages](https://doc.rust-lang.org/book/)
 
 ### LLM space
-
 - [X] [What are OpenAI functions](https://openai.com/blog/function-calling-and-other-api-updates)
 - [X] [LangChain docs on Memory state for LLMs & ChatLMs](https://beta.openai.com/docs/introduction)
 - [X] [The FASTEST way to build CHAT UI for LLAMA-v2](https://www.youtube.com/watch?v=PE0DQlQItro)
