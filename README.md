@@ -8,6 +8,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   <img src="https://jamesclear.com/wp-content/uploads/2015/08/tiny-gains-graph-700x700.jpg" width="316" height="292"/>
 </p>
 
+
 ### LLM space
 
 - [X] [What are OpenAI functions](https://openai.com/blog/function-calling-and-other-api-updates)
