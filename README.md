@@ -9,7 +9,7 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 </p>
 
 ### ML Fundamentals catchup
-- [] [Building makemore Part 3: Activations & Gradients, BatchNorm - `42:06/1:55:57`](https://www.youtube.com/watch?v=P6sfmUTpUmc)
+- [] [Building makemore Part 3: Activations & Gradients, BatchNorm - `41:06/1:55:57`](https://www.youtube.com/watch?v=P6sfmUTpUmc)
 
 ### Performance Heavy Languages
 - [] [Rust: The Rust Programming Language Book - `43/773` pages](https://doc.rust-lang.org/book/)
