@@ -8,6 +8,11 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
   <img src="https://jamesclear.com/wp-content/uploads/2015/08/tiny-gains-graph-700x700.jpg" width="316" height="292"/>
 </p>
 
+### VLM Papers
+
+- [] [Building and better understanding vision-language
+models: insights and future directions](https://arxiv.org/pdf/2408.12637)
+
 ### ML Fundamentals catchup
 - [] [Building makemore Part 3: Activations & Gradients, BatchNorm - `41:06/1:55:57`](https://www.youtube.com/watch?v=P6sfmUTpUmc)
 - [X] [Sampling - Temperature, Top-k & Top-P](https://m.youtube.com/watch?v=8ya2Zdt7_8c&pp=ygUaVG9wIGsgZGVjb2Rpbmcgc3RyYXRlZ2llcyA%3D)
