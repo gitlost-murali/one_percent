@@ -12,6 +12,8 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 
 - [] [Building and better understanding vision-language
 models: insights and future directions](https://arxiv.org/pdf/2408.12637)
+- [] [Phi3-vision](https://arxiv.org/pdf/2404.14219)
+- [] [InternLM](https://github.com/InternLM/InternLM)
 
 ### ML Fundamentals catchup
 - [] [Building makemore Part 3: Activations & Gradients, BatchNorm - `41:06/1:55:57`](https://www.youtube.com/watch?v=P6sfmUTpUmc)
