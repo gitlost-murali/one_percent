@@ -20,7 +20,7 @@ models: insights and future directions](https://arxiv.org/pdf/2408.12637)
 - [X] [Sampling - Temperature, Top-k & Top-P](https://m.youtube.com/watch?v=8ya2Zdt7_8c&pp=ygUaVG9wIGsgZGVjb2Rpbmcgc3RyYXRlZ2llcyA%3D)
 
 ### Performance Heavy Languages
-- [] [Rust: The Rust Programming Language Book - `43/773` pages](https://doc.rust-lang.org/book/)
+- [] [Rust: The Rust Programming Language Book - `78/773` pages](https://doc.rust-lang.org/book/)
 
 ### LLM space
 - [X] [What are OpenAI functions](https://openai.com/blog/function-calling-and-other-api-updates)
