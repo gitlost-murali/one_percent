@@ -23,6 +23,7 @@ models: insights and future directions](https://arxiv.org/pdf/2408.12637)
 - [] [Rust: The Rust Programming Language Book - `78/773` pages](https://doc.rust-lang.org/book/)
 
 ### LLM space
+- [Talk on practical LLM merging] [](https://www.linkedin.com/posts/maxime-labonne_crafting-the-perfect-model-fine-tuning-and-activity-7236345611296415744-PYVR?utm_source=share&utm_medium=member_android)
 - [X] [What are OpenAI functions](https://openai.com/blog/function-calling-and-other-api-updates)
 - [X] [LangChain docs on Memory state for LLMs & ChatLMs](https://beta.openai.com/docs/introduction)
 - [X] [The FASTEST way to build CHAT UI for LLAMA-v2](https://www.youtube.com/watch?v=PE0DQlQItro)
