@@ -18,13 +18,15 @@ models: insights and future directions](https://arxiv.org/pdf/2408.12637)
 ### ML Fundamentals catchup
 - [] [Building makemore Part 3: Activations & Gradients, BatchNorm - `41:06/1:55:57`](https://www.youtube.com/watch?v=P6sfmUTpUmc)
 - [X] [Sampling - Temperature, Top-k & Top-P](https://m.youtube.com/watch?v=8ya2Zdt7_8c&pp=ygUaVG9wIGsgZGVjb2Rpbmcgc3RyYXRlZ2llcyA%3D)
+- [] [LLMs in depth](https://x.com/saurabhalonee/status/1832079101122826544?t=Wfj3mOiUlklY2U42hBiU0Q&s=19)
 
 ### Performance Heavy Languages
 - [] [Rust: The Rust Programming Language Book - `78/773` pages](https://doc.rust-lang.org/book/)
 
 ### LLM space
+
 - [ML Engineering Book](https://github.com/stas00/ml-engineering)
-- [Talk on practical LLM merging] [](https://www.linkedin.com/posts/maxime-labonne_crafting-the-perfect-model-fine-tuning-and-activity-7236345611296415744-PYVR?utm_source=share&utm_medium=member_android)
+- [Talk on practical LLM merging] (https://www.linkedin.com/posts/maxime-labonne_crafting-the-perfect-model-fine-tuning-and-activity-7236345611296415744-PYVR?utm_source=share&utm_medium=member_android)
 - [X] [What are OpenAI functions](https://openai.com/blog/function-calling-and-other-api-updates)
 - [X] [LangChain docs on Memory state for LLMs & ChatLMs](https://beta.openai.com/docs/introduction)
 - [X] [The FASTEST way to build CHAT UI for LLAMA-v2](https://www.youtube.com/watch?v=PE0DQlQItro)
