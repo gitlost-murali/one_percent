@@ -23,6 +23,10 @@ models: insights and future directions](https://arxiv.org/pdf/2408.12637)
 ### Performance Heavy Languages
 - [] [Rust: The Rust Programming Language Book - `78/773` pages](https://doc.rust-lang.org/book/)
 
+### Core ML
+
+- [Physics of Language Models](https://youtu.be/bpp6Dz8N2zY?feature=shared)
+
 ### LLM space
 
 - [Turbo LoRa]()
