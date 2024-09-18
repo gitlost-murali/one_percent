@@ -42,6 +42,10 @@ models: insights and future directions](https://arxiv.org/pdf/2408.12637)
 - [X] [RoPE scaling](https://kaiokendev.github.io/til#extending-context-to-8k)
 - [] [Mastering LLMs course](https://parlance-labs.com/education/)
 
+### LLM core depths
+
+- [ ] [Torch Titan to replicate Large Scale Training](https://github.com/pytorch/torchtitan)
+
 ### Software (& ML) Engineering
 - [ ] [CPU land: Quick bytes on multiprocessing, forking, paging and so on](https://cpu.land/epilogue)
 - [ ] [Dockers - `1:50:00`/`5:16:45`](https://www.youtube.com/watch?v=RSIstPUiEjY)
