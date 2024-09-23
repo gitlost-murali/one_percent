@@ -19,6 +19,7 @@ models: insights and future directions](https://arxiv.org/pdf/2408.12637)
 - [] [Building makemore Part 3: Activations & Gradients, BatchNorm - `41:06/1:55:57`](https://www.youtube.com/watch?v=P6sfmUTpUmc)
 - [X] [Sampling - Temperature, Top-k & Top-P](https://m.youtube.com/watch?v=8ya2Zdt7_8c&pp=ygUaVG9wIGsgZGVjb2Rpbmcgc3RyYXRlZ2llcyA%3D)
 - [] [LLMs in depth](https://x.com/saurabhalonee/status/1832079101122826544?t=Wfj3mOiUlklY2U42hBiU0Q&s=19)
+- [] [Llama-2: Changes done to GPT2 to get Llama 2 and 3](https://x.com/rasbt/status/1838198287393870100?t=afJTyUeBW4g-7Lj0JAg_0Q&s=09)
 
 ### Performance Heavy Languages
 - [] [Rust: The Rust Programming Language Book - `78/773` pages](https://doc.rust-lang.org/book/)
