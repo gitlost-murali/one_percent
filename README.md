@@ -22,7 +22,7 @@ models: insights and future directions](https://arxiv.org/pdf/2408.12637)
 - [] [Llama-2: Changes done to GPT2 to get Llama 2 and 3](https://x.com/rasbt/status/1838198287393870100?t=afJTyUeBW4g-7Lj0JAg_0Q&s=09)
 
 ### Performance Heavy Languages
-- [] [Rust: The Rust Programming Language Book - `78/773` pages](https://doc.rust-lang.org/book/)
+- [] [Rust: The Rust Programming Language Book - `106/773` pages](https://doc.rust-lang.org/book/)
 
 ### Core ML
 
