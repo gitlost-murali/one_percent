@@ -46,6 +46,7 @@ models: insights and future directions](https://arxiv.org/pdf/2408.12637)
 - [X]  [Learning with code: Rotary Positional Embeddings (RoPE)](https://nn.labml.ai/transformers/rope/index.html)
 - [X] [RoPE scaling](https://kaiokendev.github.io/til#extending-context-to-8k)
 - [] [Mastering LLMs course](https://parlance-labs.com/education/)
+- [] [LLM.int8() and Emergent Features](https://timdettmers.com/2022/08/17/llm-int8-and-emergent-features/)
 
 ### LLM core depths
 
