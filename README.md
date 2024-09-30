@@ -30,6 +30,7 @@ models: insights and future directions](https://arxiv.org/pdf/2408.12637)
 
 ### LLM space
 
+- [X][Understanding k-quants](https://github.com/ggerganov/llama.cpp/pull/1684)
 - [1.5 bit quantization](https://huggingface.co/blog/1_58_llm_extreme_quantization?s=09)
 - [Turbo LoRa]()
 - [Flex Attention]()
