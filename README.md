@@ -30,12 +30,13 @@ models: insights and future directions](https://arxiv.org/pdf/2408.12637)
 
 ### LLM space
 
+- [][`40%`- how to make llms go fast by [vgel]](https://vgel.me/posts/faster-inference/)
 - [X][Understanding k-quants](https://github.com/ggerganov/llama.cpp/pull/1684)
-- [1.5 bit quantization](https://huggingface.co/blog/1_58_llm_extreme_quantization?s=09)
-- [Turbo LoRa]()
-- [Flex Attention]()
-- [ML Engineering Book](https://github.com/stas00/ml-engineering)
-- [Talk on practical LLM merging](https://www.linkedin.com/posts/maxime-labonne_crafting-the-perfect-model-fine-tuning-and-activity-7236345611296415744-PYVR?utm_source=share&utm_medium=member_android)
+- [][1.5 bit quantization](https://huggingface.co/blog/1_58_llm_extreme_quantization?s=09)
+- [][Turbo LoRa]()
+- [][Flex Attention]()
+- [][ML Engineering Book](https://github.com/stas00/ml-engineering)
+- [][Talk on practical LLM merging](https://www.linkedin.com/posts/maxime-labonne_crafting-the-perfect-model-fine-tuning-and-activity-7236345611296415744-PYVR?utm_source=share&utm_medium=member_android)
 - [X] [What are OpenAI functions](https://openai.com/blog/function-calling-and-other-api-updates)
 - [X] [LangChain docs on Memory state for LLMs & ChatLMs](https://beta.openai.com/docs/introduction)
 - [X] [The FASTEST way to build CHAT UI for LLAMA-v2](https://www.youtube.com/watch?v=PE0DQlQItro)
