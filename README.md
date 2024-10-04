@@ -52,6 +52,7 @@ models: insights and future directions](https://arxiv.org/pdf/2408.12637)
 ### LLM core depths
 
 - [ ] [Torch Titan to replicate Large Scale Training](https://github.com/pytorch/torchtitan)
+- [] [GPU mode conference](https://youtu.be/FH5wiwOyPX4?feature=shared)
 
 ### Software (& ML) Engineering
 - [ ] [CPU land: Quick bytes on multiprocessing, forking, paging and so on](https://cpu.land/epilogue)
