@@ -10,20 +10,20 @@ Becoming 1% better at everything I want. Starting from Aug 2nd, I will note my p
 
 ### VLM Papers
 
-- [] [Building and better understanding vision-language
+- [ ] [Building and better understanding vision-language
 models: insights and future directions](https://arxiv.org/pdf/2408.12637)
-- [] [Phi3-vision](https://arxiv.org/pdf/2404.14219)
-- [] [InternLM](https://github.com/InternLM/InternLM)
+- [ ] [Phi3-vision](https://arxiv.org/pdf/2404.14219)
+- [ ] [InternLM](https://github.com/InternLM/InternLM)
 
 ### ML Fundamentals catchup
-- [] [Building makemore Part 3: Activations & Gradients, BatchNorm - `41:06/1:55:57`](https://www.youtube.com/watch?v=P6sfmUTpUmc)
+- [ ] [Building makemore Part 3: Activations & Gradients, BatchNorm - `41:06/1:55:57`](https://www.youtube.com/watch?v=P6sfmUTpUmc)
 - [X] [Sampling - Temperature, Top-k & Top-P](https://m.youtube.com/watch?v=8ya2Zdt7_8c&pp=ygUaVG9wIGsgZGVjb2Rpbmcgc3RyYXRlZ2llcyA%3D)
-- [] [LLMs in depth](https://x.com/saurabhalonee/status/1832079101122826544?t=Wfj3mOiUlklY2U42hBiU0Q&s=19)
-- [] [Llama-2: Changes done to GPT2 to get Llama 2 and 3](https://x.com/rasbt/status/1838198287393870100?t=afJTyUeBW4g-7Lj0JAg_0Q&s=09)
-- [] [clip, siglip and paligemma by [umar-jamil]](https://www.youtube.com/watch?v=vAmKB7iPkWw)
+- [ ] [LLMs in depth](https://x.com/saurabhalonee/status/1832079101122826544?t=Wfj3mOiUlklY2U42hBiU0Q&s=19)
+- [ ] [Llama-2: Changes done to GPT2 to get Llama 2 and 3](https://x.com/rasbt/status/1838198287393870100?t=afJTyUeBW4g-7Lj0JAg_0Q&s=09)
+- [ ] [clip, siglip and paligemma by [umar-jamil]](https://www.youtube.com/watch?v=vAmKB7iPkWw)
 
 ### Performance Heavy Languages
-- [] [Rust: The Rust Programming Language Book - `106/773` pages](https://doc.rust-lang.org/book/)
+- [ ] [Rust: The Rust Programming Language Book - `106/773` pages](https://doc.rust-lang.org/book/)
 
 ### Core ML
 
@@ -31,15 +31,15 @@ models: insights and future directions](https://arxiv.org/pdf/2408.12637)
 
 ### LLM space
 
-- [] [LLM inference talk by Nvidia](https://www.linkedin.com/posts/markmoyou_understanding-the-llm-inference-workload-ugcPost-7247388672700882944-6eUH?utm_source=share&utm_medium=member_android)
-- [] [Transformers Inference Optimization Toolset](https://astralord.github.io/posts/transformer-inference-optimization-toolset/)
-- [] [`31/38`- how to make llms go fast by [vgel]](https://vgel.me/posts/faster-inference/)
+- [ ] [LLM inference talk by Nvidia](https://www.linkedin.com/posts/markmoyou_understanding-the-llm-inference-workload-ugcPost-7247388672700882944-6eUH?utm_source=share&utm_medium=member_android)
+- [ ] [Transformers Inference Optimization Toolset](https://astralord.github.io/posts/transformer-inference-optimization-toolset/)
+- [ ] [`31/38`- how to make llms go fast by [vgel]](https://vgel.me/posts/faster-inference/)
 - [X] [Understanding k-quants](https://github.com/ggerganov/llama.cpp/pull/1684)
-- [] [1.5 bit quantization](https://huggingface.co/blog/1_58_llm_extreme_quantization?s=09)
-- [] [Turbo LoRa]()
-- [] [Flex Attention]()
-- [] [ML Engineering Book](https://github.com/stas00/ml-engineering)
-- [] [Talk on practical LLM merging](https://www.linkedin.com/posts/maxime-labonne_crafting-the-perfect-model-fine-tuning-and-activity-7236345611296415744-PYVR?utm_source=share&utm_medium=member_android)
+- [ ] [1.5 bit quantization](https://huggingface.co/blog/1_58_llm_extreme_quantization?s=09)
+- [ ] [Turbo LoRa]()
+- [ ] [Flex Attention]()
+- [ ] [ML Engineering Book](https://github.com/stas00/ml-engineering)
+- [ ] [Talk on practical LLM merging](https://www.linkedin.com/posts/maxime-labonne_crafting-the-perfect-model-fine-tuning-and-activity-7236345611296415744-PYVR?utm_source=share&utm_medium=member_android)
 - [X] [What are OpenAI functions](https://openai.com/blog/function-calling-and-other-api-updates)
 - [X] [LangChain docs on Memory state for LLMs & ChatLMs](https://beta.openai.com/docs/introduction)
 - [X] [The FASTEST way to build CHAT UI for LLAMA-v2](https://www.youtube.com/watch?v=PE0DQlQItro)
@@ -47,13 +47,13 @@ models: insights and future directions](https://arxiv.org/pdf/2408.12637)
 - [ ] [All info about RoPE](https://kaiokendev.github.io/context)
 - [X]  [Learning with code: Rotary Positional Embeddings (RoPE)](https://nn.labml.ai/transformers/rope/index.html)
 - [X] [RoPE scaling](https://kaiokendev.github.io/til#extending-context-to-8k)
-- [] [Mastering LLMs course](https://parlance-labs.com/education/)
-- [] [LLM.int8() and Emergent Features](https://timdettmers.com/2022/08/17/llm-int8-and-emergent-features/)
+- [ ] [Mastering LLMs course](https://parlance-labs.com/education/)
+- [ ] [LLM.int8() and Emergent Features](https://timdettmers.com/2022/08/17/llm-int8-and-emergent-features/)
 
 ### LLM core depths
 
 - [ ] [Torch Titan to replicate Large Scale Training](https://github.com/pytorch/torchtitan)
-- [] [GPU mode conference](https://youtu.be/FH5wiwOyPX4?feature=shared)
+- [ ] [GPU mode conference](https://youtu.be/FH5wiwOyPX4?feature=shared)
 
 ### Software (& ML) Engineering
 - [ ] [CPU land: Quick bytes on multiprocessing, forking, paging and so on](https://cpu.land/epilogue)
