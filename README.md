@@ -31,6 +31,7 @@ models: insights and future directions](https://arxiv.org/pdf/2408.12637)
 
 ### LLM space
 
+- [ ] [LLMs go brrr by first principles](https://horace.io/brrr_intro.html)
 - [ ] [LLM inference talk by Nvidia](https://www.linkedin.com/posts/markmoyou_understanding-the-llm-inference-workload-ugcPost-7247388672700882944-6eUH?utm_source=share&utm_medium=member_android)
 - [ ] [Transformers Inference Optimization Toolset](https://astralord.github.io/posts/transformer-inference-optimization-toolset/)
 - [ ] [`31/38`- how to make llms go fast by [vgel]](https://vgel.me/posts/faster-inference/)
