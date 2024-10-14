@@ -23,7 +23,7 @@ models: insights and future directions](https://arxiv.org/pdf/2408.12637)
 - [ ] [clip, siglip and paligemma by [umar-jamil]](https://www.youtube.com/watch?v=vAmKB7iPkWw)
 
 ### Performance Heavy Languages
-- [ ] [Rust: The Rust Programming Language Book - `106/773` pages](https://doc.rust-lang.org/book/)
+- [ ] [Rust: The Rust Programming Language Book - `117/773` pages](https://doc.rust-lang.org/book/)
 
 ### Core ML
 
