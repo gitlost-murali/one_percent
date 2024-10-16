@@ -21,6 +21,7 @@ models: insights and future directions](https://arxiv.org/pdf/2408.12637)
 - [ ] [LLMs in depth](https://x.com/saurabhalonee/status/1832079101122826544?t=Wfj3mOiUlklY2U42hBiU0Q&s=19)
 - [ ] [Llama-2: Changes done to GPT2 to get Llama 2 and 3](https://x.com/rasbt/status/1838198287393870100?t=afJTyUeBW4g-7Lj0JAg_0Q&s=09)
 - [ ] [clip, siglip and paligemma by [umar-jamil]](https://www.youtube.com/watch?v=vAmKB7iPkWw)
+- [ ] [Flash attention and all softmax derivates](https://www.linkedin.com/posts/yidewang_this-article-httpslnkdindbtns5kd-is-activity-7252156378499219456-wHug?utm_source=share&utm_medium=member_android)
 
 ### Performance Heavy Languages
 - [ ] [Rust: The Rust Programming Language Book - `117/773` pages](https://doc.rust-lang.org/book/)
