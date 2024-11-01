@@ -31,6 +31,8 @@ models: insights and future directions](https://arxiv.org/pdf/2408.12637)
 - [Physics of Language Models](https://youtu.be/bpp6Dz8N2zY?feature=shared)
 
 ### LLM space
+
+- [X] [Universal Assisted Generation](https://huggingface.co/blog/universal_assisted_generation)
 - [ ] [Dynamic speculative decoding](https://huggingface.co/blog/dynamic_speculation_lookahead)
 - [ ] [LLMs go brrr by first principles](https://horace.io/brrr_intro.html)
 - [ ] [LLM inference talk by Nvidia](https://www.linkedin.com/posts/markmoyou_understanding-the-llm-inference-workload-ugcPost-7247388672700882944-6eUH?utm_source=share&utm_medium=member_android)
