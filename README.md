@@ -35,6 +35,7 @@ models: insights and future directions](https://arxiv.org/pdf/2408.12637)
 
 - [ ] [Layer Skip: Early exit inference and self-speculative decoding](https://www.youtube.com/watch?v=oPxdfVVmLP8)
 - [ ] [Speculative decoding](https://blog.vllm.ai/2024/10/17/spec-decode.html)
+- [X] [.txt about how structured generation works under hood](https://blog.dottxt.co/coalescence.html)
 - [X] [Universal Assisted Generation](https://huggingface.co/blog/universal_assisted_generation)
 - [ ] [Dynamic speculative decoding](https://huggingface.co/blog/dynamic_speculation_lookahead)
 - [ ] [LLMs go brrr by first principles](https://horace.io/brrr_intro.html)
