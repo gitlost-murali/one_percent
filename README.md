@@ -22,7 +22,7 @@ models: insights and future directions](https://arxiv.org/pdf/2408.12637)
 - [ ] [Llama-2: Changes done to GPT2 to get Llama 2 and 3](https://x.com/rasbt/status/1838198287393870100?t=afJTyUeBW4g-7Lj0JAg_0Q&s=09)
 - [ ] [clip, siglip and paligemma by [umar-jamil]](https://www.youtube.com/watch?v=vAmKB7iPkWw)
 - [ ] [Flash attention and all softmax derivates](https://www.linkedin.com/posts/yidewang_this-article-httpslnkdindbtns5kd-is-activity-7252156378499219456-wHug?utm_source=share&utm_medium=member_android)
-- [ ] [`1:17:00/7:00:00` Umar Jamil - Understanding Flash Attention and Coding the Kernel with Triton](https://www.youtube.com/watch?v=zy8ChVd_oTM)
+- [ ] [`3:17:00/7:00:00` Umar Jamil - Understanding Flash Attention and Coding the Kernel with Triton](https://www.youtube.com/watch?v=zy8ChVd_oTM)
 
 ### GPU/CUDA Mode
 - [X] [`1:17:55/1:17:55` Lecture 3: Getting Started With CUDA for Python Programmers](https://www.youtube.com/watch?v=4sgKnKbR-WE)
