@@ -26,6 +26,7 @@ models: insights and future directions](https://arxiv.org/pdf/2408.12637)
 
 ### GPU/CUDA Mode
 - [X] [`1:17:55/1:17:55` Lecture 3: Getting Started With CUDA for Python Programmers](https://www.youtube.com/watch?v=4sgKnKbR-WE)
+
 ### Performance Heavy Languages
 - [ ] [Rust: The Rust Programming Language Book - `117/773` pages](https://doc.rust-lang.org/book/)
 
@@ -35,6 +36,7 @@ models: insights and future directions](https://arxiv.org/pdf/2408.12637)
 
 ### LLM space
 
+- [X] [Deepseek R1 blog: Overview on R1 training with code and outputs](https://www.philschmid.de/mini-deepseek-r1)
 - [ ] [Layer Skip: Early exit inference and self-speculative decoding](https://www.youtube.com/watch?v=oPxdfVVmLP8)
 - [ ] [Speculative decoding](https://blog.vllm.ai/2024/10/17/spec-decode.html)
 - [X] [.txt about how structured generation works under hood](https://blog.dottxt.co/coalescence.html)
